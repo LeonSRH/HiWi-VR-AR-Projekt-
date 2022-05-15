@@ -1,0 +1,15 @@
+{
+    "name": "SmartHospital",
+    "references": [
+        "GUID:ffd459e252b77b84ca52171805cf940b"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

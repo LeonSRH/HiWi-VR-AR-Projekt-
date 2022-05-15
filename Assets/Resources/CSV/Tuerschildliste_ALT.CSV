@@ -1,0 +1,2076 @@
+﻿Technische Raunmummer unten auf dem Glas;Bauteil Leitsystem auf dem Glas;Text erste Zeile (fett) -> MetaBoldRoman 36 fett;Text zweite Zeile  -> MetaNormalRoman 32Ausnahme: Dienstzimmer: MetaBoldRoman 32 fett ;Text dritte Zeile (leicht) -> MetaNormalRoman 32 nicht fett;Ebene auf dem Glas;Style ;leitende Raumnummerklein oben rechts;leitende Raumnummergroß in der Mitte;PiktogrammTürschild;Zusätzlicher Text oder Nummerauf dem Türblatt
+6420.97.710;A;Technik;Düker kalt/warm;;98;Style 1;710;;;
+6420.97.711;A;Technik;Hebeanlage;;98;Style 1;711;;;
+6420.97.720;B;Technik;Hebeanlage;;98;Style 1;720;;;
+6420.97.730;C;Technik;Hebeanlage;;98;Style 1;730;;;
+6420.97.760;F;Technik;Hebeanlage;;98;Style 1;760;;;
+6420.98.100;B;Lager ;;;98;Style 1;100;3;;
+6420.98.101;B;GPZ;Werkstatt;;98;Style 1;101;;;
+6420.98.101;B;GPZ;Werkstatt;;98;Style 1;101;;;
+6420.98.103;C;Sterilisation;Aufbereitung ;;98;Style 1;103;;;
+6420.98.103;C;Sterilisation;Aufbereitung ;;98;Style 1;103;;;
+6420.98.104;C;Reinigung;;;98;Style 1;104;;;
+6420.98.106A;B;Sterilisation;RDG - Tank;;98;Style 1;106A;;;
+6420.98.110;B;Sterilisation;Aufbereitung ;;98;Style 1;110;;;
+6420.98.106B;B;Sterilisation;Schleuse;;98;Style 1;106B;;;
+6420.98.106B;B;Sterilisation;Schleuse;;98;Style 1;106B;;;
+6420.98.110A;C;Sterilisation;Dosierpumpe;;98;Style 1;110A;;;
+6420.98.120;B;Sterilisation;Umkleide Damen;;98;Style 1;120;;Damen;
+6420.98.120;B;Sterilisation;Umkleide Damen;;98;Style 1;120;;Damen;
+6420.98.120A;B;;;;98;Style 1;120A;;;P_H
+6420.98.122;B;Sterilisation;Umkleide Herren;;98;Style 1;122;;Herren;
+6420.98.122;B;Sterilisation;Umkleide Herren;;98;Style 1;122;;Herren;
+6420.98.122A;B;;;;98;Style 1;122A;;;P_D
+6420.98.124;B;Sterilisation;Dienstzimmer;Bereichsleitung;98;Style 1;124;;;
+6420.98.126;B;Sterilisation;Lager 2;;98;Style 1;126;;;
+6420.98.126;B;Sterilisation;Lager 2;;98;Style 1;126;;;
+6420.98.128;B;Personal;;;98;Style 1;128;;;
+6420.98.130;B;Sterilisation;Schleuse;;98;Style 1;130;;;
+6420.98.130;B;Sterilisation;Schleuse;;98;Style 1;130;;;
+6420.98.132;B;Sterilisation;Lager 1;;98;Style 1;132;;;
+6420.98.132A;B;Reinigung;;;98;Style 1;132A;;;
+6420.98.400;A;Zentralumkleide;Damen Intensiv;;98;Style 1;400;;Damen;
+6420.98.400A;A;;;;98;;;;;
+6420.98.400A;A;;;;98;Style 1;400A;;;P_D
+6420.98.400B;A;;;;98;Style 1;400B;;;Piktorgramm Dusche
+6420.98.401;A;Zentralumkleide;Herren ;;98;Style 1;401;;Herren;
+6420.98.401A;A;;;;98;Style 1;401A;;;P_H
+6420.98.401A;A;;;;98;;401A;;;
+6420.98.401A;A;;;;98;;401A;;;
+6420.98.401B;A;;;;98;Style 1;401B;;;Piktogramm Dusche
+6420.98.500;E;;;;98;Style 1;500;98.500;;
+6420.98.705;A;Technik;RLT - Casino;;98;Style 1;705;;;
+6420.98.706;A;Technik;Warmwasser Casino;;98;Style 1;706;;;
+6420.98.707;A;Technik;Fettabsch Casino;;98;Style 1;707;;;
+6420.98.708;A;Technik;Südanbindung;;98;Style 1;708;;;
+6420.98.708;A;;;;98;;708;;;
+6420.98.708A;A;Technik;Südanbindung;;98;Style 1;708A;;;
+6420.98.709;A;Technik;Gasflaschen Lager;;98;Style 1;709;;;
+6420.98.710;A;Technik;Zentrale Med-Gase;;98;Style 1;710;;;
+6420.98.711;A;Technik;BT A - UV kalt;;98;Style 1;711;;;
+6420.98.715;A;Technik;RLT - A;;98;Style 1;715;;;
+6420.98.715;A;Technik;RLT - A;;98;Style 1;715;;;
+6420.98.715A;A;;;;98;;715A;;;
+6420.98.715B;A;Technik;D/Druckluft VA;;98;Style 1;715B;;;
+6420.98.715D;A;;;;98;;715D;;;
+6420.98.716;A;Technik;UV - AV;;98;Style 1;716;;;
+6420.98.717;A;Technik;UV - SV;;98;Style 1;717;;;
+6420.98.718;A;Technik;BSV;;98;Style 1;718;;;
+6420.98.718A;A;;;;98;;718A;;;
+6420.98.719;A;Technik;USV;;98;Style 1;719;;;
+6420.98.719A;A;;;;98;;719A;;;
+6420.98.719B;A;;;;98;;719B;;;
+6420.98.720;A;Technik;EDV;;98;Style 1;720;;;
+6420.98.721;A;Technik;CORE;;98;Style 1;721;;;
+6420.98.722;A;Technik;IT - SV;;98;Style 1;722;;;
+6420.98.723;A;Technik;IT - BSV;;98;Style 1;723;;;
+6420.98.724;A;Technik;Batt BSV;;98;Style 1;724;;;
+6420.98.725;A;Technik;BSV;;98;Style 1;725;;;
+6420.98.726;A;Technik;IT - BSV;;98;Style 1;726;;;
+6420.98.727;A;Technik;UV - AV;;98;Style 1;727;;;
+6420.98.728;A;Technik;UV - SV;;98;Style 1;728;;;
+6420.98.729;A;Technik;UV - AV;;98;Style 1;729;;;
+6420.98.731;A;;;;98;;731;;;
+6420.98.731B;B;;;;98;;731B;;;
+6420.98.732;A;;;;98;;732;;;
+6420.98.732B;B;;;;98;;732B;;;
+6420.98.733;A;Technik;UV - SV;;98;Style 1;733;;;
+6420.98.734;A;Technik;UV - AV;;98;Style 1;734;;;
+6420.98.735;A;Technik;EDV;;98;Style 1;735;;;
+6420.98.736;A;Technik;Rohrpostzentrale;;98;Style 1;736;;;
+6420.98.736;A;;;;98;;736;;;
+6420.98.737;B;Technik;HLS;;98;Style 1;737;;;
+6420.98.738;B;Technik;EDV;;98;Style 1;738;;;
+6420.98.740;A;Technik;;;98;Style 1;740;;;
+6420.98.740A;B;;;;98;;740A;;;
+6420.98.740A;B;;;;98;;740A;;;
+6420.98.740A;B;;;;98;;740A;;;
+6420.98.740D;B;Technik;Hybrid;;98;Style 1;740D;;;
+6420.98.740F;B;;;;98;;740F;;;
+6420.98.740F;B;;;;98;;740F;;;
+6420.98.740F;B;;;;98;;740F;;;
+6420.98.740I;C;;;;98;;740I;;;
+6420.98.740H;A;;;;98;;740H;;;
+6420.98.740H;A;;;;98;;740H;;;
+6420.98.740H;A;Technik;Schleuse;;98;Style 1;740H;;;
+6420.98.740I;C;Technik;Schleuse;;98;Style 1;740l;;;
+6420.98.740I;C;;;;98;;740I;;;
+6420.98.742;C;Technik;C - UV Warm;;98;Style 1;742;;;
+6420.98.743;C;Technik;C - UV Kalt;;98;Style 1;743;;;
+6420.98.744;C;Technik;IT - AWR;;98;Style 1;744;;;
+6420.98.745;C;Technik;RLT - Casino;;98;Style 1;745;;;
+6420.98.745A;C;;;;98;;745A;;;
+6420.98.745C;C;Technik;HLS;;98;Style 1;745C;;;
+6420.98.746;C;Technik;UV - AV;;98;Style 1;746;;;
+6420.98.747;C;Technik;UV - SV;;98;Style 1;747;;;
+6420.98.748;C;Technik;EDV;;98;Style 1;748;;;
+6420.98.749;C;Technik;IT BSV;;98;Style 1;749;;;
+6420.98.749A;C;;;;98;;749A;;;
+6420.98.749B;C;Technik;Batt;;98;Style 1;749B;;;
+6420.98.750;C;Technik;Hybrid;;98;Style 1;750;;;
+6420.98.751;C;Technik;IT - SV;;98;Style 1;751;;;
+6420.98.752;C;Technik;Hybrid;;98;Style 1;752;;;
+6420.98.754;A;Technik;Ringschluss;;98;Style 1;754;;;
+6420.98.755;F;Technik;AWT;;98;Style 1;755;;;
+6420.98.755;E;Technik;AWT;;98;Style 1;755;;;
+6420.98.755;E;Technik;AWT;;98;Style 1;755;;;
+6420.98.755A;A;Technik;AWT;;98;Style 1;755A;;;
+6420.98.756B;E;;;;98;;756B;;;
+6420.98.756B;A;;;;98;;756B;;;
+6420.98.756D;E;;;;98;;756D;;;
+6420.98.756D;A;;;;98;;756D;;;
+6420.98.761;B;Technik;BOS;;98;Style 1;761;;;
+6420.98.762;B;Technik;MSR - HZ;;98;Style 1;762;;;
+6420.98.762a;B;Technik;;;98;Style 1;762a;;;
+6420.98.763;B;Technik;Dampf-/Heizungszentrale;;98;Style 1;763;;;
+6420.98.764;E;Technik;BMZ;;98;Style 1;764;;;
+6420.98.765;E;Technik;UV - SV;;98;Style 1;765;;;
+6420.98.766;E;Technik;UV - AV;;98;Style 1;766;;;
+6420.98.767;E;;;;98;;767;;;
+6420.98.767;E;;;;98;;767;;;
+6420.98.768;E;;;;98;;768;;;
+6420.98.768;E;;;;98;;768;;;
+6420.98.770;E;Technik;RLT - E;;98;Style 1;770;;;
+6420.98.770A;E;Technik;Übergabe Wärme;;98;Style 1;770A;;;
+6420.98.770C;E;;;;98;;770C;;;
+6420.98.771;E;Technik;Ansaugbauwerk;;98;Style 1;771;;;
+6420.98.772;E;Technik;NS HV - SV;;98;Style 1;772;;;
+6420.98.772A;E;;;;98;;772A;;;
+6420.98.773;E;Technik;BSV;;98;Style 1;773;;;
+6420.98.773A;E;;;;98;;773A;;;
+6420.98.774;E;Technik;MS ;;98;Style 1;774;;;
+6420.98.775;E;;;;98;;775;;;
+6420.98.776;E;;;;98;;776;;;
+6420.98.777;E;;;;98;;777;;;
+6420.98.778;E;;;;98;;778;;;
+6420.98.779;E;Technik;NAG SR;;98;Style 1;779;;;
+6420.98.780;E;Technik;Ansaugbauwerk;;98;Style 1;780;;;
+6420.98.781;E;Technik;NS HV - AV;;98;Style 1;781;;;
+6420.98.781A;E;;;;98;;781A;;;
+6420.98.782;E;Technik;USV;;98;Style 1;782;;;
+6420.98.782A;E;;;;98;;782A;;;
+6420.98.783;E;Technik;CORE;;98;Style 1;783;;;
+6420.98.784;E;Technik;NAG Tank;;98;Style 1;784;;;
+6420.98.785;F;Technik;Kälte-/Wasserzentrale;;98;Style 1;785;;;
+6420.98.785;C;Technik;RLT - C;;98;Style 1;785;;;
+6420.98.785A;F;Technik;AWT;;98;Style 1;785A;;;
+6420.98.787;F;;;;98;;787;;;
+6420.98.787;F;;;;98;;787;;;
+6420.98.788;F;;;;98;;788;;;
+6420.98.788;F;;;;98;;788;;;
+6420.98.789;F;;;;98;;789;;;
+6420.98.789;F;Technik;Übergabe Kä/Wass;;98;Style 1;789;;;
+6420.98.790;F;Technik;RLT - F;;98;Style 1;790;;;
+6420.98.790B;F;;;;98;;790B;;;
+6420.98.791;F;Technik;Warm ;;98;Style 1;791;;;
+6420.98.791;E;;;;98;;791;;;
+6420.98.791;E;;;;98;;791;;;
+6420.98.792;F;;;;98;;792;;;
+6420.98.792;E;;;;98;;792;;;
+6420.98.792;E;;;;98;;792;;;
+6420.98.794;F2;Technik;Düker kalt/warm;;98;Style 1;794;;;
+6420.98.794A;F2;;;;98;;794A;;;
+6420.98.795;F2;;;;98;;795;;;
+6420.98.795A;F2;;;;98;;795A;;;
+6420.98.795A;F2;;;;98;;795A;;;
+6420.98.797;F2;Technik;AWT;;98;Style 1;797;;;
+6420.98.797;F2;Technik;AWT;;98;Style 1;797;;;
+6420.98.800;A;;;;98;;800;;;
+6420.98.802;B;;;;98;;802;;;
+6420.98.803;C;;;;98;;803;;;
+6420.98.803;C;;;;98;;803;;;
+6420.98.804;E;;;;98;;804;;;
+6420.98.806;F;;;;98;;806;;;
+6420.98.821;A;Technik;AWT-Vorraum;;98;Style 1;821;;;
+6420.98.822;A;;;;98;;822;;;
+6420.98.822;A;;;;98;;822;;;
+6420.98.823;A;;;;98;;823;;;
+6420.98.824;A;;;;98;;824;;;
+6420.98.825;B;;;;98;;825;;;
+6420.98.825;B;;;;98;;825;;;
+6420.98.826;E;Technik;AWT-Vorraum;;98;Style 1;826;;;
+6420.98.826;B;Technik;AWT-Vorraum;;98;Style 1;826;;;
+6420.98.827;A;;;;98;;827;;;
+6420.98.827;A;Technik;RLT-A;;98;Style 1;827;;;
+6420.98.827;A;;;;98;;827;;;
+6420.98.827;A;;;;98;;827;;;
+6420.98.827;A;;;;98;;827;;;
+6420.98.828;B;;;;98;;828;;;
+6420.98.828;B;;;;98;;828;;;
+6420.98.830;E;;;;98;;830;;;
+6420.98.830;E;;;;98;;830;;;
+6420.98.831;C;;;;98;;831;;;
+6420.98.832;B;;;;98;;832;;;
+6420.98.833;B;;;;98;;833;;;
+6420.98.833;B;;;;98;;833;;;
+6420.98.834;C;Aufzugsvorraum;;;98;Style 1;834;;;
+6420.98.835;C;;;;98;;835;;;
+6420.98.835;C;;;;98;;835;;;
+6420.98.835;C;;;;98;;835;;;
+6420.98.837;C;;;;98;;837;;;
+6420.98.837;C;;;;98;;837;;;
+6420.98.840;F;;;;98;;840;;;
+6420.98.840;E;;;;98;;840;;;
+6420.98.840;E;;;;98;;840;;;
+6420.98.841;E;;;;98;;841;;;
+6420.98.841;E;;;;98;;841;;;
+6420.98.842;E;;;;98;;842;;;
+6420.98.842;E;;;;98;;842;;;
+;;;;;;;;;;
+6420.99.001;A;Behandlung;;;99;Style 2;1;B 10;;B 10
+6420.99.001A;A;;;;99;;001A;;;P_D-H
+6420.99.002;A;Behandlung;;;99;Style 2;2;B 11;;B 11
+6420.99.002A;A;;;;99;;002A;;;P_D-H
+6420.99.004;A;Behandlung;;;99;Style 2;4;B 12;;B 12
+6420.99.005;A;Behandlung;;;99;Style 2;5;B 13;;B 13
+6420.99.007;A;Behandlung;;;99;Style 2;7;B 14;;B 14
+6420.99.008;A;Behandlung;;;99;Style 2;8;B 14;;B 15
+6420.99.010;A;Behandlung;;;99;Style 2;10;B 16;;B 16
+6420.99.011;A;Behandlung;;;99;Style 2;11;B 17;;B 17
+6420.99.014;A;Leitstelle ;Urologische Ambulanz;;99;;14;;;
+6420.99.016;A;Behandlung;;;99;Style 2;16;B 20;;B 20
+6420.99.017;A;Behandlung;;;99;Style 2;17;B 21;;B 21
+6420.99.019;A;Behandlung;;;99;Style 2;19;B 22;;B 22
+6420.99.020;A;Behandlung;;;99;Style 2;20;B 23;;B 23
+6420.99.022;A;Lager;Geräte;;99;Style 1;;1;;
+6420.99.023;A;;;;99;;;;;
+6420.99.024;A;Urologie;Röntgen;;99;Style 2;;B 24;;B 24
+6420.99.024A;A;;;;99;;;;;P_D-H
+6420.99.024B;A;;;;99;;;;;
+6420.99.026;A;Urologie;Zystoskopie;;99;Style 2;;B 25;;B 25
+6420.99.026A;A;;;;99;;;;;P_D_H
+6420.99.026B;A;;;;99;;;;;P_D-H
+6420.99.029;A;Lager;med. Bedarf;;99;Style 1;;2;;
+6420.99.033;A;Überwachung;;;99;Style 1;33;;;
+6420.99.032;A;Befundung;;;99;Style 1;33;;;
+6420.99.036;A;Diagnostische und Interventionelle Radiologie ;Befundung;;99;Style 1;36;;;
+6420.99.037;A;Gipsraum;;;99;Style 1;37;;;Gipsraum
+6420.99.038;A;Eingriffsraum;;;99;Style 1;38;;;
+6420.99.042;A;WC ;Damen;;99;Style 1;42;;P_D;P_D
+6420.99.043;A;WC ;Herren;;99;Style 1;43;;P_H;P_H
+6420.99.043;A;;;;99;;;;;
+6420.99.043;A;;;;99;;;;;
+6420.99.044;A;WC Uroflow;;;99;Style 1;44;;P_D-H;Uroflow P_D-H
+6420.99.045;A;WC Uroflow;;;99;Style 1;45;;P_D-H;Uroflow P_D-H
+6420.99.046;A;Labor;;;99;Style 1;46;;;
+6420.99.048;A;Lager;med. Bedarf;;99;Style 1;;3;;
+6420.99.049;A;Arbeitsraum rein;;;99;Style 1;51;;;
+6420.99.051;A;Arbeitsraum unrein;;;99;Style 1;51;;;
+6420.99.053;A;Schockraum;;;99;Style 1;53;;;Schockraum
+6420.99.053;A;;;;99;;;;;
+6420.99.056;A;Umkleide;Patienten;;99;Style 2;;33 CT;;33 CT
+6420.99.056A;A;;;;99;;;;;
+6420.99.056A;A;;;;99;;;;;
+6420.99.057;A;Umkleide;Patienten;;99;Style 2;;34 CT;;34 CT
+6420.99.058;A;Aufklärung;;;99;Style 2;;35 CT;;35 CT
+6420.99.058;A;;;;99;;;;;
+6420.99.058A;A;Lager;;;99;Style 1;;4;;
+6420.99.058A;A;;;;99;;;;;
+6420.99.058A;A;Lager;;;99;Style 1;;4;;
+6420.99.059;A;Aufklärung;;;99;Style 2;;36 MR;;36 MR
+6420.99.059;A;;;;99;;;;;
+6420.99.060;A;Umkleide;Patienten;;99;Style 2;;37 MR;;37 MR
+6420.99.061;A;Umkleide;Patienten;;99;Style 2;;38 MR;;38 MR
+6420.99.062;A;;;;99;;;;;
+6420.99.063;A;;;;99;;;;;(von 6420.99.063: 37 MR
+6420.99.063;A;;;;99;;;;;(von 6420.99.063: 38 MR
+6420.99.063A;A;;;;99;;;;;
+6420.99.065;A;;;;99;;;;;(von 6420.99.065) 33 CT
+6420.99.065;A;;;;99;;;;;(von 6420.99.065) 34 CT
+6420.99.066;A;Befundung;;;99;;;;;
+6420.99.067;A;Befundung;;;99;;;;;
+6420.99.070;A;Umkleide;Patienten;;99;Style 2;;39 R;;39 R
+6420.99.072;A;WC ;Damen;;99;Style 1;72;;P_D;P_D
+6420.99.073;A;WC ;Herren;;99;Style 1;73;;P_H;P_H
+6420.99.074;A;Umkleide;Patienten;;99;Style 2;;40 R;;40 R
+6420.99.075;A;Umkleide;Patienten;;99;Style 2;;41 R;;41 R
+6420.99.080;A;Röntgen ;;;99;Style 2; ;1;;B 1
+6420.99.080;A;;;;99;;;;;(von 6420.99.08) 39 R
+6420.99.081;A;;;;99;;;;;
+6420.99.081;A;;;;99;;;;;
+6420.99.081;A;;;;99;;;;;
+6420.99.082;A;Röntgen ;;;99;Style 2;;2;;B 2
+6420.99.082;A;;;;99;;;;;(von 6420.99.082) 41 R
+6420.99.082;A;;;;99;;;;;(von 6420.99.082) 40 R
+6420.99.083;A;Diagnostische und Interventionelle Radiologie ;Befundung;;99;Style 1;83;;;
+6420.99.084;A;Urologie;Dienstzimmer;Ambulanz;99;Style 1;84;;;
+6420.99.085;A;Urologie;;;99;Style 1;85;;;
+6420.99.086;A;Personal;;;99;Style 1;86;;;
+6420.99.090;A;;;;99;;;;;
+6420.99.090;A;;;;99;;;;;
+6420.99.090;A;WC Personal;Herren;;99;Style 1;90;;P_H;
+6420.99.091;A;WC Personal;Damen;;99;Style 1;91;;P_D;
+6420.99.091;A;;;;99;;;;;
+6420.99.091;A;;;;99;;;;;
+6420.99.091;A;;;;99;;;;;
+6420.99.100;A;Personal;;;99;Style 1;100;;;
+6420.99.100;A;;;;99;;;;;
+6420.99.101;A;Küche Casino;;;99;;;;;
+6420.99.102;A;Personal;;;99;Style 1;102;;;
+6420.99.102A;A;;;;99;;;;;
+6420.99.105;B;;;;99;;;;;1
+6420.99.105;B;;;;99;;;;;1
+6420.99.106;B;Waschraum;;;99;Style 1;106;;;
+6420.99.110;B;;;;99;;;;;2
+6420.99.110;B;;;;99;;;;;2
+6420.99.113;B;;;;99;;;;;3
+6420.99.113;B;;;;99;;;;;3
+6420.99.114;B;Waschraum;;;99;Style 1;114;;;
+6420.99.116;B;;;;99;;;;;4
+6420.99.116;B;;;;99;;;;;4
+6420.99.119;B;;;;99;;;;;5
+6420.99.119;B;;;;99;;;;;5
+6420.99.120;B;Türschild, kein Text ;;;99;;120;;;
+6420.99.122;B;;;;99;;;;;6
+6420.99.119;B;;;;99;;;;;
+6420.99.124;B;Dokumentation;;;99;Style 1;124;;;
+6420.99.125;B;OP;Dokumentation;;99;Style 1;125;;;
+6420.99.320;A;Lager;Geräte;;99;Style 1;;5;;
+6420.99.131;B;;;;99;;;;;E 1
+6420.99.132;B;Waschraum;;;99;Style 1;132;;;
+6420.99.133;B;;;;99;;;;;E 2
+6420.99.135;B;;;;99;;;;;E 7
+6420.99.422;A;Lager;;;99;;;7;;
+6420.99.137;B;Anästhesiologie;Funktionsraum;;99;;;1;;
+6420.99.137;B;Anästhesiologie;Funktionsraum;;99;;;2;;
+6420.99.130;B;Abstellraum ;Geräte;;99;;;1;;
+6420.99.141;B;;;;99;;;;;E 3
+6420.99.143;B;;;;99;;;;;E 4
+6420.99.145;B;;;;99;;;;;E 8
+6420.99.136;B;Abstellraum ;Geräte;;99;;;2;;
+6420.99.147;B;Dokumentation;;;99;Style 1;147;;;
+6420.99.148;B;Dokumentation;;;99;Style 1;148;;;
+6420.99.148;B;;;;99;;;;;
+6420.99.150;B;;;;99;;;;;E 9
+6420.99.140;B;Abstellraum ;Geräte;;99;Style 1;;3;;
+6420.99.152;B;;;;99;;;;;E 10
+6420.99.146;B;Abstellraum ;Geräte;;99;Style 1;;4;;
+6420.99.156;B;;;;99;;;;;E 5/6
+6420.99.157;B;Abstellraum ;Geräte / Dosimetrie;;99;Style 1;;5;;
+6420.99.161;B;Entsorgung;Instrumente;;99;Style 1;161;;;
+6420.99.161;B;Entsorgung;Instrumente;;99;Style 1;161;;;
+6420.99.163;B;;;;99;;;;;7
+6420.99.163;B;;;;99;;;;;7
+6420.99.166;B;;;;99;;;;;8
+6420.99.166;B;;;;99;;;;;8
+6420.99.166A;B;;;;99;;;;;
+6420.99.171;B;;;;99;;;;;9
+6420.99.171;B;;;;99;;;;;9
+6420.99.173;B;Waschraum;;;99;Style 1;173;;;
+6420.99.175;B;;;;99;;;;;10
+6420.99.175;B;;;;99;;;;;10
+6420.99.176;B;Dokumentation;;;99;Style 1;176;;;
+6420.99.177;B;Dokumentation;;;99;Style 1;177;;;
+6420.99.178;B;OP;Dokumentation;;99;Style 1;175;;;
+6420.99.201;B;Leitstelle OP ;;;99;;;;;
+6420.99.202;B;OP;Koordination ;Herr F. Walther;99;Style 1;202;;;
+6420.99.205;C;;;;99;;;;;11
+6420.99.205;C;;;;99;;;;;11
+6420.99.206;C;Waschraum;;;99;Style 1;206;;;
+6420.99.210;C;;;;99;;;;;12
+6420.99.210;C;;;;99;;;;;12
+6420.99.213;C;;;;99;;;;;14
+6420.99.213;C;;;;99;;;;;14
+6420.99.214;C;Waschraum;;;99;Style 1;214;;;
+6420.99.216;C;;;;99;;;;;15
+6420.99.216;C;;;;99;;;;;15
+6420.99.151;B;Abstellraum;Geräte;;99;Style 1;;6;;
+6420.99.221;C;;;;99;;;;;E 11
+6420.99.222;C;Waschraum;;;99;Style 1;222;;;
+6420.99.223;C;;;;99;;;;;E 12
+6420.99.225;C;;;;99;;;;;E 16
+6420.99.155;B;Abstellraum;Geräte;;99;Style 1;;7;;
+6420.99.227;C;Anästhesiologie;Funktionsraum;;99;Style 1;;3;;
+6420.99.227;C;Anästhesiologie;Funktionsraum;;99;Style 1;;3;;
+6420.99.367B;B;Abstellraum;Geräte;;99;Style 1;;8;;
+6420.99.231;C;;;;99;;;;;E 14/15
+6420.99.232;C;;;;99;;;;;E 17
+6420.99.233;C;Kardiotechnik;;;99;Style 1;233;;;
+6420.99.235;C;Kardiotechnik;;;99;Style 1;235;;;
+6420.99.235;C;Kardiotechnik;;;99;Style 1;235;;;
+6420.99.241;C;;;;99;;;;;16
+6420.99.241;C;;;;99;;;;;16
+6420.99.241A;C;Schaltraum;Hybrid;;99;Style 1;241A;;;
+6420.99.241A;C;Schaltraum;Hybrid;;99;Style 1;241A;;;
+6420.99.245;C;;;;99;;;;;17
+6420.99.245;C;;;;99;;;;;17
+6420.99.220;C;Abstellraum;Geräte;;99;Style 1;;9;;
+6420.99.249;C;Dokumentation;;;99;Style 1;249;;;
+6420.99.251;C;Besprechungsraum OP;;;99;Style 1;251;;;
+6420.99.226;C;Abstellraum;Geräte;;99;;;10;;
+6420.99.310;A;Leitstelle ;Zentrale Notaufnahme;;99;Style 1;310;;;
+6420.99.312;A;WC ;Barrierefrei;Wickelraum;99;Style 4;312;;P_BP_Wickeln;P_BP_Wickeln
+6420.99.313;A;WC ;Herren;;99;Style 3;313;;P_H;P_H
+6420.99.314;A;WC ;Damen;;99;Style 3;314;;P_D;P_D
+6420.99.315;A;Reinigung;;;99;Style 1;315;;;
+6420.99.316;A;Arbeitsraum unrein;;;99;Style 1;316;;;
+6420.99.230;C;Abstellraum;Geräte;;99;Style 1;;11;;
+6420.99.321;A;;;;99;;321;;;
+6420.99.324;A;;;;99;;;;;
+6420.99.324;A;Leitstelle ;Radiologie;;99;Style 1;324;;;
+6420.99.326;A;Sonografie;;;99;Style 2;;30;;30 Sonografie
+6420.99.326;A;;;;99;;;;;
+6420.99.326A;A;;;;99;;;;;
+6420.99.326A;A;;;;99;;;;;
+6420.99.329;A;Sonografie;;;99;Style 2;;31;;31 Sonografie
+6420.99.330;A;Sonografie;;;99;Style 2;;32;;32 Sonografie
+6420.99.332;A;Umkleide Personal;Herren;;99;Style 1;332;;Herren;
+6420.99.332A;A;;;;99;;;;;P_H und Dusche
+6420.99.332A;A;WC Duschen;;;99;Style 1;332A;;;
+6420.99.332A;A;;;;99;;;;;Piktogramm Dusche
+6420.99.332B;A;;;;99;;;;;P_H
+6420.99.332B;A;;;;99;;;;;P_H
+6420.99.332B;A;;;;99;;;;;P_H
+6420.99.332B;A;;;;99;;;;;P_H
+6420.99.332B;A;;;;99;;;;;P_H
+6420.99.332B;A;;;;99;;;;;P_H
+6420.99.332C;A;Waschraum;OP-Schuhe;;99;Style 1;332C;;;
+;;;;;99;;;;;
+6420.99.338;A;Personal Herren;Schleuse unrein;;99;Style 1;338;;;
+;;Personal Herren;Schleuse rein;;99;Style 1;339;;;
+6420.99.339;B;;;;99;;;;;
+6420.99.340;B;Abstellraum;OP Platten;;99;Style 1;340;;;
+6420.99.343;B;Umkleide Personal;Damen;;99;Style 1;343;;Damen;
+6420.99.343A;B;;;;99;;;;;Dusche
+6420.99.343A;B;;;;99;;;;;Dusche
+6420.99.343A;B;;;;99;;;;;Piktogramm Dusche
+6420.99.343B;B;;;;99;;;;;P_D
+6420.99.343B;B;;;;99;;;;;P_D
+6420.99.343B;B;;;;99;;;;;P_D
+6420.99.343B;B;;;;99;;;;;P_D
+6420.99.343B;B;;;;99;;;;;P_D
+6420.99.343B;B;;;;99;;;;;P_D
+6420.99.343C;B;Waschraum;OP-Schuhe;;99;Style 1;343C;;;
+;;Personal Damen;Schleuse rein;;99;Style 1;349;;;
+6420.99.349;B;;;;99;;;;;
+;;;;;99;;;;;
+6420.99.350;B;Personal Damen;Schleuse unrein;;99;Style 1;350;;;
+6420.99.355;B;Labor;Gewebeproben;;99;Style 1;355;;;
+6420.99.356;B;Abstellraum;OP Platten;;99;Style 1;356;;;
+6420.99.358;B;Abstellplatz;Betten;;99;Style 1;358;;;
+6420.99.358;B;Abstellplatz;Betten;;99;Style 1;358;;;
+6420.99.359;B;Schleuse;Umbetten 1 / 2;;99;Style 1;359;;;
+6420.99.364;B;Schleuse;Umbetten 1;;99;Style 1;364;;;
+6420.99.364;B;Schleuse;Umbetten 1;;99;Style 1;364;;;
+6420.99.365;B;Schleuse;Umbetten 2;;99;Style 1;365;;;
+6420.99.365;B;Schleuse;Umbetten 2;;99;Style 1;365;;;
+6420.99.367;B;Dokumentation Aufwachraum;;;99;Style 1;367;;;
+6420.99.367A;B;Arbeitsraum unrein;;;99;Style 1;367A;;;
+6420.99.248;C;Abstellraum;Geräte;;99;Style 1;;12;;
+6420.99.367C;B;Aufwachraum;Dienstzimmer;;99;Style 1;367C;;;
+6420.99.253;C;Abstellraum;Geräte;;99;Style 1;;13;;
+6420.99.367E;C;Aufwachraum;Kind;;99;Style 1;;1;;
+6420.99.367F;C;Aufwachraum;;;99;Style 1;;2;;
+6420.99.367G;C;Aufwachraum;;;99;Style 1;;3;;
+6420.99.367H;C;Aufwachraum;;;99;Style 1;;4;;
+6420.99.378;C;Abstellplatz;Betten;;99;Style 1;378;;;
+6420.99.378;C;Abstellplatz;Betten;;99;Style 1;378;;;
+6420.99.380;C;Schleuse;Umbetten 3;;99;Style 1;380;;;
+6420.99.380;C;Schleuse;Umbetten 3;;99;Style 1;380;;;
+6420.99.383;C;Aufbereitung;Lafetten;;99;Style 1;383;;;
+6420.99.383;C;Aufbereitung;Lafetten;;99;Style 1;383;;;
+6420.99.386;C;AWT OP;Entsorgung ;;99;Style 1;386;;;
+6420.99.387;C;AWT OP;Entsorgung ;;99;Style 1;387;;;
+6420.99.389;C;AWT OP;Versorgung;;99;Style 1;389;;;
+6420.99.390;C;AWT OP;Versorgung;;99;Style 1;390;;;
+6420.99.392;F;Personal;;;99;Style 1;392;;;
+6420.99.393;C;OP;Ärztliche Direktoren;Frau H. Waldendmaier;99;Style 1;393;;;
+6420.99.394;C;Allgemeine Bereiche;HPA, SV. Experten;;99;Style 1;394;;;
+6420.99.395;C;Reinigung;;;99;Style 1;395;;;
+6420.99.400;A;Umkleide Personal;Herren;;99;Style 1;400;;Herren;
+6420.99.400;A;Umkleide Personal;Herren;;99;Style 1;400;;Herren;
+6420.99.405;A;Umkleide Personal;Damen;;99;Style 1;405;;Damen;
+6420.99.405;A;Umkleide Personal;Damen;;99;Style 1;405;;Damen;
+6420.99.410;A;Vorbereitung DSA ;;;99;Style 2;;28 DSA;;28 DSA
+6420.99.410A;A;;;;99;;;;;
+6420.99.410A;A;Technik;DSA;;99;Style 1;410A;;;
+6420.99.410B;A;Waschraum;;;99;Style 1;410B;;;
+6420.99.410B;A;Waschraum;;;99;Style 1;410B;;;
+6420.99.413;A;;;;99;;;;;
+6420.99.413;A;Schaltraum ;DSA;;99;Style 1;413;;;
+6420.99.416;A;;;;99;;;;;
+6420.99.419;A;Vorbereitung DSA ;;;99;Style 2;;27 DSA;;27 DSA
+6420.99.419A;A;;;;99;;;;;
+6420.99.419A;A;Technik;DSA;;99;Style 1;419A;;;
+6420.99.367D;C;Lager;med. Bedarf;;99;Style 2;;6;;
+6420.99.423;A;Personal;WC / Dusche;;99;Style 1;423;;;
+6420.99.424;A;Diagnostische und Interventionelle Radiologie ;Bereitschaftsdienstzimmer MTRA;;99;Style 1;424;;;
+6420.99.426;A;Schaltraum;CT 2;;99;Style 1;426;;;
+6420.99.426;A;;;;99;;;;;
+6420.99.426;A;Technik;CT;;99;Style 1;426;;;
+6420.99.427;A;WC ;;;99;Style 3;427;;P_D-H;P_D-H
+6420.99.428;A;Umkleide;Patienten;;99;Style 2;;29 CT;;29 CT
+6420.99.429;A;;;;99;;;;;
+6420.99.429;A;CT ;;;99;Style 2;;2;;CT 2 
+6420.99.500;E;AWT;;;99;Style 1;500;;;
+6420.99.501;E;AWT;;;99;Style 1;501;;;
+6420.99.504;E;Lager;;;99;Style 2;;8;;
+6420.99.505;E;Eingriffsraum;;;99;Style 1;505;;;
+6420.99.505;E;Eingriffsraum;;;99;Style 1;505;;;
+6420.99.511;E;Lager;Wäsche;;99;Style 2;;9;;
+6420.99.512;E;Arbeitsraum;;;99;Style 1;512;;;
+6420.99.515;E;WC Personal;Herren;;99;Style 3;515;;P_H;
+6420.99.516;E;WC Personal;Damen;;99;Style 3;516;;P_D;
+6420.99.518;E;Bereitschaftsdienstzimmer;;;99;Style 2;;A;;
+6420.99.518A;E;;;;99;;;;;
+6420.99.519;E;Bereitschaftsdienstzimmer;;;99;Style 2;;B;;
+6420.99.519A;E;;;;99;;;;;
+6420.99.521;E;Lager;Geräte;;99;Style 2;;10;;
+6420.99.524;E;Intensivstation E;Chirurgie /  Anästhesiologie;Patientenzimmer;99;Style 2;;1;;1
+6420.99.527;E;Intensivstation E;Chirurgie /  Anästhesiologie;Patientenzimmer;99;Style 2;;2;;2
+6420.99.530;E;Intensivstation E;Chirurgie /  Anästhesiologie;Patientenzimmer;99;Style 2;;3;;3
+6420.99.533;E;Intensivstation E;Chirurgie /  Anästhesiologie;Patientenzimmer;99;Style 2;;4;;4
+6420.99.536;E;Intensivstation E;Chirurgie /  Anästhesiologie;Patientenzimmer;99;Style 2;;5;;5
+6420.99.539;E;Intensivstation E;Chirurgie /  Anästhesiologie;Patientenzimmer;99;Style 2;;6;;6
+6420.99.542;E;Intensivstation E;Chirurgie /  Anästhesiologie;Patientenzimmer;99;Style 2;;7;;7
+6420.99.545;E;Viszeralchirurgie / Anästhesiologie;Dienstzimmer;HPA, Experten,SV;99;Style 1;545;;;
+6420.99.546;E;Viszeralchirurgie / Anästhesiologie;Leitende Stationsärzte;;99;Style 1;549;;;
+6420.99.548;E;Viszeralchirurgie / Urologie;Dienstzimmer;Frau B. Trierweiler-Hauke;99;Style 1;548;;;
+6420.99.549;E;Viszeralchirurgie / Anästhesiologie;Dienstzimmer;Pflege;99;Style 1;549;;;
+6420.99.554;E;Arbeitsraum rein ;;;99;Style 1;554;;;
+6420.99.554;E;Arbeitsraum rein;;;99;Style 1;554;;;
+6420.99.557;E;Arbeitsraum unrein;;;99;Style 1;557;;;
+6420.99.557;E;Arbeitsraum unrein;;;99;Style 1;557;;;
+6420.99.560;E;Lager;Geräte;;99;Style 1;;11;;
+6420.99.561;E;Teeküche;;;99;Style 1;561;;;
+6420.99.563;E;Lager;;;99;Style 2;;12;;
+6420.99.563;E;Lager;;;99;Style 2;;12;;
+6420.99.566;E;Personal;;;99;Style 1;566;;;
+6420.99.566;E;Personal;;;99;Style 1;566;;;
+6420.99.569;E;WC ;Damen;;99;Style 3;569;;P_D;P_D
+6420.99.570;E;WC ;Herren;;99;Style 3;570;;P_H;P_H
+6420.99.571;E;WC ;Barrierefrei;;99;Style 3;571;;P_B;P_B
+6420.99.573;E;Lager;Geräte;;99;Style 1;;13;;
+6420.99.575;E;Besprechungsraum Intensiv;;;99;Style 1;575;;;
+6420.99.578;E;Intensivstation E;Chirurgie /  Anästhesiologie;Patientenzimmer;99;Style 2;;8;;8
+6420.99.581;E;Intensivstation E;Chirurgie /  Anästhesiologie;Patientenzimmer;99;Style 2;;9;;9
+6420.99.584;E;Intensivstation E;Chirurgie /  Anästhesiologie;Patientenzimmer;99;Style 2;;10;;10
+6420.99.587;E;Intensivstation E;Chirurgie /  Anästhesiologie;Patientenzimmer;99;Style 2;;11;;11
+6420.99.590;E;Intensivstation E;Chirurgie /  Anästhesiologie;Patientenzimmer;99;Style 2;;12;;12
+6420.99.593;E;Intensivstation E;Chirurgie /  Anästhesiologie;Patientenzimmer;99;Style 2;;13;;13
+6420.99.595;E;Intensivstation E;Chirurgie /  Anästhesiologie;Patientenzimmer;99;Style 2;;14;;14
+6420.99.598;E;Viszeralchirurgie / Anästhesiologie;Dienstzimmer;ICU Stationsärzte;99;Style 1;597;;;
+6420.99.600;E;Angehörige;;;99;Style 1;600;;;
+6420.99.602;F;;;;99;;;99.602;;
+6420.99.604;F;Aufbereitung;Dialyse;;99;Style 1;604;;;
+6420.99.604;F;Aufbereitung;Dialyse;;99;Style 1;604;;;
+6420.99.608;F;Bettenaufbereitung;;;99;Style 1;608;;;
+6420.99.608;F;Bettenaufbereitung;;;99;Style 1;608;;;
+6420.99.614;F;AWT;;;99;Style 1;614;;;
+6420.99.616;F;Reinigung;;;99;Style 1;616;;;
+6420.99.617;F;WC Personal;Herren;;99;Style 3;617;;P_H;
+6420.99.618;F;WC Personal;Damen;;99;Style 3;618;;P_D;
+6420.99.620;F;Lager;Geräte;;99;Style 2;;14;;
+6420.99.622;F;Herzchirurgie;Dienstzimmer;Assistenzärzte;99;Style 1;622;;;
+6420.99.625;F;IMC- und Intensivstation F;Herzchirurgie ;Patientenzimmer;99;Style 2;;31;;31
+6420.99.628;F;IMC- und Intensivstation F;Herzchirurgie ;Patientenzimmer;99;Style 2;;32;;32
+6420.99.631;F;IMC- und Intensivstation F;Herzchirurgie ;Patientenzimmer;99;Style 2;;33;;33
+6420.99.634;F;IMC- und Intensivstation F;Herzchirurgie ;Patientenzimmer;99;Style 2;;34;;34
+6420.99.637;F;IMC- und Intensivstation F;Herzchirurgie ;Patientenzimmer;99;Style 2;;35;;35
+6420.99.640;F;IMC- und Intensivstation F;Herzchirurgie ;Patientenzimmer;99;Style 2;;36;;36
+6420.99.643;F;IMC- und Intensivstation F;Herzchirurgie ;Patientenzimmer;99;Style 2;;37;;37
+6420.99.646;F;Herzchirurgie;zentrales Monitoring;Fachärzte;99;Style 1;646;;;
+6420.99.648;F;Herzchirurgie;Dienstzimmer;SV, HPA, Experten;99;Style 1;648;;;
+6420.99.649;F;Herzchirurgie;Stellvertretende Stationsleitung;Frau A. Brobeil;99;Style 1;649;;;
+6420.99.654;F;Arbeitsraum rein;;;99;Style 1;654;;;
+6420.99.654;F;Arbeitsraum rein;;;99;Style 1;654;;;
+6420.99.657;F;Arbeitsraum unrein;;;99;Style 1;657;;;
+6420.99.657;F;Arbeitsraum unrein;;;99;Style 1;657;;;
+6420.99.660;F;Lager;Geräte;;99;Style 2;;15;;
+6420.99.661;F;Teeküche;;;99;Style 1;661;;;
+6420.99.663;F;Lager;;;99;Style 1;;16;;
+6420.99.663;F;Lager;;;99;Style 1;;16;;
+6420.99.666;F;Personal;;;99;Style 1;666;;;
+6420.99.666;F;Personal;;;99;Style 1;666;;;
+6420.99.669;F;WC ;Damen;;99;Style 3;669;;P_D;P_D
+6420.99.670;F;WC ;Herren;;99;Style 3;670;;P_H;P_H
+6420.99.672;F;Bereitschaftsdienstzimmer;;;99;Style 2;;C;;
+6420.99.672A;F;;;;99;;;;;
+6420.99.673;F;Bereitschaftsdienstzimmer;;;99;Style 2;;D;;
+6420.99.673A;F;;;;99;;;;;
+6420.99.675;F;Lager;Geräte;;99;Style 2;;17;;
+6420.99.678;F;IMC- und Intensivstation F;Herzchirurgie ;Patientenzimmer;99;Style 2;;38;;38
+6420.99.681;F;IMC- und Intensivstation F;Herzchirurgie ;Patientenzimmer;99;Style 2;;39;;39
+6420.99.684;F;IMC- und Intensivstation F;Herzchirurgie ;Patientenzimmer;99;Style 2;;40;;40
+6420.99.687;F;IMC- und Intensivstation F;Herzchirurgie ;Patientenzimmer;99;Style 2;;41;;41
+6420.99.690;F;IMC- und Intensivstation F;Herzchirurgie ;Patientenzimmer;99;Style 2;;42;;42
+6420.99.693;F;IMC- und Intensivstation F;Herzchirurgie ;Patientenzimmer;99;Style 2;;43;;43
+6420.99.695;F;IMC- und Intensivstation F;Herzchirurgie ;Patientenzimmer;99;Style 2;;44;;44
+6420.99.697;F;Herzchirurgie;Stellvertretungen ;Frau S. KellerFrau D. Badowski-Zyla;99;Style 1;697;;;
+6420.99.698;F;Herzchirurgie;Dienstzimmer;Herr Dr. M. Verch;99;Style 1;698;;;
+6420.99.710;A;;;;99;;;;;
+6420.99.712;A;Technik;CT;;99;Style 1;712;;;
+6420.99.713;A;Technik;MRT;;99;Style 1;713;;;
+6420.99.715;A;Technik;ELT SV A;;99;Style 1;715;;;
+6420.99.716;A;Technik;ELT AV A;;99;Style 1;716;;;
+6420.99.717;A;Technik;EDV A;;99;Style 1;717;;;
+6420.99.718;A;;;;99;;;;;
+6420.99.720;A;Technik;ELT;;99;Style 1;720;;;
+6420.99.749;A;Technik;IT Raum A;;99;Style 1;749;;;
+6420.99.750;A;;;;99;;;;;
+6420.99.753;B;;;;99;;;;;
+6420.99.756;B;;;;99;;;;;
+6420.99.765;C;;;;99;;;;;
+6420.99.770;A;Technik;ELT;;99;Style 1;770;;;
+6420.99.772;A;Technik;ELT;;99;Style 1;772;;;
+6420.99.774;A;;;;99;;;;;
+6420.99.776;E;;;;99;;;;;
+6420.99.777;E;;;;99;;;;;
+6420.99.778;E;Technik;EDV E;;99;Style 1;778;;;
+6420.99.779;E;;;;99;;;;;
+6420.99.780;E;;;;99;;;;;
+6420.99.781;E;Technik;ELT SV E;;99;Style 1;781;;;
+6420.99.782;E;Technik;ELT AV E;;99;Style 1;782;;;
+6420.99.785;E;;;;99;;;;;
+6420.99.786;E;Technik;IT Raum E;;99;Style 1;786;;;
+6420.99.787;F;Technik;ELT AV F;;99;Style 1;787;;;
+6420.99.788;F;Technik;ELT SV F;;99;Style 1;788;;;
+6420.99.789;F;;;;99;;;;;
+6420.99.790;F;;;;99;;;;;
+6420.99.791;F;;;;99;;;;;
+6420.99.792;F;;;;99;;;;;
+6420.99.793;F;Technik;EDV F;;99;Style 1;793;;;
+6420.99.795;F;;;;99;;;;;
+6420.99.797;F;Technik;IT Raum F;;99;Style 1;797;;;
+6420.99.800;A;;;;99;;;;;
+6420.99.800;A;;;;99;;;;;
+6420.99.800;A;;;;99;;;;;
+6420.99.801;A;;;;99;;;;;
+6420.99.802;B;;;;99;;;;;
+6420.99.803;C;;;;99;;;;;
+6420.99.804;E;;;;99;;;;;
+6420.99.805;E;;;;99;;;;;
+6420.99.805;E;;;;99;;;;;
+6420.99.806;F;;;;99;;;;;
+6420.99.807;F;;;;99;;;;;
+6420.99.807;F;;;;99;;;;;
+6420.99.820;A;;;;99;;;;;
+6420.99.820;A;;;;99;;;;;
+6420.99.821;A;;;;99;;;;;
+6420.99.822;A;;;;99;;;;;
+6420.99.822;A;;;;99;;;;;
+6420.99.823;A;;;;99;;;;;
+6420.99.823;A;;;;99;;;;;
+6420.99.824;A;;;;99;;;;;
+6420.99.826;A;;;;99;;;;;
+6420.99.826;A;;;;99;;;;;
+6420.99.827;A;;;;99;;;;;
+6420.99.827;A;;;;99;;;;;
+6420.99.828;A;;;;99;;;;;
+6420.99.829;A;;;;99;;;;;
+6420.99.830;A;;;;99;;;;;
+6420.99.830;A;;;;99;;;;;
+6420.99.830;A;;;;99;;;;;
+6420.99.831;A;;;;99;;;;;
+6420.99.834;B;;;;99;;;;;
+6420.99.834;A;;;;99;;;;;
+6420.99.835;B;;;;99;;;;;
+6420.99.835;A;;;;99;;;;;
+6420.99.835;B;;;;99;;;;;
+6420.99.836;B;;;;99;;;;;
+6420.99.837;B;;;;99;;;;;
+6420.99.837;B;;;;99;;;;;
+6420.99.837;B;;;;99;;;;;
+6420.99.838;B;;;;99;;;;;
+6420.99.839;B;;;;99;;;;;
+6420.99.839;B;;;;99;;;;;
+6420.99.842;B;;;;99;;;;;
+6420.99.842;B;;;;99;;;;;
+6420.99.843;B;;;;99;;;;;
+6420.99.843;B;;;;99;;;;;
+6420.99.843;B;;;;99;;;;;
+6420.99.845;C;;;;99;;;;;
+6420.99.845;B;;;;99;;;;;
+6420.99.846;C;;;;99;;;;;
+6420.99.846;B;;;;99;;;;;
+6420.99.846;C;;;;99;;;;;
+6420.99.847;C;;;;99;;;;;
+6420.99.847;B;;;;99;;;;;
+6420.99.848;C;;;;99;;;;;
+6420.99.849;C;;;;99;;;;;
+6420.99.850;C;;;;99;;;;;
+6420.99.850;C;;;;99;;;;;
+6420.99.850;C;;;;99;;;;;
+6420.99.851;C;;;;99;;;;;
+6420.99.851;C;;;;99;;;;;
+6420.99.854;C;;;;99;;;;;
+6420.99.854;C;;;;99;;;;;
+6420.99.854;C;;;;99;;;;;
+6420.99.855;E;;;;99;;;;;
+6420.99.855;A;;;;99;;;;;
+6420.99.855;A;;;;99;;;;;
+6420.99.856;A;;;;99;;;;;
+6420.99.856;A;;;;99;;;;;
+6420.99.857;A;;;;99;;;;;
+6420.99.857;A;;;;99;;;;;
+6420.99.857;A;;;;99;;;;;
+6420.99.858;A;;;;99;;;;;
+6420.99.858;A;;;;99;;;;;
+6420.99.860;B;;;;99;;;;;
+6420.99.860;A;;;;99;;;;;
+6420.99.861;B;;;;99;;;;;
+6420.99.863;B;;;;99;;;;;
+6420.99.864;C;;;;99;;;;;
+6420.99.865;C;;;;99;;;;;
+6420.99.865;C;;;;99;;;;;
+6420.99.866;C;Schleuse;Umbetten 3;;99;Style 1;866;;;
+6420.99.867;F;;;;99;;;;;
+6420.99.867;E;;;;99;;;;;
+6420.99.867;E;;;;99;;;;;
+6420.99.870;A;;;;99;;;;;
+6420.99.871;A;;;;99;;;;;
+6420.99.871;A;;;;99;;;;;
+6420.99.872;A;;;;99;;;;;
+6420.99.875;E;;;;99;;;;;
+6420.99.875;E;;;;99;;;;;
+6420.99.875;E;Abstellplatz;Betten;;99;Style 1;875;;;
+6420.99.876;E;;;;99;;;;;
+6420.99.877;E;;;;99;;;;;
+6420.99.877;E;;;;99;;;;;
+6420.99.877;F;;;;99;;;;;
+6420.99.878;E;;;;99;;;;;
+6420.99.880;E;;;;99;;;;;
+6420.99.880;E;;;;99;;;;;
+6420.99.880;E;;;;99;;;;;
+6420.99.882;E;;;;99;;;;;
+6420.99.882;E;;;;99;;;;;
+6420.99.883;E;;;;99;;;;;
+6420.99.885;F;;;;99;;;;;
+6420.99.885;F;Abstellplatz;Betten;;99;Style 1;885;;;
+6420.99.886;F;;;;99;;;;;
+6420.99.886;F;;;;99;;;;;
+6420.99.886;F;;;;99;;;;;
+6420.99.887;F;;;;99;;;;;
+6420.99.887;F;;;;99;;;;;
+6420.99.887;F;;;;99;;;;;
+6420.99.888;F;;;;99;;;;;
+6420.99.888;F;;;;99;;;;;
+6420.99.889;F;;;;99;;;;;
+6420.99.890;F;;;;99;;;;;
+6420.99.891;F;;;;99;;;;;
+;;;;;;;;;;
+6420.00.001;A;;Dienstzimmer;;0;Style 1;1;;;
+6420.00.002;A;Behandlung;;;0;Style 2;;A 10;;A 10
+6420.00.004;A;Behandlung;;;0;Style 2;;A 11;;A 11
+6420.00.006;A;Behandlung;;;0;Style 2;;A 13;;A 13
+6420.00.006a;A;Behandlung;;;0;Style 2;;A 12;;A 12
+6420.00.007;A;Behandlung;;;0;Style 2;;A 14;;A 14
+6420.00.008;A;Behandlung;EKG und Lungenfunktion;;0;Style 2;;A 15;;A 15
+6420.00.010;A;Studierendensekretariat ;PJ und Wahlfachtracks;;0;Style 1;10;;;
+6420.00.013;A;Seminarraum 1;;;0;Style 1;13;;;
+6420.00.013;A;Seminarraum 1;;;0;Style 1;13;;;
+6420.00.015;A;Seminarraum 2 ;;;0;Style 1;15;;;
+6420.00.015;A;Seminarraum 2 ;;;0;Style 1;15;;;
+6420.00.017;A;Seminarraum 3;;;0;Style 1;17;;;
+6420.00.018;A;AWT;;;0;Style 1;18;;;
+6420.00.019;A;;;;0;;;;;
+6420.00.019;A;WC Personal;Herren;;0;Style 3;19;;P_H;
+6420.00.019A;A;;;;0;;;;;
+6420.00.019A;A;;;;0;;;;;
+6420.00.020;A;;;;0;;;;;
+6420.00.020;A;WC Personal;Damen;;0;Style 3;20;;P_D;
+6420.00.020A;A;;;;0;;;;;
+6420.00.020A;A;;;;0;;;;;
+6420.00.022;A;Lager;;;0;Style 2;;1;;
+6420.00.023;A;Arbeitsraum unrein;;;0;Style 1;23;;;
+6420.00.024;A;Arbeitsraum rein;;;0;Style 1;24;;;
+6420.00.026;A;Reinigung;;;0;Style 1;26;;;
+6420.00.030;A;Technikraum;;Vorbereitung;0;Style 1;26;;;
+6420.00.030;A;Technikraum;;Vorbereitung;0;Style 1;30;;;
+6420.00.030A;A;Hörsaal;Lager 1;;0;Style 1;30;;;
+6420.00.030A;A;Hörsaal;Lager 1;;0;Style 1;030A;;;
+6420.00.030B;A;Hörsaal;Lager 2;;0;Style 1;030A;;;
+6420.00.034;A;WC ;Barrierefrei;;0;Style 3;34;;P_B;P_B
+6420.00.035;A;WC ;Herren;;0;Style 3;35;;P_H;P_H
+6420.00.035A;A;;;;0;;;;;
+6420.00.035A;A;;;;0;;;;;
+6420.00.035A;A;;;;0;;;;;
+6420.00.037;A;WC ;Damen;;0;Style 3;37;;P_D;P_D
+6420.00.037;A;;;;0;;;;;
+6420.00.037;A;;;;0;;;;;
+6420.00.037;A;;;;0;;;;;
+6420.00.038;A;Reinigung;;;0;Style 1;38;;;
+6420.00.040;A;Hörsaal;;;0;Style 3;40;;barrierefrei;
+6420.00.040;A;Hörsaal;;;0;Style 3;40;;barrierefrei;
+6420.00.040;A;Hörsaal;;;0;Style 3;40;;barrierefrei;
+6420.00.040;A;Hörsaal;Projektionsraum;;0;Style 1;40;;;
+6420.00.040;A;Hörsaal;Projektionsraum;;0;Style 1;40;;;
+6420.00.040;A;Hörsaal;Projektionsraum;;0;Style 1;40;;;
+6420.00.046;A;HeiCuMed Chirurgie;;;0;Style 1;46;;;
+6420.00.047;A;HeiCuMed;;;0;Style 1;47;;;
+6420.00.050;A;;;;0;;;;;
+6420.00.050;A;Warten;A3;;0;Style 3;50;;warten;
+6420.00.052;A;Warten;A4;;0;Style 3;52;;warten;
+6420.00.052;A;;;;0;;;;;
+6420.00.053;A;Behandlung;;;0;Style 2;;A 16;;A 16
+6420.00.055;A;Behandlung;;;0;Style 2;;A 17;;A 17
+6420.00.055;A;;;;0;;;;;
+6420.00.056;A;Behandlung;;;0;Style 2;;A 18;;A 18
+6420.00.056A;A;WC ;Herren;;0;Style 3;056A;;P_H;P_H
+6420.00.056B;A;WC ;Damen;;0;Style 3;056B;;P_D;P_D
+6420.00.058;A;Lager;;;0;Style 2;;2;;
+6420.00.059;A;Medizintechnik;Werkstatt ZIM/MT;;0;Style 1;59;;;
+6420.00.061;A;Leitung HeiCuMed;;;0;Style 1;61;;;
+6420.00.063;A;Seminarraum 4;;;0;Style 1;63;;;
+6420.00.063.1;A;Seminarraum 5;Shared Desk Asistenten Viszeralchirurgie;;0;Style 1;063.1;;;
+6420.00.065;A;Seminarraum 6.1;;;0;Style 1;65;;;
+6420.00.065;A;Seminarraum 6.2;;;0;Style 1;65;;;
+6420.00.067;A;Seminarraum 7;Trainingszentrum Chirurgie;;0;Style 1;67;;;
+6420.00.100;B;WC ;Herren;;0;Style 3;100;;P_H;P_H
+6420.00.101;B;WC ;Damen;;0;Style 3;101;;P_D;P_D
+6420.00.102;B;Reinigung;;;0;Style 1;102;;;
+6420.00.103;B;WC Personal;Herren;;0;Style 1;103;;;
+6420.00.104;B;WC Personal;Damen;;0;Style 1;104;;;
+6420.00.106;B;EPZ;;;0;Style 2;;B 24;;B 24
+6420.00.107;B;DIR;Sprechstunde;;0;Style 2;;B 20;;B 20
+6420.00.109;B;Behandlung;GE-Sprechstunde;;0;Style 2;;B 21;;B 21
+6420.00.110;B;Behandlung;Onko-Sprechstunde;;0;Style 2;;B 22;;B 22
+6420.00.112;B;EPZ;;;0;Style 2;;B 23;;B 23
+6420.00.113;B;ÖKH Teeküche;;;0;Style 1;113;;;
+6420.00.115;B;Blutabnahme Sprechstunden;;;0;Style 1;115;;;
+6420.00.116;B;Gefäßsprechstunde;;;0;Style 2;;B 26;;B 26
+6420.00.118;B;Gefäßsprechstunde;;;0;Style 2;;B 27;;B 27
+6420.00.119;B;Behandlung;;;0;Style 2;;B 28;;B 28
+6420.00.121;B;Behandlung;;;0;Style 2;;B 29;;B 29
+6420.00.122;B;Behandlung;;;0;Style 2;;B 30;;B 30
+6420.00.124;B;Behandlung;;;0;Style 2;;B 31;;B 31
+6420.00.125;B;Behandlung;;;0;Style 2;;B 32;;B 32
+6420.00.127;B;Behandlung;;;0;Style 2;;B 33;;B 33
+6420.00.129;B;Behandlung;;;0;Style 2;;B 34;;B 34
+6420.00.131;B;Dienstzimmer;Backoffice Sprechstunden;;0;Style 1;131;;;
+6420.00.132;B;Dienstzimmer;Backoffice Sprechstunden;Frau H. Gilg Frau T. Körner ;0;Style 1;132;;;
+6420.00.134;B;Personal;;;0;Style 1;134;;;
+6420.00.137;B;Frontoffice Sprechstunden;;;0;Style 1;137;;;
+6420.00.138;B;Backoffice Sprechstunden;Dienstzimmer;;0;Style 1;138;;;
+6420.00.140;B;Allgemein-, Viszeral- und Transplantationschirurgie;Pankreaszentrum;Frau A. Teichgräber;0;Style 1;140;;;
+6420.00.141;B;Allgemein-, Viszeral- und Transplantationschirurgie;Backoffice Sprechstunden;Frau K. Gerlach;0;Style 1;141;;;
+6420.00.143;B;Behandlung;Stomatherapie;;0;Style 2;;B 35;;B 25
+6420.00.144;B;WC;Barrierefrei;;0;Style 3;144;;P_B;P_B
+6420.00.145;B;WC;;;0;Style 3;145;;P_D-H;P_D-H
+6420.00.146;B;Arbeitsraum unrein;;;0;Style 1;146;;;
+6420.00.147;B;Lager;;;0;Style 2;;3;;
+6420.00.148;B;Abstellraum;Geräte;;0;Style 2;;1;;
+6420.00.148;B;Abstellraum;Geräte;;0;Style 2;;1;;
+6420.00.150;B;Allgemein-, Viszeral- und Transplantationschirurgie;Transplantationszentrum;Frau E. DalienHerr D. Eipl;0;Style 1;150;;;
+6420.00.152;B;Lebertransplantations-Sprechstunde;;Herr N. IvacevicHerr M. Kohlhammer;0;Style 1;152;;;
+6420.00.154;B;Arbeitsraum rein;;;0;Style 1;154;;;
+6420.00.155;B;WC ;Damen;;0;Style 3;155;;P_D;P_D
+6420.00.155;B;;;;0;;;;;
+6420.00.157;B;WC ;Herren;;0;Style 3;157;;P_H;P_H
+6420.00.158;B;Reinigung;;;0;Style 1;158;;;
+6420.00.160;B;WC ;Damen;;0;Style 3;160;;P_D;P_D
+6420.00.160;B;;;;0;;;;;
+6420.00.160;B;;;;0;;;;;
+6420.00.161;B;WC ;Herren;;0;Style 3;161;;P_H;P_H
+6420.00.161;B;;;;0;;;;;
+6420.00.161;B;;;;0;;;;;
+6420.00.163;B;Behandlung;;;0;Style 2;;B 25;;B 25
+6420.00.165;B;Sprechstunde Herzchirurgie;;;0;Style 2;; B 38;; B 38
+6420.00.166;B;EPZ;;;0;Style 2;; B 39;; B 39
+6420.00.168;B;Allgemein-, Viszeral- und Transplantationschirurgie;Dienstzimmer;Herr Prof. Dr. G. Schmidmaier;0;Style 1;168;;;
+6420.00.169;B;Allgemein-, Viszeral- und Transplantationschirurgie;Leitung Ambulanz;Herr H. Schwerdt;0;Style 1;169;;;
+6420.00.170;B;;Dienstzimmer;;0;Style 1;170;;;
+6420.00.172;B;Allgemein-, Viszeral- und Transplantationschirurgie;Dienstzimmer Objektleitung;DSO;0;Style 1;172;;;
+6420.00.173;B;Unfallchirurgie;Dienstzimmer Schockraum;Herr Dr. T. Grossner;0;Style 1;173;;;
+6420.00.175;B;Allgemein-, Viszeral- und Transplantationschirurgie;Assistenzärzte;Frau Dr. L. PetersHerr Dr. F. PiankaHerr Dr. V. Lozanovski;0;Style 1;175;;;
+6420.00.176;B;Allgemein-, Viszeral- und Transplantationschirurgie;Assistenzärzte;Herr Dr. C. FranzHerr Dr. H. KenngottFrau Dr. F. Klupp;0;Style 1;176;;;
+6420.00.178;B;Allgemein-, Viszeral- und Transplantationschirurgie;Assistenzärzte;Herr Dr. P. ContinHerr Dr. H. FonouniHerr Dr. M. Al-Saeedi;0;Style 1;178;;;
+6420.00.179;B;Allgemein-, Viszeral- und Transplantationschirurgie;Dienstzimmer;Frau Y. PlagFrau S. StrutzbergFrau I. Weick;0;Style 1;179;;;
+6420.00.181;B;Allgemein-, Viszeral- und Transplantationschirurgie;Lebertransplantations-Sprechstunde;Assistenzärzte;0;Style 1;181;;;
+6420.00.200;C;WC ;barrierefrei;;0;Style 3;200;;P_B;P_B
+6420.00.201;C;Reinigung;;;0;Style 1;201;;;
+6420.00.202;C;WC Personal;Herren;;0;Style 1;202;;;
+6420.00.203;C;WC Personal;Damen;;0;Style 1;203;;;
+6420.00.205;C;Behandlung;;;0;Style 2;;C 1;;C 1
+6420.00.206;C;Lager;;;0;Style 2;;4;;
+6420.00.207;C;Teeküche;;;0;Style 1;207;;;
+6420.00.209;C;Tagesklinik;Patientenzimmer;;0;Style 2;;C2;;
+6420.00.209A;C;;;;0;;;;;
+6420.00.210;C;Tagesklinik;Patientenzimmer;;0;Style 2;;C3;;
+6420.00.210A;C;;;;0;;;;;
+6420.00.212;C;Tagesklinik;Patientenzimmer;;0;Style 2;;C4;;
+6420.00.212A;C;;;;0;;;;;
+6420.00.213;C;Tagesklinik;Patientenzimmer;;0;Style 2;;C5;;
+6420.00.213A;C;;;;0;;;;;
+6420.00.215;C;Tagesklinik;Patientenzimmer;;0;Style 2;;C6;;
+6420.00.215A;C;;;;0;;;;;
+6420.00.216;C;Tagesklinik;Patientenzimmer;;0;Style 2;;C7;;
+6420.00.216A;C;;;;0;;;;;
+6420.00.218;C;Tagesklinik;Patientenzimmer;;0;Style 2;;C8;;
+6420.00.218A;C;;;;0;;;;;
+6420.00.221;C;Tagesklinik;Stützpunkt Pflege;;0;Style 1;221;;;
+6420.00.223;C;Lager;;;0;Style 2;;5;;
+6420.00.224;C;Dienstzimmer;Dokumentation Tagesklinik;;0;Style 1;224;;;
+6420.00.226;C;Dienstzimmer;Tagesklinik;;0;Style 1;226;;;
+6420.00.228;C;Dienstzimmer;Tagesklinik;;0;Style 1;228;;;
+6420.00.229;C;Arbeitsraum unrein;;;0;Style 1;229;;;
+6420.00.231;C;Einleitung;;;0;Style 2;;E18/19;;E18/19
+6420.00.232;C;Arbeitsraum rein;;;0;Style 1;232;;;
+6420.00.234;C;Einleitung;;;0;Style 2;;E 20;;E 20
+6420.00.235;C;WC ;Herren;;0;Style 1;235;;P_H;P_H
+6420.00.238;C;Tagesklinik;Umkleide Patienten;;0;Style 1;238;;;
+6420.00.240;C;Umkleide Personal;Herren;;0;Style 3;240;;Herren;
+6420.00.240;C;Umkleide Personal;Herren;unrein;0;Style 3;240;;Herren;
+6420.00.240;C;Umkleide Personal;Herren;rein ;0;Style 3;240;;Herren;
+6420.00.240A;C;WC;;;0;Style 3;;;;P_H
+6420.00.241;C;Reinigung;;;0;Style 1;241;;;
+6420.00.242;C;Entsorgung;;;0;Style 1;242;;;
+6420.00.242;C;Entsorgung;;;0;Style 1;242;;;
+6420.00.243;C;Lager;;;0;Style 2;;6;;
+6420.00.243;C;Lager;;;0;Style 2;;6;;
+6420.00.246;C;Umkleide Personal;Damen;;0;Style 3;246;;Damen;
+6420.00.246;C;Umkleide Personal;Damen;rein;0;Style 3;246;;Damen;
+6420.00.246;C;Umkleide Personal;Damen;unrein;0;Style 3;246;;Damen;
+6420.00.246B;C;WC;;;0;Style 3;;;;P_D
+6420.00.247;C;Personal;;;0;Style 1;247;;;
+6420.00.249;C;Ambulantes Operieren;OP;;0;Style 2;;18;;18
+6420.00.250;C;Ambulantes Operieren;OP;;0;Style 2;;19;;19
+6420.00.250;C;Ambulantes Operieren;OP;;0;Style 2;;19;;19
+6420.00.252;C;Arbeitsraum unrein;;;0;Style 1;252;;;
+6420.00.253;C;Rüsten;;;0;Style 1;253;;;
+6420.00.253;C;Rüsten;;;0;Style 1;253;;;
+6420.00.254;C;Waschraum;;;0;Style 1;254;;;
+6420.00.254;C;Waschraum;;;0;Style 1;254;;;
+6420.00.256;C;Lager;Geräte;;0;Style 2;;8;;
+6420.00.257;C;Ambulantes Operieren;OP;;0;Style 2;;20;;20
+6420.00.257;C;Ambulantes Operieren;OP;;0;Style 2;;20;;20
+6420.00.259;C;Lager;Geräte;;0;Style 2;;9;;
+6420.00.261;C;Lager IMC ;;;0;Style 2;;7;;
+6420.00.262;C;;;;0;;;;;
+6420.00.300;A;Leitstelle;Sprechstunden;;0;Style 1;300;;;
+6420.00.303;B;Radiologie;RIZ;;0;Style 1;303;;;
+6420.00.305;C;Patientenverwaltung;Dienstzimmer;;0;Style 1;305;;;
+6420.00.400;A;Sozialdienst;Dienstzimmer;;0;Style 1;400;;;
+6420.00.401;A;ZPM;;Leitung DV / Prozesse;0;Style 1;401;;;
+6420.00.403;A;Sozialdienst;;Frau D. Kellmann;0;Style 1;403;;;
+6420.00.404;A;Sozialdienst;;Frau S. Heinrichs;0;Style 1;404;;;
+6420.00.406;A;Sozialdienst;Sekretariat;Frau H. Sieber;0;Style 1;406;;;
+6420.00.407;A;Zentrales Patientenmanagement ;Urologie / Gefäßchirurgie;Frau M. Fleig;0;Style 1;407;;;
+6420.00.409;A;Zentrales Patientenmanagement ;Herzchirurgie;;0;Style 1;409;;;
+6420.00.410;A;Zentrales Patientenmanagement ;Allgemein-, Viszeral- und Transplantationschirurgie ;Frau P. Treiber;0;Style 1;410;;;
+6420.00.500;E;AWT;Versorgung Entsorgung;;0;Style 1;500;;;
+6420.00.501;E;AWT;Versorgung Entsorgung;;0;Style 1;501;;;
+6420.00.502;E;Umkleide Personal;Herren;;0;Style 3;502;;Herren;
+6420.00.502A;E;;;;0;;;;;P_D
+6420.00.502B;E;;;;0;;;;;P_H
+6420.00.504;E;WC Personal;Herren;;0;Style 1;504;;;
+6420.00.505;E;WC Personal;Damen;;0;Style 1;505;;;
+6420.00.506;E;Bereitschaftsdienstzimmer;;;0;Style 2;;E;;
+6420.00.506A;E;;;;0;;;;;
+6420.00.507;E;Bereitschaftsdienstzimmer;;;0;Style 2;;F;;
+6420.00.507A;E;;;;0;;;;;
+6420.00.509;E;Bereitschaftsdienstzimmer;;;0;Style 2;;G;;
+6420.00.509A;E;;;;0;;;;;
+6420.00.510;E;Bereitschaftsdienstzimmer;;;0;Style 2;;H;;
+6420.00.510A;E;;;;0;;;;;
+6420.00.511;E;Bereitschaftsdienstzimmer;;;0;Style 2;;I;;
+6420.00.511A;E;;;;0;;;;;
+6420.00.512;E;Lager;Geräte;;0;Style 2;;11;;
+6420.00.514;E;IMC Station E;Chirurgie / Anästhesiologie;Patientenzimmer;0;Style 2;;1;;1
+6420.00.514A;E;;;;0;;;;;
+6420.00.515;E;IMC Station E;Chirurgie / Anästhesiologie;Patientenzimmer;0;Style 2;;2;;2
+6420.00.515A;E;;;;0;;;;;
+6420.00.517;E;IMC Station E;Chirurgie / Anästhesiologie;Patientenzimmer;0;Style 2;;3;;3
+6420.00.517A;E;;;;0;;;;;
+6420.00.518;E;IMC Station E;Chirurgie / Anästhesiologie;Patientenzimmer;0;Style 2;;4;;4
+6420.00.518A;E;;;;0;;;;;
+6420.00.520;E;IMC Station E;Chirurgie / Anästhesiologie;Patientenzimmer;0;Style 2;;5;;5
+6420.00.520A;E;;;;0;;;;;
+6420.00.521;E;IMC Station E;Chirurgie / Anästhesiologie;Patientenzimmer;0;Style 2;;6;;6
+6420.00.521A;E;;;;0;;;;;
+6420.00.523;E;Besprechungsraum IMC;;;0;Style 1;523;;;
+6420.00.524;E;Viszeralchirurgie;Stationsleitung;Frau B. Trierweiler-Hauke;0;Style 1;524;;;
+6420.00.526;E;Lager;Geräte;;0;Style 2;;10;;
+6420.00.526;E;Lager;Geräte;;0;Style 2;;10;;
+6420.00.529;E;Arbeitsraum rein;;;0;Style 1;529;;;
+6420.00.529;E;Arbeitsraum rein;;;0;Style 1;529;;;
+6420.00.531;E;Arbeitsraum unrein;;;0;Style 1;531;;;
+6420.00.531;E;Arbeitsraum unrein;;;0;Style 1;531;;;
+6420.00.532;E;WC /  Dusche Patienten;barrierefrei;;0;Style 3;532;;WC, Dusche, barrierefrei;P_B
+6420.00.534;E;Teeküche;;;0;Style 1;534;;;
+6420.00.537;E;Lager;Geräte;;0;Style 2;;12;;
+6420.00.537;E;Lager;Geräte;;0;Style 2;;12;;
+6420.00.539;E;Personal;;;0;Style 1;539;;;
+6420.00.539;E;Personal;;;0;Style 1;539;;;
+6420.00.541;E;WC ;Herren;;0;Style 3;541;;P_H;P_H
+6420.00.542;E;WC ;Damen;;0;Style 3;542;;P_D;P_D
+6420.00.543;E;WC ;barrierefrei;;0;Style 3;543;;P_B;P_B
+6420.00.545;E;Bereitschaftsdienstzimmer;;;0;Style 2;;J;;
+6420.00.545A;E;;;;0;;;;;
+6420.00.546;E;Bereitschaftsdienstzimmer;;;0;Style 2;;K;;
+6420.00.546A;E;;;;0;;;;;
+6420.00.548;E;Stationsärzte ;;;0;Style 1;548;;;
+6420.00.549;E;IMC Station E;Chirurgie / Anästhesiologie;Patientenzimmer;0;Style 2;;7;;7
+6420.00.549A;E;;;;0;;;;;
+6420.00.551;E;IMC Station E;Chirurgie / Anästhesiologie;Patientenzimmer;0;Style 2;;8;;8
+6420.00.551A;E;;;;0;;;;;
+6420.00.552;E;IMC Station E;Chirurgie / Anästhesiologie;Patientenzimmer;0;Style 2;;9;;9
+6420.00.552A;E;;;;0;;;;;
+6420.00.554;E;IMC Station E;Chirurgie / Anästhesiologie;Patientenzimmer;0;Style 2;;10;;10
+6420.00.554A;E;;;;0;;;;;
+6420.00.555;E;IMC Station E;Chirurgie / Anästhesiologie;Patientenzimmer;0;Style 2;;11;;11
+6420.00.555A;E;;;;0;;;;;
+6420.00.557;E;IMC Station E;Chirurgie / Anästhesiologie;Patientenzimmer;0;Style 2;;12;;12
+6420.00.557A;E;;;;0;;;;;
+6420.00.558;E;IMC Station E;Chirurgie / Anästhesiologie;Patientenzimmer;0;Style 2;;13;;13
+6420.00.558A;E;;;;0;;;;;
+6420.00.560;E;Viszeralchirurgie;Stellvertretungen;;0;Style 1;560;;;
+6420.00.561;E;Viszeralchirurgie;Dienstzimmer;Herr Dr. M. Mieth;0;Style 1;561;;;
+6420.00.600;F;Umkleide Personal;Damen;;0;Style 3;600;;Damen;
+6420.00.600;F;Umkleide Personal;Damen;;0;Style 3;600;;Damen;
+6420.00.600A;F;;;;0;;;;;P_H
+6420.00.600A;F;;;;0;;;;;
+6420.00.600A;F;;;;0;;;;;
+6420.00.601;F;AWT;Versorgung Entsorgung;;0;Style 1;601;;;
+6420.00.602;F;AWT;Versorgung Entsorgung;;0;Style 1;602;;;
+6420.00.604;F;Reinigung;;;0;Style 1;604;;;
+6420.00.605;F;WC Personal;Herren;;0;Style 3;605;;P_H;
+6420.00.606;F;WC Personal;Damen;;0;Style 3;606;;P_D;
+6420.00.607;F;Bereitschaftsdienstzimmer;;;0;Style 2;;L;;
+6420.00.607A;F;;;;0;;;;;
+6420.00.608;F;Bereitschaftsdienstzimmer;;;0;Style 2;;M;;
+6420.00.608A;F;;;;0;;;;;
+6420.00.610;F;Viszeralchirurgie/ Urologie;Shared Desk Assistenten Viszeralchirurgie;Frau S. SteinbergFrau J. VillalbaFrau E. Werthwein ;0;Style 1;610;;;
+6420.00.611;F;Station F0;Patientenzimmer;;0;Style 2;;31;;31
+6420.00.611A;F;;;;0;;;;;
+6420.00.613;F;Station F0;Patientenzimmer;;0;Style 2;;32;;32
+6420.00.613A;F;;;;0;;;;;
+6420.00.614;F;Station F0;Patientenzimmer;;0;Style 2;;33;;33
+6420.00.614A;F;;;;0;;;;;
+6420.00.616;F;Station F0;Patientenzimmer;;0;Style 2;;34;;34
+6420.00.616A;F;;;;0;;;;;
+6420.00.617;F;Station F0;Patientenzimmer;;0;Style 2;;35;;35
+6420.00.617A;F;;;;0;;;;;
+6420.00.619;F;ÖKH;;;0;Style 2;;36;;36
+6420.00.619A;F;;;;0;;;;;
+6420.00.620;F;Station F0;Patientenzimmer;;0;Style 2;;37;;37
+6420.00.620A;F;;;;0;;;;;
+6420.00.622;F;Allgemein-, Viszeral- und Transplantationschirurgie;Dienstzimmer;Stationsärzte;0;Style 1;622;;;
+6420.00.623;F;Allgemein-, Viszeral- und Transplantationschirurgie;Stellvertretungen ;;0;Style 1;623;;;
+6420.00.625;F;Allgemein-, Viszeral- und Transplantationschirurgie;DRG;Frau A. Messmer;0;Style 1;625;;;
+6420.00.627;F;Viszeralchirurgie / Urologie;Stationsleitung;Frau A . Brobeil;0;Style 1;627;;;
+6420.00.630;F;Arbeitsraum rein;;;0;Style 1;630;;;
+6420.00.630;F;Arbeitsraum rein;;;0;Style 1;630;;;
+6420.00.632;F;Arbeitsraum unrein;;;0;Style 1;632;;;
+6420.00.632;F;Arbeitsraum unrein;;;0;Style 1;632;;;
+6420.00.634;F;Teeküche;;;0;Style 1;634;;;
+6420.00.635;F;WC /  Dusche Patienten;barrierefrei;;0;Style 3;635;;WC, Dusche, barrierefrei;P_B
+6420.00.637;F;Lager;Geräte;;0;Style 2;;13;;
+6420.00.637;F;Lager;Geräte;;0;Style 2;;13;;
+6420.00.639;F;Personal;;;0;Style 1;639;;;
+6420.00.639;F;Personal;;;0;Style 1;639;;;
+6420.00.641;F;WC;Damen;;0;Style 3;641;;P_D;P_D
+6420.00.642;F;WC;Herren;;0;Style 3;642;;P_H;P_H
+6420.00.644;F;Bereitschaftsdienstzimmer;;;0;Style 2;;N;;
+6420.00.644A;F;;;;0;;;;;
+6420.00.645;F;Bereitschaftsdienstzimmer;;;0;Style 2;;O;;
+6420.00.645A;F;;;;0;;;;;
+6420.00.647;F;Bereitschaftsdienstzimmer;;;0;Style 2;;P;;
+6420.00.647A;F;;;;0;;;;;
+6420.00.648;F;Bereitschaftsdienstzimmer;;;0;Style 2;;Q;;
+6420.00.648A;F;;;;0;;;;;
+6420.00.649;F;Bereitschaftsdienstzimmer;;;0;Style 2;;R;;
+6420.00.649A;F;;;;0;;;;;
+6420.00.650;F;Lager;Geräte;;0;Style 2;;14;;
+6420.00.652;F;Station F0;Patientenzimmer;;0;Style 2;;38;;38
+6420.00.652A;F;;;;0;;;;;
+6420.00.653;F;Station F0;Patientenzimmer;;0;Style 2;;39;;39
+6420.00.653A;F;;;;0;;;;;
+6420.00.655;F;Station F0;Patientenzimmer;;0;Style 2;;40;;40
+6420.00.655A;F;;;;0;;;;;
+6420.00.656;F;Station F0;Patientenzimmer;;0;Style 2;;41;;41
+6420.00.656A;F;;;;0;;;;;
+6420.00.658;F;Station F0;Patientenzimmer;;0;Style 2;;42;;42
+6420.00.658A;F;;;;0;;;;;
+6420.00.659;F;Station F0;Patientenzimmer;;0;Style 2;;43;;43
+6420.00.659A;F;;;;0;;;;;
+6420.00.661;F;Viszeralchirurgie / Urologie;Schreibdienst;Frau Ch. KleinFrau A. Lindauer;0;Style 1;661;;;
+6420.00.662;F;Viszeralchirurgie / Urologie;Stationsleitung;;0;Style 1;662;;;
+6420.00.700;A;;;;0;;;;;
+6420.00.700;A;;;;0;;;;;
+6420.00.709;A;Technik;EDV;;0;Style 1;709;;;
+6420.00.710;A;;;;0;;;;;
+6420.00.718;A;;;;0;;;;;
+6420.00.720;A;;;;0;;;;;
+6420.00.721;A;;;;0;;;;;
+6420.00.722;A;Technik;EDV;;0;Style 1;722;;;
+6420.00.723;A;Technik;BMZ;;0;Style 1;723;;;
+6420.00.723A;A;;;;0;;;;;
+6420.00.729;B;;;;0;;;;;
+6420.00.739;C;;;;0;;;;;
+6420.00.750;A;;;;0;;;;;
+6420.00.751;A;Technik;SV;;0;Style 1;751;;;
+6420.00.752;A;Technik;AV;;0;Style 1;752;;;
+6420.00.753;B;;;;0;;;;;
+6420.00.755;B;;;;0;;;;;
+6420.00.756;B;;;;0;;;;;
+6420.00.757;B;Technik;SV;;0;Style 1;757;;;
+6420.00.757A;B;;;;0;;;;;
+6420.00.758;B;Technik;EDV;;0;Style 1;758;;;
+6420.00.760;C;Technik;EDV;;0;Style 1;760;;;
+6420.00.761;C;Technik;SV;;0;Style 1;761;;;
+6420.00.761A;C;;;;0;;;;;
+6420.00.762;C;;;;0;;;;;
+6420.00.763;C;;;;0;;;;;
+6420.00.764;C;Technik;Lager;;0;Style 1;674;;;
+6420.00.765;C;;;;0;;;;;
+6420.00.766;C;Technik;IT;;0;Style 1;766;;;
+6420.00.767;A;;;;0;;;;;
+6420.00.768;A;;;;0;;;;;
+6420.00.776;E;;;;0;;;;;
+6420.00.777;E;;;;0;;;;;
+6420.00.778;E;Technik;EDV E;;0;Style 1;778;;;
+6420.00.779;E;;;;0;;;;;
+6420.00.780;E;;;;0;;;;;
+6420.00.781;E;;;;0;;;;;
+6420.00.782;E;;;;0;;;;;
+6420.00.783;E;Technik;IT Raum;;0;Style 1;783;;;
+6420.00.785;E;;;;0;;;;;
+6420.00.787;F;;;;0;;;;;
+6420.00.788;F;;;;0;;;;;
+6420.00.789;F;;;;0;;;;;
+6420.00.790;F;;;;0;;;;;
+6420.00.791;F;;;;0;;;;;
+6420.00.792;F;;;;0;;;;;
+6420.00.793;F;Technik;EDV F;;0;Style 1;793;;;
+6420.00.794;F;Technik;IT Raum;;0;Style 1;794;;;
+6420.00.795;F;;;;0;;;;;
+6420.00.800;A;;;;0;;;;;
+6420.00.800;A;;;;0;;;;;
+6420.00.801;A;;;;0;;;;;
+6420.00.802;B;;;;0;;;;;
+6420.00.802;B;;;;0;;;;;
+6420.00.803;C;;;;0;;;;;
+6420.00.803;C;;;;0;;;;;
+6420.00.804;E;;;;0;;;;;
+6420.00.805;E;;;;0;;;;;
+6420.00.805;E;;;;0;;;;;
+6420.00.806;F;;;;0;;;;;
+6420.00.807;F;;;;0;;;;;
+6420.00.807;F;;;;0;;;;;
+6420.00.820;E;;;;0;;;;;
+6420.00.822;A;;;;0;;;;;
+6420.00.823;A;;;;0;;;;;
+6420.00.823;A;;;;0;;;;;
+6420.00.824;A;;;;0;;;;;
+6420.00.825;A;;;;0;;;;;
+6420.00.826;A;;;;0;;;;;
+6420.00.826;A;;;;0;;;;;
+6420.00.827;A;;;;0;;;;;
+6420.00.828;A;;;;0;;;;;
+6420.00.830;A;;;;0;;;;;
+6420.00.835;B;;;;0;;;;;
+6420.00.836;B;;;;0;;;;;
+6420.00.840;C;;;;0;;;;;
+6420.00.841;C;;;;0;;;;;
+6420.00.843;C;;;;0;;;;;
+6420.00.844;C;;;;0;;;;;
+6420.00.845;C;;;;0;;;;;
+6420.00.850;E;;;;0;;;;;
+6420.00.851;E;;;;0;;;;;
+6420.00.853;E;;;;0;;;;;
+6420.00.855;F;;;;0;;;;;
+6420.00.856;F;;;;0;;;;;
+6420.00.857;F;;;;0;;;;;
+6420.01.001;A;Urologie;Dienstzimmer;Assistenzärzte;1;Style 1;1;;;
+6420.01.002;A;Urologie;Dienstzimmer;Assistenzärzte;1;Style 1;2;;;
+6420.01.004;A;Urologie;Dienstzimmer;Assistenzärzte;1;Style 1;4;;;
+6420.01.005;A;Urologie;Dienstzimmer;Assistenzärzte;1;Style 1;5;;;
+6420.01.007;A;Urologie;Dienstzimmer;Assistenzärzte;1;Style 1;7;;;
+6420.01.008;A;Urologie;Dienstzimmer;Assistenzärzte;1;Style 1;8;;;
+6420.01.010;A;Urologie;Dienstzimmer;;1;Style 1;10;;;
+6420.01.011;A;Urologie;Dienstzimmer;Oberärzte;1;Style 1;11;;;
+6420.01.013;A;Urologie;Dienstzimmer;Frau C. KochFrau D. MelloFrau M. SchwindFrau K. Spitzer;1;Style 1;13;;;
+6420.01.014;A;Urologie;Dienstzimmer OA-Sekretariat;;1;Style 1;14;;;
+6420.01.016;A;Urologie;Dienstzimmer;Frau H. GutzlerFrau U. Bickelhaupt;1;Style 1;16;;;
+6420.01.017;A;Urologie;Geschäftsführender Oberarzt;Herr Dr. G. Hatiboglu;1;Style 1;17;;;
+6420.01.018;A;Urologie;Leitende Oberärztin ;Frau Dr. J. Nyarangi-Dix;1;Style 1;18;;;
+6420.01.020;A;Urologie;Ärztlicher Direktor Sekretariat;Sekretariat;1;Style 1;20;;;
+6420.01.021;A;Urologie;Ärztlicher Direktor;;1;;;;;
+6420.01.023;A;Urologie;Ärztlicher Direktor Besprechungsraum;Ärztlicher Direktor;1;Style 1;23;;;
+6420.01.025;A;AWT;Versorgung;;1;Style 1;25;;;
+6420.01.026;A;AWT;Entsorgung;;1;Style 1;26;;;
+6420.01.027;A;Casino;Kühlraum;;1;Style 1;27;;;
+6420.01.030;A;Personal;;;1;Style 1;30;;;
+6420.01.031;A;Casino;Lager;;1;Style 1;31;;;
+6420.01.032;A;Umkleide Personal;Herren;;1;Style 3;32;;Herren;
+6420.01.033;A;Umkleide Personal;Damen;;1;Style 3;33;;Damen;
+6420.01.034;A;WC Personal;Damen;;1;Style 3;34;;P_D;
+6420.01.035;A;WC Personal;Herren;;1;Style 3;35;;P_H;
+6420.01.036;A;Allgemein-, Viszeral- und Transplantationschirurgie;Leitung Chir. Ambulanz;Frau Dr. Ch. Leowardi;1;Style 1;36;;;
+6420.01.037;A;Reinigung;;;1;Style 1;37;;;
+6420.01.038;A;Personal;;;1;Style 1;38;;;
+6420.01.039;A;Kopierraum;;;1;Style 1;39;;;
+6420.01.040;A;Hörsaal;;;1;Style 1;40;;;
+6420.01.040;A;Hörsaal;;;1;Style 1;40;;;
+6420.01.041;A;;Dienstzimmer;;1;Style 1;41;;;
+6420.01.042;;Diagnostische und Interventionelle Radiologie ;Geschäftsführende Oberärztin Leiterin Sektion Abdominelle Radiologie ;Frau Prof. Dr. M. Klauß ;1;Style 1;;;;
+6420.01.043;A;Hörsaal;Projektion;;1;Style 1;43;;;
+6420.01.050;A;WC Personal;Damen;;1;Style 3;50;;P_D;
+6420.01.051;A;WC Personal;Herren;;1;Style 3;51;;P_H;
+6420.01.052;A;WC;Barrierefrei;;1;Style 3;52;;P_B;P_B
+6420.01.053;A;Medienzentrum;;;1;Style 1;53;;;
+6420.01.054;A;Medienzentrum;;;1;Style 1;54;;;
+6420.01.057;A;Diagnostische und Interventionelle Radiologie ;Leitender Oberarzt Leiter Sektion Pulmonale Radiologie ;Herr PD Dr. M. Wielpütz;1;Style 1;57;;;
+6420.01.058;A;Diagnostische und Interventionelle Radiologie ;Sekretariat;Frau K. Schröder;1;Style 1;58;;;
+6420.01.060;A;Diagnostische und Interventionelle Radiologie ;Ärztlicher Direktor Besprechungsraum;Ärztlicher Direktor;1;Style 1;60;;;
+6420.01.061;A;Diagnostische und Interventionelle Radiologie ;Ärztlicher Direktor Sekretariat;Sekretariat;1;Style 1;61;;;
+6420.01.063;A;Diagnostische und Interventionelle Radiologie ;Ärztlicher Direktor;Sekretariat;1;Style 1;61;;;
+6420.01.064;A;Diagnostische und Interventionelle Radiologie ;MTRA-Bereichsleitung;Frau H. Atmaz;1;Style 1;64;;;
+6420.01.066;A;Diagnostische und Interventionelle Radiologie ;Dienstzimmer;Herr D. Schneider;1;Style 1;66;;;
+6420.01.067;A;Diagnostische und Interventionelle Radiologie ;Dienstzimmer;Frau Dr. B. Selmi-Özer;1;Style 1;67;;;
+6420.01.069;A;Diagnostische und Interventionelle Radiologie ;Shared Desk;Herr PD Dr. M. Maier;1;Style 1;69;;;
+6420.01.070;A;Diagnostische und Interventionelle Radiologie ;Dienstzimmer;;1;Style 1;70;;;
+6420.01.072;A;Diagnostische und Interventionelle Radiologie ;Dienstzimmer;;1;Style 1;72;;;
+6420.01.075;A;Lager;;;1;Style 1;;3;;
+6420.01.076;A;Casino;Spülküche;;1;Style 1;76;;;
+6420.01.077;A;Casino;Ausgabe;;1;Style 1;77;;;
+6420.01.077;A;Casino;Ausgabe;;1;Style 1;77;;;
+6420.01.077;A;Casino;Ausgabe;;1;Style 1;77;;;
+6420.01.300;A;Anästhesiologie;Dokumentation;Frau S. HaagFrau B. Beck-MüllerFrau S. TheisFrau C. WinklerFrau S. Schrödersecker;1;Style 1;300;;;
+6420.01.304;B;Besprechungsraum 01;;;1;Style 1;304;;;
+6420.01.307;B;Reinigung;;;1;Style 1;307;;;
+6420.01.308;B;Anästhesiologie;Shared Desk III;;1;Style 1;308;;;
+6420.01.310;B;Anästhesiologie;Oberarzt;Herr Prof. Dr. J. Motsch;1;Style 1;310;;;
+6420.01.311;;Anästhesiologie;Oberarzt Leiter Sektion Notfallmedizin ;Herr Prof. Dr. E. Popp;1;Style 1;;;;
+6420.01.312;B;WC Personal;Herren;;1;Style 3;312;;P_H;
+6420.01.313;B;WC Personal;Damen;;1;Style 3;313;;P_D;
+6420.01.315;B;Anästhesiologie;Shared Desk II;Frau Dr. H. Janßen;1;Style 1;315;;;
+6420.01.317;C;Anästhesiologie;Shared Desk I;Herr Dr. Ch. EisnerHerr Dr. O. Gutzeit;1;Style 1;317;;;
+6420.01.319;C;WC;Damen;;1;Style 3;319;;P_D;P_D
+6420.01.320;C;WC;Herren;;1;Style 3;320;;P_H;P_H
+6420.01.321;C;Anästhesiologie;Dienstzimmer;Herr F. Uhle;1;Style 1;321;;;
+6420.01.322;C;Anästhesiologie;Oberärztin;Frau Dr. R. von Haken;1;Style 1;322;;;
+6420.01.324;C;WC;;;1;Style 3;324;;P_D-H;P_D-H
+6420.01.325;C;Kopierraum;;;1;Style 1;325;;;
+6420.01.326;;Allgemein-, Viszeral- und Transplantationschirurgie;Geschäftsführender Oberarzt Leiter Sektion Minimal Invasive Chirurgie ;Herr Prof. Dr. B. Müller ;1;Style 1;;;;
+6420.01.328;C;Allgemein-, Viszeral- und Transplantationschirurgie;Sekretariat Oberärzte;Frau K. Bader-Nietsch;1;Style 1;328;;;
+6420.01.329;C;;Dienstzimmer;;1;Style 1;329;;;
+6420.01.330;;Allgemein-, Viszeral- und Transplantationschirurgie;Leitender Oberarzt Leiter Sektion Pankreaschirurgie ;Herr Prof. Dr. T. Hackert ;1;Style 1;;;;
+6420.01.332;A;Zentrum für Infektiologie ;Sektion für Krankenhaus- und Umwelthygiene ;Herr F. Heckmann;1;Style 1;332;;;
+6420.01.333;A;Allg. Bereich;Besprechung;Pflegedienstleitung;1;Style 1;333;;;
+6420.01.335;A;Allg. Bereich;Dienstzimmer;Herr M. Schubert;1;Style 1;335;;;
+6420.01.336;B;Allg. Bereich;Dienstzimmer;Herr G. Zuber;1;Style 1;336;;;
+6420.01.337;B;Allg. Bereich;Dienstzimmer;Frau A. Hinkel;1;Style 1;337;;;
+6420.01.338;B;Allg. Bereich;Dienstzimmer;Frau U. Lange;1;Style 1;338;;;
+6420.01.340;B;Pflegedienstleitung;Sekretariat ;Frau P. Niemeyer;1;Style 1;340;;;
+6420.01.341;B;Pflegedienstleitung;Assistenz ;Herr M. Schmich;1;Style 1;341;;;
+6420.01.343;B;Stellv. Pflegedienstleitung;;Frau I. Farrenkopf;1;Style 1;343;;;
+6420.01.346;B;Pflegedienstleitung;;;1;;;;;
+6420.01.344;B;Pflegedienstleitung;Sekretariat;Frau J. Poljanac;1;Style 1;344;;;
+6420.01.347;B;Kaufmännische Leitung;Assistenz;Frau M. Simon;1;Style 1;347;;;
+6420.01.349;B;Kaufmännische Leitung;;;1;;;;;
+6420.01.350;B;Anästhesiologie;Dienstzimmer;Herr Dr. S. Weiterer;1;Style 1;350;;;
+6420.01.352;B;Anästhesiologie;Dienstzimmer;Herr Dr. Ph.D. J. Larmann;1;Style 1;352;;;
+6420.01.353;B;Anästhesiologie;Ärztlicher Direktor;Ärztlicher Direktor;1;Style 1;353;;;
+6420.01.356;C;Anästhesiologie;Ärztlicher Direktor Sekretariat;Sekretariat;1;Style 1;356;;;
+6420.01.355;C;Anästhesiologie;;;1;;;;;
+6420.01.357;C;Anästhesiologie;Stv. Ärztl. Direktor;Herr PD Dr. Ch. Lichtenstern;1;Style 1;357;;;
+6420.01.359;;Anästhesiologie;Leitender Oberarzt  ;Herr Prof. Dr. T. Brenner ;1;Style 1;;;;
+6420.01.360;C;Anästhesiologie;Leiter Zentrum für Schmerztherapie und Palliativmedizin;Herr Prof. Dr. H.J. Bardenheuer;1;Style 1;360;;;
+6420.01.362;;Allgemein-, Viszeral- und Transplantationschirurgie;Erster Oberarzt Leiter Sektion Endokrine Chirurgie;Herr Prof. M. Schneider ;1;Style 1;;;;
+6420.01.363;;Allgemein-, Viszeral- und Transplantationschirurgie;Erster OberarztLeiter Sektion Leberchirurgie und Transplantationschirurgie ;Herr Prof. Dr. A. Mehrabi ;1;Style 1;;;;
+6420.01.365;C;Allgemein-, Viszeral- und Transplantationschirurgie;Sekretariat;Frau A. D'Alessandro;1;Style 1;365;;;
+6420.01.366;;Allgemein-, Viszeral- und Transplantationschirurgie;Leiter Sektion Chirurgische Onkologie;;1;Style 1;;;;
+6420.01.368;;Allgemein-, Viszeral- und Transplantationschirurgie;Erster Oberarzt Leiter Sektion Endokrine Chirurgie ;Herr Prof. Dr. O. Strobel ;1;Style 1;;;;
+6420.01.369;C;Allgemein-, Viszeral- und Transplantationschirurgie;Ärztlicher Direktor Sekretariat;Sekretariat;1;Style 1;369;;;
+6420.01.371;C;Allgemein-, Viszeral- und Transplantationschirurgie;Ärztlicher Direktor Sekretariat;Sekretariat;1;Style 1;371;;;
+6420.01.372;;Allgemein-, Viszeral- und Transplantationschirurgie;Ärztlicher Direktor;;1;Stlye 1;;;;
+6420.01.373;C;Allgemein-, Viszeral- und Transplantationschirurgie;Ärztlicher Direktor Besprechungsraum;Ärztlicher Direktor;1;Style 1;373;;;
+6420.01.400;A;Bereitschaftsdienstzimmer;;;1;Style 2;;S;;
+6420.01.400A;A;;;;1;;;;;
+6420.01.401;A;Bereitschaftsdienstzimmer;;;1;Style 2;;T;;
+6420.01.401A;A;;;;1;;;;;
+6420.01.402;A;Bereitschaftsdienstzimmer;;;1;Style 2;;U;;
+6420.01.402A;A;;;;1;;;;;
+6420.01.403;A;Bereitschaftsdienstzimmer;;;1;Style 2;;V;;
+6420.01.403A;A;;;;1;;;;;
+6420.01.404;A;Bereitschaftsdienstzimmer;;;1;Style 2;;W;;
+6420.01.404A;A;;;;1;;;;;
+6420.01.405;A;Bereitschaftsdienstzimmer;;;1;Style 2;;Y;;
+6420.01.405A;A;;;;1;;;;;
+6420.01.406;A;Bereitschaftsdienstzimmer;;;1;Style 2;;Z;;
+6420.01.406A;A;;;;1;;;;;
+6420.01.407;A;;Dienstzimmer;;1;Style 1;407;;;
+6420.01.409;A;Allgemein-, Viszeral- und Transplantationschirurgie;Experten ;Frau B. Trierweiler-Hauke;1;Style 1;409;;;
+6420.01.410;A;Gefäßchirurgie und Endovaskuläre Chirurgie;Stellvertretungen;Herr A. Bender;1;Style 1;410;;;
+6420.01.500;E;AWT;;;1;Style 1;500;;;
+6420.01.504;E;Allgmein-, Viszeral- und Transplantationschirurgie ;Stationsärzte;;1;Style 1;504;;;
+6420.01.505;E;Allgmein-, Viszeral- und Transplantationschirurgie ;Stationsärzte;;1;Style 1;505;;;
+6420.01.507;E;Station E1;Behandlung;;1;Style 2;;B 1;;
+6420.01.508;E;Station E1;Behandlung;;1;Style 2;;B 2;;
+6420.01.510;E;Bettenaufbereitung;;;1;Style 1;510;;;
+6420.01.514;E;WC Personal;Herren;;1;Style 1;514;;P_H;
+6420.01.515;E;WC Personal;Damen;;1;Style 1;515;;P_D;
+6420.01.516;E;Station E1;Patientenzimmer;;1;Style 2;;101;;
+6420.01.516A;E;;;;1;;;;;
+6420.01.518;E;Station E1;Patientenzimmer;;1;Style 2;;102;;
+6420.01.518A;E;;;;1;;;;;
+6420.01.519;E;Station E1;Patientenzimmer;;1;Style 2;;103;;
+6420.01.519A;E;;;;1;;;;;
+6420.01.521;E;Station E1;Patientenzimmer;;1;Style 2;;104;;
+6420.01.521A;E;;;;1;;;;;
+6420.01.522;E;Station E1;Patientenzimmer;;1;Style 2;;105;;
+6420.01.522A;E;;;;1;;;;;
+6420.01.524;E;Station E1;Patientenzimmer;;1;Style 2;;106;;
+6420.01.524A;E;;;;1;;;;;
+6420.01.525;E;Station E1;Patientenzimmer;;1;Style 2;;107;;
+6420.01.525A;E;;;;1;;;;;
+6420.01.527;E;Station E1;Patientenzimmer;;1;Style 2;;108;;
+6420.01.527A;E;;;;1;;;;;
+6420.01.528;E;Station E1;Patientenzimmer;;1;Style 2;;109;;
+6420.01.528A;E;;;;1;;;;;
+6420.01.529;E;Station E1;Patientenzimmer;;1;Style 2;;110;;
+6420.01.529A;E;;;;1;;;;;
+6420.01.531;E;Station E1;Patientenzimmer;;1;Style 2;;111;;
+6420.01.531A;E;;;;1;;;;;
+6420.01.533;E;Allgemein-, Viszeral- und Transplantationschirurgie;Dienstzimmer;;1;Style 1;533;;;
+6420.01.535;E;Personal;;;1;Style 1;535;;;
+6420.01.537;E;Station E1;Stützpunkt;;1;Style 1;537;;;
+6420.01.537;E;Station E1;Stützpunkt;;1;Style 1;537;;;
+6420.01.537A;E;;;;1;;;;;
+6420.01.537B;E;;;;1;;;;;
+6420.01.540;E;Arbeitsraum rein;;;1;Style 1;540;;;
+6420.01.540;E;Arbeitsraum rein;;;1;Style 1;540;;;
+6420.01.542;E;Arbeitsraum unrein;;;1;Style 1;542;;;
+6420.01.542;E;Arbeitsraum unrein;;;1;Style 1;542;;;
+6420.01.544;E;Lager;med. Bedarf;;1;Style 2;;1;;
+6420.01.544;E;Lager;med. Bedarf;;1;Style 2;;1;;
+6420.01.546;E;Abstellraum;Geräte;;1;Style 2;;1;;
+6420.01.546;E;Abstellraum;Geräte;;1;Style 2;;1;;
+6420.01.548;E;Station E1;Patientenlounge;;1;Style 1;548;;;
+6420.01.548;E;Station E1;Patientenlounge;;1;Style 1;548;;;
+6420.01.550;E;WC;Barrierefrei;;1;Style 3;550;;P_B;P_B
+6420.01.551;E;WC;Damen;;1;Style 3;551;;P_D;P_D
+6420.01.552;E;WC;Herren;;1;Style 3;552;;P_H;P_H
+6420.01.553;E;Station E1;Patientenzimmer;;1;Style 2;;112;;
+6420.01.553A;E;;;;1;;;;;
+6420.01.555;E;Station E1;Patientenzimmer;;1;Style 2;;113;;
+6420.01.555A;E;;;;1;;;;;
+6420.01.556;E;Station E1;Patientenzimmer;;1;Style 2;;114;;
+6420.01.556A;E;;;;1;;;;;
+6420.01.558;E;Station E1;Patientenzimmer;;1;Style 2;;115;;
+6420.01.558A;E;;;;1;;;;;
+6420.01.559;E;Station E1;Patientenzimmer;;1;Style 2;;116;;
+6420.01.559A;E;;;;1;;;;;
+6420.01.561;E;Station E1;Patientenzimmer;;1;Style 2;;117;;
+6420.01.561A;E;;;;1;;;;;
+6420.01.562;E;Station E1;Patientenzimmer;;1;Style 2;;118;;
+6420.01.562A;E;;;;1;;;;;
+6420.01.564;E;Station E1;Patientenzimmer;;1;Style 2;;119;;
+6420.01.564A;E;;;;1;;;;;
+6420.01.565;E;Station E1;Patientenzimmer;;1;Style 2;;120;;
+6420.01.565A;E;;;;1;;;;;
+6420.01.566;E;Station E1;Patientenzimmer;;1;Style 2;;121;;
+6420.01.566A;E;;;;1;;;;;
+6420.01.568;E;Station E1;Patientenzimmer;;1;Style 2;;122;;
+6420.01.568A;E;;;;1;;;;;
+6420.01.600;F;Service;Küche;;1;Style 1;600;;;
+6420.01.600;F;Service;Küche;;1;Style 1;600;;;
+6420.01.604;F;Station F1;Behandlung;;1;Style 2;;B 1;;
+6420.01.605;F;Station F1;Behandlung;;1;Style 2;;B 2;;
+6420.01.607;F;Dienstzimmer;;Dienstplan Ärzte;1;Style 1;607;;;
+6420.01.608;F;Dienstzimmer;;;1;Style 1;608;;;
+6420.01.610;F;AWT;;;1;Style 1;610;;;
+6420.01.613;F;Reinigung;;;1;Style 1;613;;;
+6420.01.614;F;WC Personal;Herren;;1;Style 3;614;;P_H;
+6420.01.615;F;WC Personal;Damen;;1;Style 3;615;;P_D;
+6420.01.616;F;Station F1;Patientenzimmer;;1;Style 2;;131;;
+6420.01.616A;F;;;;1;;;;;
+6420.01.618;F;Station F1;Patientenzimmer;;1;Style 2;;132;;
+6420.01.618A;F;;;;1;;;;;
+6420.01.619;F;Station F1;Patientenzimmer;;1;Style 2;;133;;
+6420.01.619A;F;;;;1;;;;;
+6420.01.621;F;Station F1;Patientenzimmer;;1;Style 2;;134;;
+6420.01.621A;F;;;;1;;;;;
+6420.01.622;F;Station F1;Patientenzimmer;;1;Style 2;;135;;
+6420.01.622A;F;;;;1;;;;;
+6420.01.624;F;Station F1;Patientenzimmer;;1;Style 2;;136;;
+6420.01.624A;F;;;;1;;;;;
+6420.01.625;F;Station F1;Patientenzimmer;;1;Style 2;;137;;
+6420.01.625A;F;;;;1;;;;;
+6420.01.627;F;Station F1;Patientenzimmer;;1;Style 2;;137;;
+6420.01.627A;F;;;;1;;;;;
+6420.01.628;F;Station F1;Patientenzimmer;;1;Style 2;;139;;
+6420.01.628A;F;;;;1;;;;;
+6420.01.629;F;Station F1;Patientenzimmer;;1;Style 2;;140;;
+6420.01.629A;F;;;;1;;;;;
+6420.01.631;F;Station F1;Patientenzimmer;;1;Style 2;;141;;
+6420.01.631A;F;;;;1;;;;;
+6420.01.633;F;Personal;;;1;Style 1;633;;;
+6420.01.635;F;Gefäßchirurgie und Endovaskuläre Chirurgie;Dienstzimmer;;1;Style 1;635;;;
+6420.01.637;F;Station F1;Stützpunkt;;1;Style 1;637;;;
+6420.01.637;F;Station F1;Stützpunkt;;1;Style 1;637;;;
+6420.01.637A;F;;;;1;;;;;
+6420.01.637B;F;;;;1;;;;;
+6420.01.640;F;Arbeitsraum rein;;;1;Style 1;640;;;
+6420.01.640;F;Arbeitsraum rein;;;1;Style 1;640;;;
+6420.01.642;F;Arbeitsraum unrein;;;1;Style 1;642;;;
+6420.01.642;F;Arbeitsraum unrein;;;1;Style 1;642;;;
+6420.01.644;F;Lager;med. Bedarf;;1;Style 2;;2;;
+6420.01.646;F;Abstellraum;Geräte;;1;Style 2;;2;;
+6420.01.646;F;Abstellraum;Geräte;;1;Style 2;;2;;
+6420.01.648;F;Station F1;Patientenlounge;;1;Style 1;648;;;
+6420.01.648;F;Station F1;Patientenlounge;;1;Style 1;648;;;
+6420.01.651;F;WC;Damen;;1;Style 3;651;;P_D;P_D
+6420.01.652;F;WC;Herren;;1;Style 3;652;;P_H;P_H
+6420.01.653;F;Station F1;Patientenzimmer;;1;Style 2;;142;;
+6420.01.653A;F;;;;1;;;;;
+6420.01.655;F;Station F1;Patientenzimmer;;1;Style 2;;143;;
+6420.01.655A;F;;;;1;;;;;
+6420.01.656;F;Station F1;Patientenzimmer;;1;Style 2;;144;;
+6420.01.656A;F;;;;1;;;;;
+6420.01.658;F;Station F1;Patientenzimmer;;1;Style 2;;145;;
+6420.01.658A;F;;;;1;;;;;
+6420.01.659;F;Station F1;Patientenzimmer;;1;Style 2;;146;;
+6420.01.659A;F;;;;1;;;;;
+6420.01.661;F;Station F1;Patientenzimmer;;1;Style 2;;147;;
+6420.01.661A;F;;;;1;;;;;
+6420.01.662;F;Station F1;Patientenzimmer;;1;Style 2;;148;;
+6420.01.662A;F;;;;1;;;;;
+6420.01.664;F;Station F1;Patientenzimmer;;1;Style 2;;149;;
+6420.01.664A;F;;;;1;;;;;
+6420.01.665;F;Station F1;Patientenzimmer;;1;Style 2;;150;;
+6420.01.665A;F;;;;1;;;;;
+6420.01.666;F;Station F1;Patientenzimmer;;1;Style 2;;151;;
+6420.01.666A;F;;;;1;;;;;
+6420.01.668;F;Station F1;Patientenzimmer;;1;Style 2;;152;;
+6420.01.668A;F;;;;1;;;;;
+6420.01.710;A;;;;1;;;;;
+6420.01.712;A;Technik;EDV;;1;Style 1;712;;;
+6420.01.718;A;;;;1;;;;;
+6420.01.720;A;;;;1;;;;;
+6420.01.721;A;;;;1;;;;;
+6420.01.750;A;;;;1;;;;;
+6420.01.751;A;;;;1;;;;;
+6420.01.752;A;;;;1;;;;;
+6420.01.753;B;;;;1;;;;;
+6420.01.755;B;;;;1;;;;;
+6420.01.756;B;;;;1;;;;;
+6420.01.757;B;Technik;SV;;1;Style 1;757;;;
+6420.01.757A;B;;;;1;;;;;
+6420.01.758;B;;;;1;;;;;
+6420.01.759;B;Technik;EDV;;1;Style 1;759;;;
+6420.01.761;C;Technik;SV / AV;;1;Style 1;761;;;
+6420.01.761A;C;;;;1;;;;;
+6420.01.762;C;;;;1;;;;;
+6420.01.763;C;;;;1;;;;;
+6420.01.765;C;;;;1;;;;;
+6420.01.766;C;;;;1;;;;;
+6420.01.767;A;;;;1;;;;;
+6420.01.768;A;;;;1;;;;;
+6420.01.776;E;;;;1;;;;;
+6420.01.777;E;;;;1;;;;;
+6420.01.778;E;Technik;EDV;;1;Style 1;778;;;
+6420.01.779;E;;;;1;;;;;
+6420.01.780;E;;;;1;;;;;
+6420.01.781;E;;;;1;;;;;
+6420.01.782;E;;;;1;;;;;
+6420.01.785;E;;;;1;;;;;
+6420.01.787;F;;;;1;;;;;
+6420.01.788;F;;;;1;;;;;
+6420.01.789;F;;;;1;;;;;
+6420.01.790;F;;;;1;;;;;
+6420.01.791;F;;;;1;;;;;
+6420.01.792;F;;;;1;;;;;
+6420.01.793;F;Technik;;;1;Style 1;793;;;
+6420.01.795;F;;;;1;;;;;
+6420.01.800;A;;;;1;;;;;
+6420.01.800;A;;;;1;;;;;
+6420.01.801;A;;;;1;;;;;
+6420.01.801;A;;;;1;;;;;
+6420.01.802;B;;;;1;;;;;
+6420.01.803;C;;;;1;;;;;
+6420.01.804;E;;;;1;;;;;
+6420.01.805;E;;;;1;;;;;
+6420.01.805;E;;;;1;;;;;
+6420.01.806;F;;;;1;;;;;
+6420.01.807;F;;;;1;;;;;
+6420.01.807;F;;;;1;;;;;
+6420.01.820;A;;;;1;;;;;
+6420.01.820;A;;;;1;;;;;
+6420.01.820;A;;;;1;;;;;
+6420.01.821;A;;;;1;;;;;
+6420.01.821;A;Casino ;Vorbereitung;;1;Style 1;821;;;
+6420.01.821;A;;;;1;;;;;
+6420.01.823;A;;;;1;;;;;
+6420.01.825;A;;;;1;;;;;
+6420.01.825;A;;;;1;;;;;
+6420.01.831;B;;;;1;;;;;
+6420.01.831;B;;;;1;;;;;
+6420.01.833;C;;;;1;;;;;
+6420.01.848;A;;;;1;;;;;
+6420.01.848;A;;;;1;;;;;
+6420.01.848;A;Casino ;Terrasse;;1;Style 1;848;;;
+6420.01.848;A;Casino ;Terrasse;;1;Style 1;848;;;
+6420.01.848;A;Treppenhaus ;;;1;Style 1;848;;;
+6420.01.849;E;;;;1;;;;;
+6420.01.849;E;;;;1;;;;;
+6420.01.850;E;;;;1;;;;;
+6420.01.850;E;;;;1;;;;;
+6420.01.850;E;;;;1;;;;;
+6420.01.850;E;;;;1;;;;;
+6420.01.852;E;;;;1;;;;;
+6420.01.853;E;;;;1;;;;;
+6420.01.854;E;;;;1;;;;;
+6420.01.854;E;;;;1;;;;;
+6420.01.854;E;;;;1;;;;;
+6420.01.854;E;;;;1;;;;;
+6420.01.855;F;;;;1;;;;;
+6420.01.855;F;;;;1;;;;;
+6420.01.855;F;;;;1;;;;;
+6420.01.857;F;;;;1;;;;;
+6420.01.858;F;;;;1;;;;;
+;;;;;;;;;;
+6420.02.001;A;Allgmein-, Viszeral- und Transplantationschirurgie ;EPZ;Forschungslabor;2;Style 1;1;;;
+6420.02.002;A;Allgmein-, Viszeral- und Transplantationschirurgie ;EPZ;Forschungslabor;2;Style 1;2;;;
+6420.02.004;A;Anästhesiologie;Shared Desk Labor I;;2;Style 1;4;;;
+6420.02.005;A;Anästhesiologie;Shared Desk Labor II;;2;Style 1;5;;;
+6420.02.007;A;Labor;;;2;Style 1;7;;;
+6420.02.022;A;;;;2;;;;;
+6420.02.008;A;Anästhesiologie;;;2;Style 1;8;;;
+6420.02.010;A;Anästhesiologie;;;2;Style 1;10;;;
+6420.02.011;A;Anästhesiologie;;;2;Style 1;11;;;
+6420.02.013;A;Anästhesiologie;;;2;Style 1;13;;;
+6420.02.014;A;Gefäßchirurgie;;;2;Style 1;14;;;
+6420.02.016;A;Allgmein-, Viszeral- und Transplantationschirurgie ;MIC/3D-Drucklabor;Biodrucklabor;2;Style 1;16;;;
+6420.02.017;A;Allgmein-, Viszeral- und Transplantationschirurgie ;EPZ Forschungslabor;Forschungslabor;2;Style 1;17;;;
+6420.02.019;A;Allgmein-, Viszeral- und Transplantationschirurgie ;EPZ Forschungslabor;Forschungslabor;2;Style 1;19;;;
+6420.02.020;A;Allgmein-, Viszeral- und Transplantationschirurgie ;EPZ Forschungslabor;Forschungslabor;2;Style 1;20;;;
+6420.02.022;A;Allgmein-, Viszeral- und Transplantationschirurgie ;EPZ Forschungslabor;Forschungslabor;2;Style 1;22;;;
+6420.02.022;A;;;;2;;;;;
+6420.02.023;A;Core Unit Zellkultur;;;2;Style 1;23;;;
+6420.02.025;A;Allgmein-, Viszeral- und Transplantationschirurgie ;EPZ Forschungslabor;Forschungslabor;2;Style 2;;4;;
+6420.02.027;A;;Dienstzimmer;;2;Style 1;27;;;
+6420.02.028;A;Lager;;;2;Style 2;;5;;
+6420.02.029;A;musl. Seelsorge;Dienstzimmer;;2;Style 1;29;;;
+6420.02.030;A;Reinigung;;;2;Style 1;30;;;
+6420.02.031;A;Teeküche;;;2;Style 1;31;;;
+6420.02.033;A;Personal;;;2;Style 1;33;;;
+6420.02.033;A;Personal;;;2;Style 1;33;;;
+6420.02.035;A;Umkleide Personal;Damen;;2;Style 3;35;;Damen;
+6420.02.035;A;Umkleide Personal;Damen;;2;Style 3;35;;Damen;
+6420.02.037;A;Core Unit Immunoimaging;;;2;Style 1;37;;;
+6420.02.037;A;Core Unit ;Immunoimaging;;2;Style 1;37;;;
+6420.02.039;A;Core Unit ;Vorbereitung;;2;Style 1;39;;;
+6420.02.039;A;Labor;Spülraum;;2;Style 1;39;;;
+6420.02.041;A;Labor;Lager;;2;Style 2;;9;;
+6420.02.041;A;Labor;Lager;;2;Style 2;;10;;
+6420.02.043;A;Labor;Lager;;2;Style 2;;11;;
+6420.02.044;A;Forschung;Kühlraum;;2;Style 1;44;;;
+6420.02.045;A;Core Unit;Freezer 1;;2;Style 2;;8;;
+6420.02.046;A;Core Unit;Freezer 2;;2;Style 2;;8;;
+6420.02.047;A;Core Unit;Freezer 3;;2;Style 2;;12;;
+6420.02.048;A;Core Unit;Freezer 4;;2;Style 2;;7;;
+6420.02.049;A;Labor;Spülraum;;2;Style 1;49;;;
+6420.02.049;A;Labor;Spülraum;;2;Style 1;49;;;
+6420.02.051;A;Labor;Lager;;2;Style 2;;6;;
+6420.02.053;A;WC Personal;Herren;;2;Style 3;53;;P_H;
+6420.02.053A;A;;;;2;;;;;
+6420.02.053A;A;;;;2;;;;;
+6420.02.054;A;WC;Barrierefrei;;2;Style 3;54;;P_B;P_B
+6420.02.055;A;WC Personal;Damen;;2;Style 3;55;;P_D;
+6420.02.055A;A;;;;2;;;;;
+6420.02.057;A;Allgmein-, Viszeral- und Transplantationschirurgie ;Transl. Onko Chir ;;2;Style 1;57;;;
+6420.02.058;A;Allgmein-, Viszeral- und Transplantationschirurgie ;MIC/New Technologies;;2;Style 1;58;;;
+6420.02.059;A;Allgmein-, Viszeral- und Transplantationschirurgie ;MIC/New Technologies;;2;Style 1;59;;;
+6420.02.060;A;Allgmein-, Viszeral- und Transplantationschirurgie ;Translationale Chirurgische Onkologie;;2;Style 1;60;;;
+6420.02.061;A;Allgmein-, Viszeral- und Transplantationschirurgie ;Translationale Chirurgische Onkologie;;2;Style 1;61;;;
+6420.02.061;A;Gefäßchirurgie und Endovaskuläre Chirurgie;Translationale Gefäßchirurgie;;2;Style 1;61;;;
+6420.02.063;A;Allgmein-, Viszeral- und Transplantationschirurgie ;Exp. OP;;2;Style 1;63;;;
+6420.02.063;A;Allgmein-, Viszeral- und Transplantationschirurgie ;Exp. OP;;2;Style 1;63;;;
+6420.02.066;A;Allgmein-, Viszeral- und Transplantationschirurgie ;Translationale Chirurgische Onkologie;L12 Turhan Labor;2;Style 1;66;;;
+6420.02.067;A;Allgmein-, Viszeral- und Transplantationschirurgie ;Translationale Chirurgische Onkologie;;2;Style 1;67;;;
+6420.02.069;A;Allgmein-, Viszeral- und Transplantationschirurgie ;Translationale Chirurgische Onkologie;;2;Style 1;69;;;
+6420.02.070;A;Allgmein-, Viszeral- und Transplantationschirurgie ;;;2;Style 1;70;;;
+6420.02.072;A;Core Unit ICH/Histologie ;;;2;Style 1;72;;;
+6420.02.073;A;Core Unit Gewebeverarbeitung;;;2;Style 1;73;;;
+6420.02.075;A;Allgmein-, Viszeral- und Transplantationschirurgie ;EPZ;;2;Style 1;75;;;
+6420.02.300;A;Allgmein-, Viszeral- und Transplantationschirurgie ;;;2;Style 1;300;;;
+6420.02.301;A;Allgmein-, Viszeral- und Transplantationschirurgie ;Oberärzte;;2;Style 1;301;;;
+6420.02.303;B;Allgmein-, Viszeral- und Transplantationschirurgie ;;;2;Style 1;303;;;
+6420.02.304;B;Allgmein-, Viszeral- und Transplantationschirurgie ;;;2;Style 1;304;;;
+6420.02.306;B;Reinigung;;;2;Style 1;306;;;
+6420.02.307;B;Besprechungsraum 02;;;2;Style 1;307;;;
+6420.02.309;B;Gefäßchirurgie und Endovaskuläre Chirurgie;;;2;Style 1;309;;;
+6420.02.311;;Gefäßchirurgie und Endovaskuläre Chirurgie;Geschäftsführender Oberarzt ;;;Style 1;;;;
+6420.02.312;B;Gefäßchirurgie und Endovaskuläre Chirurgie;Assistenzärzte;;2;Style 1;312;;;
+6420.02.314;C;Anästhesiologie;Shared Desk Oberärzte;;2;Style 1;314;;;
+6420.02.317;C;WC Personal;Damen;;2;Style 3;317;;P_D;
+6420.02.318;C;;;;2;;;;;
+6420.02.318;C;WC Personal;Herren;;2;Style 3;318;;P_H;
+6420.02.318;C;;;;2;;;;;
+6420.02.319;C;Herzchirurgie;Assistenzärzte;VAD-Koordinatoren;2;Style 1;319;;;
+6420.02.322;C;Kopierraum;;;2;Style 1;322;;;
+6420.02.323;C;Herzchirurgie;Ambulanzsekretariat;;2;Style 1;323;;;
+6420.02.325;C;Herzchirurgie;Assistenzärzte;;2;Style 1;325;;;
+6420.02.326;C;Allgmein-, Viszeral- und Transplantationschirurgie ;Assistenzärzte;Frau Dr. U. HegerHerr Dr. M. Golriz;2;Style 1;326;;;
+6420.02.329;A;Allgmein-, Viszeral- und Transplantationschirurgie ;KSC;;2;Style 1;329;;;
+6420.02.330;A;Allgmein-, Viszeral- und Transplantationschirurgie ;KSC;;2;Style 1;330;;;
+6420.02.332;B;Allgmein-, Viszeral- und Transplantationschirurgie ;SDGC / KSC;Frau D. Anders;2;Style 1;332;;;
+6420.02.333;B;Allgmein-, Viszeral- und Transplantationschirurgie ;SDGC / KSC;Herr PD Dr. Ph. Knebel;2;Style 1;333;;;
+6420.02.334;B;Allgmein-, Viszeral- und Transplantationschirurgie ;Dienstzimmer;Herr Dr. J. Klose;2;Style 1;334;;;
+6420.02.336;B;Allgmein-, Viszeral- und Transplantationschirurgie ;Dienstzimmer;Herr PD Dr. Dr. A. BilleterHerr PD Dr. F.NickelHerr PD Dr. A. Nickkholgh;2;Style 1;336;;;
+6420.02.337;B;Allgmein-, Viszeral- und Transplantationschirurgie ;Dienstzimmer;Herr Dr. F. Klee;2;Style 1;337;;;
+6420.02.339;B;Gefäßchirurgie und Endovaskuläre Chirurgie;Dienstzimmer;Herr Dr. M. Hakimi;2;Style 1;339;;;
+6420.02.340;B;Gefäßchirurgie und Endovaskuläre Chirurgie;Dienstzimmer;Frau Dr. U. Burger;2;Style 1;340;;;
+6420.02.342;B;Gefäßchirurgie und Endovaskuläre Chirurgie;Ärztlicher Direktor Besprechungsraum;Ärztlicher Direktor;2;Style 1;342;;;
+6420.02.343;B;Gefäßchirurgie und Endovaskuläre Chirurgie;Ärztlicher Direktor Sekretariat;Sekretariat;2;Style 1;343;;;
+6420.02.345;B;Gefäßchirurgie und Endovaskuläre Chirurgie;Ärztlicher Direktor;Sekretariat;2;Style 1;343;;;
+6420.02.346;;Gefäßchirurgie und Endovaskuläre Chirurgie;Leitender Oberarzt stellv. Ärztlicher Direktor ;Herr Prof. Dr. P. Geisbüsch ;;Style 1;;;;
+6420.02.348;B;Gefäßchirurgie und Endovaskuläre Chirurgie;Sekretariat;Frau G. D'Accione;2;Style 1;348;;;
+6420.02.349;B;Gefäßchirurgie und Endovaskuläre Chirurgie;Dienstzimmer;Herr M. AnteHerr Dr. M. Bischoff;2;Style 1;349;;;
+6420.02.351;C;Urologie;Tumordokumentation;Frau C. GeislerFrau S. KunzFrau M. Misera;2;Style 1;351;;;
+6420.02.352;C;Herzchirurgie;Oberärzte;Herr Prof. Dr. R. de Simone;2;Style 1;352;;;
+6420.02.354;C;Herzchirurgie;Oberärzte;Herr Dr. Ch. Sebening;2;Style 1;354;;;
+6420.02.356;C;Herzchirurgie;Leitender OberarztLeiter Sektion Herztransplantation und Unterstützungssysteme ;Herr Prof. Dr. A. Ruhparwar;2;Style 1;356;;;
+6420.02.357;;Herzchirurgie;Geschäftsführender Oberarzt Leiter Sektion minimal-invasive Klappenchirurgie ;Herr Prof. Dr. G. Szabó ;;Style 1;;;;
+6420.02.359;C;Herzchirurgie;Oberärzte;Herr S. Al-Maisary;2;Style 1;359;;;
+6420.02.362;C;Herzchirurgie;Ärztlicher Direktor Sekretariat;Sekretariat;2;Style 1;362;;;
+6420.02.361;C;Herzchirurgie;Ärztlicher Direktor;;2;;;;;
+6420.02.364;C;Herzchirurgie;Dokumentation;Frau S. AstFrau L. AllmannFrau M. Kirchberger;2;Style 1;364;;;
+6420.02.365;C;Herzchirurgie;Dokumentation;Frau K. GugelFrau K. LovricFrau U. Wolf;2;Style 1;365;;;
+6420.02.367;C;Herzchirurgie;Dienstzimmer;Frau V. DenekeFrau G. ThomasFrau B. Fritz-RodsziesHerr B. Klein;2;Style 1;367;;;
+6420.02.368;C;Allgmein-, Viszeral- und Transplantationschirurgie ;Development Office;Herr R. LutzHerr Prof. Dr. Neoptolemus;2;Style 1;368;;;
+6420.02.400;A;Kapelle;;;2;Style 1;400;;;
+6420.02.400;A;;;;2;;;;;
+6420.02.403;A;Katholische Seelsorge;Dienstzimmer;Herr H. Tritz;2;Style 1;403;;;
+6420.02.404;A;Evangelische Seelsorge;Dienstzimmer;Frau M. Böffert;2;Style 1;404;;;
+6420.02.406;A;Gebetsraum Muslime;;;2;Style 1;406;;;
+6420.02.406;A;Gebetsraum Muslime;;;2;Style 1;409;;;
+6420.02.409;A;Herzchirurgie;Stationsleitung;Herr Ch. Appelhoff;2;Style 1;409;;;
+6420.02.410;A;Pflege;Stellvertretungen;Frau M. Wüsten;2;Style 1;410;;;
+6420.02.500;E;AWT;;;2;Style 1;500;;;
+6420.02.504;E;Allgmein-, Viszeral- und Transplantationschirurgie ;Stationsärzte;;2;Style 1;504;;;
+6420.02.505;E;Allgmein-, Viszeral- und Transplantationschirurgie ;Stationsärzte;;2;Style 1;505;;;
+6420.02.507;E;Station E2;Behandlung;;2;Style 2;;B 1;;
+6420.02.508;E;Station E2;Behandlung;;2;Style 2;;B 2;;
+6420.02.510;E;Bettenaufbereitung;;;2;Style 1;510;;;
+6420.02.514;E;WC Personal;Herren;;2;Style 3;514;;P_H;
+6420.02.515;E;WC Personal;Damen;;2;Style 3;515;;P_D;
+6420.02.516;E;Station E2;Patientenzimmer;;2;Style 2;;201;;
+6420.02.516A;E;;;;2;;;;;
+6420.02.518;E;Station E2;Patientenzimmer;;2;Style 2;;202;;
+6420.02.518A;E;;;;2;;;;;
+6420.02.519;E;Station E2;Patientenzimmer;;2;Style 2;;203;;
+6420.02.519A;E;;;;2;;;;;
+6420.02.521;E;Station E2;Patientenzimmer;;2;Style 2;;204;;
+6420.02.521A;E;;;;2;;;;;
+6420.02.522;E;Station E2;Patientenzimmer;;2;Style 2;;205;;
+6420.02.522A;E;;;;2;;;;;
+6420.02.524;E;Station E2;Patientenzimmer;;2;Style 2;;206;;
+6420.02.524A;E;;;;2;;;;;
+6420.02.525;E;Station E2;Patientenzimmer;;2;Style 2;;207;;
+6420.02.525A;E;;;;2;;;;;
+6420.02.527;E;Station E2;Patientenzimmer;;2;Style 2;;208;;
+6420.02.527A;E;;;;2;;;;;
+6420.02.528;E;Station E2;Patientenzimmer;;2;Style 2;;209;;
+6420.02.528A;E;;;;2;;;;;
+6420.02.529;E;Station E2;Patientenzimmer;;2;Style 2;;210;;
+6420.02.529A;E;;;;2;;;;;
+6420.02.533;C;Urologie;Stelllv. Stationsleitung;;2;Style 1;367;;;
+6420.02.531;E;Station E2;Patientenzimmer;;2;Style 2;;211;;
+6420.02.531A;E;;;;2;;;;;
+6420.02.505;E;Allgmein-, Viszeral- und Transplantationschirurgie ;Dienstzimmer;;2;Style 1;533;;;
+6420.02.535;E;Personal;;;2;Style 1;535;;;
+6420.02.537;E;Station E2;Stützpunkt;;2;Style 1;537;;;
+6420.02.537;E;Station E2;Stützpunkt;;2;Style 1;537;;;
+6420.02.537A;E;;;;2;;;;;
+6420.02.537B;E;;;;2;;;;;
+6420.02.540;E;Arbeitsraum rein;;;2;Style 1;540;;;
+6420.02.540;E;Arbeitsraum rein;;;2;Style 1;540;;;
+6420.02.542;E;Arbeitsraum unrein;;;2;Style 1;542;;;
+6420.02.542;E;Arbeitsraum unrein;;;2;Style 1;542;;;
+6420.02.544;E;Lager;med. Bedarf;;2;Style 2;;1;;
+6420.02.544;E;Lager;med. Bedarf;;2;Style 2;;1;;
+6420.02.546;E;Abstellraum;Geräte;;2;Style 2;;1;;
+6420.02.546;E;Abstellraum;Geräte;;2;Style 2;;1;;
+6420.02.548;E;Station E2;Patientenlounge;;2;Style 1;548;;;
+6420.02.548;E;Station E2;Patientenlounge;;2;Style 1;548;;;
+6420.02.550;E;WC;Barrierefrei;;2;Style 3;550;;P_B;P_B
+6420.02.551;E;WC;Damen;;2;Style 3;551;;P_D;P_D
+6420.02.552;E;WC;Herren;;2;Style 3;552;;P_H;P_H
+6420.02.553;E;Station E2;Patientenzimmer;;2;Style 2;;212;;
+6420.02.553A;E;;;;2;;;;;
+6420.02.555;E;Station E2;Patientenzimmer;;2;Style 2;;213;;
+6420.02.555A;E;;;;2;;;;;
+6420.02.556;E;Station E2;Patientenzimmer;;2;Style 2;;214;;
+6420.02.556A;E;;;;2;;;;;
+6420.02.558;E;Station E2;Patientenzimmer;;2;Style 2;;215;;
+6420.02.558A;E;;;;2;;;;;
+6420.02.559;E;Station E2;Patientenzimmer;;2;Style 2;;216;;
+6420.02.559A;E;;;;2;;;;;
+6420.02.561;E;Station E2;Patientenzimmer;;2;Style 2;;217;;
+6420.02.561A;E;;;;2;;;;;
+6420.02.562;E;Station E2;Patientenzimmer;;2;Style 2;;218;;
+6420.02.562A;E;;;;2;;;;;
+6420.02.564;E;Station E2;Patientenzimmer;;2;Style 2;;219;;
+6420.02.564A;E;;;;2;;;;;
+6420.02.565;E;Station E2;Patientenzimmer;;2;Style 2;;220;;
+6420.02.565A;E;;;;2;;;;;
+6420.02.566;E;Station E2;Patientenzimmer;;2;Style 2;;221;;
+6420.02.566A;E;;;;2;;;;;
+6420.02.568;E;Station E2;Patientenzimmer;;2;Style 2;;222;;
+6420.02.568A;E;;;;2;;;;;
+6420.02.600;F;Service;Küche;;2;Style 1;600;;;
+6420.02.604;F;Station F2;Stationsärzte;;2;Style 2;;B 1;;
+6420.02.605;F;Station F2;Stationsärzte;;2;Style 2;;B 2;;
+6420.02.607;F;Herzchirurgie;Stationsärzte;;2;Style 1;607;;;
+6420.02.608;F;Herzchirurgie;Stationsärzte;;2;Style 1;608;;;
+6420.02.610;F;AWT;;;2;Style 1;610;;;
+6420.02.613;F;Reinigung;;;2;Style 1;613;;;
+6420.02.614;F;WC Personal;Herren;;2;Style 3;614;;P_H;
+6420.02.615;F;WC Personal;Damen;;2;Style 3;615;;P_D;
+6420.02.616;F;Station F2;Patientenzimmer;;2;Style 2;;231;;
+6420.02.616A;F;;;;2;;;;;
+6420.02.618;F;Station F2;Patientenzimmer;;2;Style 2;;232;;
+6420.02.618A;F;;;;2;;;;;
+6420.02.619;F;Station F2;Patientenzimmer;;2;Style 2;;233;;
+6420.02.619A;F;;;;2;;;;;
+6420.02.621;F;Station F2;Patientenzimmer;;2;Style 2;;234;;
+6420.02.621A;F;;;;2;;;;;
+6420.02.622;F;Station F2;Patientenzimmer;;2;Style 2;;235;;
+6420.02.622A;F;;;;2;;;;;
+6420.02.624;F;Station F2;Patientenzimmer;;2;Style 2;;236;;
+6420.02.624A;F;;;;2;;;;;
+6420.02.625;F;Station F2;Patientenzimmer;;2;Style 2;;237;;
+6420.02.625A;F;;;;2;;;;;
+6420.02.627;F;Station F2;Patientenzimmer;;2;Style 2;;238;;
+6420.02.627A;F;;;;2;;;;;
+6420.02.628;F;Station F2;Patientenzimmer;;2;Style 2;;239;;
+6420.02.628A;F;;;;2;;;;;
+6420.02.629;F;Station F2;Patientenzimmer;;2;Style 2;;240;;
+6420.02.629A;F;;;;2;;;;;
+6420.02.631;F;Station F2;Patientenzimmer;;2;Style 2;;241;;
+6420.02.631A;F;;;;2;;;;;
+6420.02.633;F;Personal;;;2;Style 1;633;;;
+6420.02.635;F;Herzchirurgie;Dienstzimmer;;2;Style 1;635;;;
+6420.02.637;F;Station F2;Stützpunkt;;2;Style 1;637;;;
+6420.02.637;F;Station F2;Stützpunkt;;2;Style 1;637;;;
+6420.02.637A;F;;;;2;;;;;
+6420.02.637B;F;;;;2;;;;;
+6420.02.640;F;Arbeitsraum rein;;;2;Style 1;640;;;
+6420.02.640;F;Arbeitsraum rein;;;2;Style 1;640;;;
+6420.02.642;F;Arbeitsraum unrein;;;2;Style 1;642;;;
+6420.02.642;F;Arbeitsraum unrein;;;2;Style 1;642;;;
+6420.02.644;F;Lager;med. Bedarf;;2;Style 2;;2;;
+6420.02.644;F;Lager;med. Bedarf;;2;Style 2;;2;;
+6420.02.646;F;Abstellraum;Geräte;;2;Style 2;;2;;
+6420.02.646;F;Abstellraum;Geräte;;2;Style 2;;2;;
+6420.02.648;F;Station F2;Patientenlounge;;2;Style 1;648;;;
+6420.02.648;F;Station F2;Patientenlounge;;2;Style 1;648;;;
+6420.02.651;F;WC;Damen;;2;Style 3;651;;P_D;P_D
+6420.02.652;F;WC;Herren;;2;Style 3;652;;P_H;P_H
+6420.02.653;F;Station F2;Patientenzimmer;;2;Style 2;;242;;
+6420.02.653A;F;;;;2;;;;;
+6420.02.655;F;Station F2;Patientenzimmer;;2;Style 2;;243;;
+6420.02.655A;F;;;;2;;;;;
+6420.02.656;F;Station F2;Patientenzimmer;;2;Style 2;;244;;
+6420.02.656A;F;;;;2;;;;;
+6420.02.658;F;Station F2;Patientenzimmer;;2;Style 2;;245;;
+6420.02.658A;F;;;;2;;;;;
+6420.02.659;F;Station F2;Patientenzimmer;;2;Style 2;;246;;
+6420.02.659A;F;;;;2;;;;;
+6420.02.661;F;Station F2;Patientenzimmer;;2;Style 2;;247;;
+6420.02.661A;F;;;;2;;;;;
+6420.02.662;F;Station F2;Patientenzimmer;;2;Style 2;;248;;
+6420.02.662A;F;;;;2;;;;;
+6420.02.664;F;Station F2;Patientenzimmer;;2;Style 2;;249;;
+6420.02.664A;F;;;;2;;;;;
+6420.02.665;F;Station F2;Patientenzimmer;;2;Style 2;;250;;
+6420.02.665A;F;;;;2;;;;;
+6420.02.666;F;Station F2;Patientenzimmer;;2;Style 2;;251;;
+6420.02.666A;F;;;;2;;;;;
+6420.02.668;F;Station F2;Patientenzimmer;;2;Style 2;;252;;
+6420.02.668A;F;;;;2;;;;;
+6420.02.710;A;;;;2;;;;;
+6420.02.712;A;Technik;EDV;;2;Style 1;712;;;
+6420.02.718;A;;;;2;;;;;
+6420.02.720;A;;;;2;;;;;
+6420.02.721;A;;;;2;;;;;
+6420.02.750;A;Technik;HLS;;2;Style 1;750;;;
+6420.02.751;A;Technik;SV;;2;Style 1;751;;;
+6420.02.752;A;Technik;AV;;2;Style 1;752;;;
+6420.02.753;B;;;;2;;;;;
+6420.02.755;B;;;;2;;;;;
+6420.02.756;B;;;;2;;;;;
+6420.02.757;B;Technik;SV;;2;Style 1;757;;;
+6420.02.757A;B;;;;2;;;;;
+6420.02.758;B;;;;2;;;;;
+6420.02.759;B;Technik;EDV;;2;Style 1;759;;;
+6420.02.761;C;Technik;SV;;2;Style 1;761;;;
+6420.02.761A;C;;;;2;;;;;
+6420.02.762;C;;;;2;;;;;
+6420.02.763;C;;;;2;;;;;
+6420.02.765;C;;;;2;;;;;
+6420.02.766;C;;;;2;;;;;
+6420.02.767;A;;;;2;;;;;
+6420.02.768;A;;;;2;;;;;
+6420.02.776;E;;;;2;;;;;
+6420.02.777;E;;;;2;;;;;
+6420.02.778;E;Technik;EDV;;2;Style 1;778;;;
+6420.02.779;E;;;;2;;;;;
+6420.02.780;E;;;;2;;;;;
+6420.02.781;E;;;;2;;;;;
+6420.02.782;E;;;;2;;;;;
+6420.02.785;E;;;;2;;;;;
+6420.02.787;F;;;;2;;;;;
+6420.02.788;F;;;;2;;;;;
+6420.02.789;F;;;;2;;;;;
+6420.02.790;F;;;;2;;;;;
+6420.02.791;F;;;;2;;;;;
+6420.02.792;F;;;;2;;;;;
+6420.02.793;F;Technik;;;2;Style 1;793;;;
+6420.02.795;F;;;;2;;;;;
+6420.02.800;A;;;;2;;;;;
+6420.02.800;A;;;;2;;;;;
+6420.02.801;A;;;;2;;;;;
+6420.02.801;A;;;;2;;;;;
+6420.02.802;B;;;;2;;;;;
+6420.02.803;C;;;;2;;;;;
+6420.02.804;E;;;;2;;;;;
+6420.02.805;E;;;;2;;;;;
+6420.02.805;E;;;;2;;;;;
+6420.02.806;F;;;;2;;;;;
+6420.02.807;F;;;;2;;;;;
+6420.02.807;F;;;;2;;;;;
+6420.02.820;A;;;;2;;;;;
+6420.02.821;A;;;;2;;;;;
+6420.02.821;A;;;;2;;;;;
+6420.02.822;A;;;;2;;;;;
+6420.02.823;A;;;;2;;;;;
+6420.02.823;A;;;;2;;;;;
+6420.02.831;B;;;;2;;;;;
+6420.02.831;B;;;;2;;;;;
+6420.02.833;C;;;;2;;;;;
+6420.02.848;A;;;;2;;;;;
+6420.02.848;A;;;;2;;;;;
+6420.02.849;E;;;;2;;;;;
+6420.02.850;E;;;;2;;;;;
+6420.02.850;E;;;;2;;;;;
+6420.02.850;E;;;;2;;;;;
+6420.02.850;E;;;;2;;;;;
+6420.02.852;E;;;;2;;;;;
+6420.02.853;E;;;;2;;;;;
+6420.02.854;E;;;;2;;;;;
+6420.02.854;E;;;;2;;;;;
+6420.02.854;E;;;;2;;;;;
+6420.02.855;F;;;;2;;;;;
+6420.02.855;F;;;;2;;;;;
+6420.02.855;F;;;;2;;;;;
+6420.02.857;F;;;;2;;;;;
+6420.02.858;F;;;;2;;;;;
+;;;;;;;;;;
+6420.03.001;A;Lager ;;;3;Style 2;;3;;
+6420.03.400;A;Besprechungsraum 03.1;;;3;Style 1;400;;;
+6420.03.403;A;Reinigung;;;3;Style 1;403;;;
+6420.03.404;A;Allgmein-, Viszeral- und Transplantationschirurgie ;Stellvertretungen;;3;Style 1;404;;;
+6420.03.406;A;Besprechungsraum 03.2;;;3;Style 1;406;;;
+6420.03.406;A;Besprechungsraum 03.2;;;3;Style 1;406;;;
+6420.03.500;E;AWT;;;3;Style 1;500;;;
+6420.03.504;E;Urologie;Dienstzimmer;Assistenten;3;Style 1;504;;;
+6420.03.505;E;Urologie;Dienstzimmer;Assistenten;3;Style 1;505;;;
+6420.03.507;E;U+B;Aufnahmezimmer;;3;Style 2;;B 1;;
+6420.03.508;E;Urologie;Probase Arzt;;3;Style 2;;B 2;;
+6420.03.510;E;Bettenaufbereitung;;;3;Style 1;510;;;
+6420.03.514;E;WC Personal;Herren;;3;Style 3;514;;P_H;
+6420.03.515;E;WC Personal;Damen;;3;Style 3;515;;P_D;
+6420.03.516;E;Station E3;Patientenzimmer;;3;Style 2;;301;;
+6420.03.516A;E;;;;3;;;;;
+6420.03.518;E;Station E3;Patientenzimmer;;3;Style 2;;302;;
+6420.03.518A;E;;;;3;;;;;
+6420.03.519;E;Station E3;Patientenzimmer;;3;Style 2;;303;;
+6420.03.519A;E;;;;3;;;;;
+6420.03.521;E;Station E3;Patientenzimmer;;3;Style 2;;304;;
+6420.03.521A;E;;;;3;;;;;
+6420.03.522;E;Station E3;Patientenzimmer;;3;Style 2;;305;;
+6420.03.522A;E;;;;3;;;;;
+6420.03.524;E;Station E3;Patientenzimmer;;3;Style 2;;306;;
+6420.03.524A;E;;;;3;;;;;
+6420.03.525;E;Station E3;Patientenzimmer;;3;Style 2;;307;;
+6420.03.525A;E;;;;3;;;;;
+6420.03.527;E;Station E3;Patientenzimmer;;3;Style 2;;308;;
+6420.03.527A;E;;;;3;;;;;
+6420.03.528;E;Station E3;Patientenzimmer;;3;Style 2;;309;;
+6420.03.528A;E;;;;3;;;;;
+6420.03.529;E;Station E3;Patientenzimmer;;3;Style 2;;310;;
+6420.03.529A;E;;;;3;;;;;
+6420.03.531;E;Station E3;Patientenzimmer;;3;Style 2;;311;;
+6420.03.531A;E;;;;3;;;;;
+6420.03.533;E;Urologie;Dienstzimmer;;3;Style 1;533;;;
+6420.03.535;E;Personal;;;3;Style 1;535;;;
+6420.03.538;E;Station E3;Stützpunkt;;3;Style 1;538;;;
+6420.03.538;E;Station E3;Stützpunkt;;3;Style 1;538;;;
+6420.03.538A;E;;;;3;;;;;
+6420.03.538B;E;;;;3;;;;;
+6420.03.540;E;Arbeitsraum rein;;;3;Style 1;540;;;
+6420.03.540;E;Arbeitsraum rein;;;3;Style 1;540;;;
+6420.03.542;E;Arbeitsraum unrein;;;3;Style 1;542;;;
+6420.03.542;E;Arbeitsraum unrein;;;3;Style 1;542;;;
+6420.03.544;E;Lager ;med. Bedarf;;3;Style 2;;1;;
+6420.03.544;E;Lager ;med. Bedarf;;3;Style 2;;1;;
+6420.03.546;E;Abstellraum;Geräte;;3;Style 2;;2;;
+6420.03.546;E;Abstellraum;Geräte;;3;Style 2;;2;;
+6420.03.548;E;Station E3;Patientenlounge;;3;Style 1;548;;;
+6420.03.548;E;Station E3;Patientenlounge;;3;Style 1;548;;;
+6420.03.550;E;WC;Barrierefrei;;3;Style 3;550;;P_B;P_B
+6420.03.551;E;WC;Damen;;3;Style 3;551;;P_D;P_D
+6420.03.552;E;WC;Herren;;3;Style 3;552;;P_H;P_H
+6420.03.553;E;Station E3;Patientenzimmer;;3;Style 2;;312;;
+6420.03.553A;E;;;;3;;;;;
+6420.03.555;E;Station E3;Patientenzimmer;;3;Style 2;;313;;
+6420.03.555A;E;;;;3;;;;;
+6420.03.556;E;Station E3;Patientenzimmer;;3;Style 2;;314;;
+6420.03.556A;E;;;;3;;;;;
+6420.03.558;E;Station E3;Patientenzimmer;;3;Style 2;;315;;
+6420.03.558A;E;;;;3;;;;;
+6420.03.559;E;Station E3;Patientenzimmer;;3;Style 2;;316;;
+6420.03.559A;E;;;;3;;;;;
+6420.03.561;E;Station E3;Patientenzimmer;;3;Style 2;;317;;
+6420.03.561A;E;;;;3;;;;;
+6420.03.562;E;Station E3;Patientenzimmer;;3;Style 2;;318;;
+6420.03.562A;E;;;;3;;;;;
+6420.03.564;E;Station E3;Patientenzimmer;;3;Style 2;;319;;
+6420.03.564A;E;;;;3;;;;;
+6420.03.565;E;Station E3;Patientenzimmer;;3;Style 2;;320;;
+6420.03.565A;E;;;;3;;;;;
+6420.03.566;E;Station E3;Patientenzimmer;;3;Style 2;;321;;
+6420.03.566A;E;;;;3;;;;;
+6420.03.568;E;Station E3;Patientenzimmer;;3;Style 2;;322;;
+6420.03.568A;E;;;;3;;;;;
+6420.03.776;E;;;;3;;;;;
+6420.03.777;E;;;;3;;;;;
+6420.03.778;E;Technik;EDV;;3;Style 1;778;;;
+6420.03.779;E;;;;3;;;;;
+6420.03.780;E;;;;3;;;;;
+6420.03.781;E;;;;3;;;;;
+6420.03.782;E;;;;3;;;;;
+6420.03.785;E;;;;3;;;;;
+6420.03.804;E;;;;3;;;;;
+6420.03.805;E;;;;3;;;;;
+6420.03.805;E;;;;3;;;;;
+6420.03.850;E;;;;3;;;;;
+6420.03.851;E;;;;3;;;;;
+6420.03.850;E;;;;3;;;;;
+6420.03.850;E;;;;3;;;;;
+6420.03.853;E;;;;3;;;;;
+6420.03.856;E;;;;3;;;;;
+6420.03.600;F;Service;Küche;;3;Style 1;600;;;
+6420.03.600;F;Service;Küche;;3;Style 1;600;;;
+6420.03.604;F;U+B;Stationsarzt;;3;Style 2;;B 1;;
+6420.03.605;F;Allg. Bereich;Stationsarzt;;3;Style 1;605;;;
+6420.03.607;F;Urologie;Stationsleitung;Frau M. Wüsten;3;Style 1;607;;;
+6420.03.608;F;Allg. Bereich;Stationsleitung;Frau C. Murrmann;3;Style 1;608;;;
+6420.03.610;F;AWT;;;3;Style 1;610;;;
+6420.03.613;F;Reinigung;;;3;Style 1;613;;;
+6420.03.614;F;WC Personal;Herren;;3;Style 3;614;;P_H;
+6420.03.615;F;WC Personal;Damen;;3;Style 3;615;;P_D;
+6420.03.616;F;Station F3;Patientenzimmer;;3;Style 2;;331;;
+6420.03.616A;F;;;;3;;;;;
+6420.03.618;F;Station F3;Patientenzimmer;;3;Style 2;;332;;
+6420.03.618A;F;;;;3;;;;;
+6420.03.619;F;Station F3;Patientenzimmer;;3;Style 2;;333;;
+6420.03.619A;F;;;;3;;;;;
+6420.03.621;F;Station F3;Patientenzimmer;;3;Style 2;;334;;
+6420.03.621A;F;;;;3;;;;;
+6420.03.622;F;Station F3;Patientenzimmer;;3;Style 2;;335;;
+6420.03.622A;F;;;;3;;;;;
+6420.03.624;F;Station F3;Patientenzimmer;;3;Style 2;;336;;
+6420.03.624A;F;;;;3;;;;;
+6420.03.625;F;Station F3;Patientenzimmer;;3;Style 2;;337;;
+6420.03.625A;F;;;;3;;;;;
+6420.03.627;F;Station F3;Patientenzimmer;;3;Style 2;;338;;
+6420.03.627A;F;;;;3;;;;;
+6420.03.628;F;Station F3;Patientenzimmer;;3;Style 2;;339;;
+6420.03.628A;F;;;;3;;;;;
+6420.03.629;F;Station F3;Patientenzimmer;;3;Style 2;;340;;
+6420.03.629A;F;;;;3;;;;;
+6420.03.631;F;Station F3;Patientenzimmer;;3;Style 2;;341;;
+6420.03.631A;F;;;;3;;;;;
+6420.03.633;F;Personal;;;3;Style 1;633;;;
+6420.03.635;F;Allg. Bereich;Dienstzimmer;;3;Style 1;635;;;
+6420.03.637;F;;;;3;;;;;
+6420.03.637;F;Station F3;Stützpunkt;;3;Style 1;637;;;
+6420.03.638;F;Station F3;Stützpunkt;;3;Style 1;638;;;
+6420.03.640;F;Arbeitsraum rein;;;3;Style 1;640;;;
+6420.03.640;F;Arbeitsraum rein;;;3;Style 1;640;;;
+6420.03.642;F;Arbeitsraum unrein;;;3;Style 1;642;;;
+6420.03.642;F;Arbeitsraum unrein;;;3;Style 1;642;;;
+6420.03.644;F;Lager ;med. Bedarf;;3;Style 2;;2;;
+6420.03.644;F;Lager ;med. Bedarf;;3;Style 2;;2;;
+6420.03.646;F;Abstellraum;Geräte;;3;Style 2;;3;;
+6420.03.646;F;Abstellraum;Geräte;;3;Style 2;;3;;
+6420.03.648;F;Teeküche;;;3;Style 1;648;;;
+6420.03.648;F;Teeküche;;;3;Style 1;648;;;
+6420.03.651;F;WC;Damen;;3;Style 3;651;;P_D;P_D
+6420.03.652;F;WC;Herren;;3;Style 3;652;;P_H;P_H
+6420.03.653;F;Station F3;Patientenzimmer;;3;Style 2;;342;;
+6420.03.653A;F;;;;3;;;;;
+6420.03.655;F;Station F3;Patientenzimmer;;3;Style 2;;343;;
+6420.03.655A;F;;;;3;;;;;
+6420.03.656;F;Station F3;Patientenzimmer;;3;Style 2;;344;;
+6420.03.656A;F;;;;3;;;;;
+6420.03.658;F;Station F3;Patientenzimmer;;3;Style 2;;345;;
+6420.03.658A;F;;;;3;;;;;
+6420.03.659;F;Station F3;Patientenzimmer;;3;Style 2;;346;;
+6420.03.659A;F;;;;3;;;;;
+6420.03.661;F;Station F3;Patientenzimmer;;3;Style 2;;347;;
+6420.03.661A;F;;;;3;;;;;
+6420.03.662;F;Station F3;Patientenzimmer;;3;Style 2;;348;;
+6420.03.662A;F;;;;3;;;;;
+6420.03.664;F;Station F3;Patientenzimmer;;3;Style 2;;349;;
+6420.03.664A;F;;;;3;;;;;
+6420.03.665;F;Station F3;Patientenzimmer;;3;Style 2;;350;;
+6420.03.665A;F;;;;3;;;;;
+6420.03.666;F;Station F3;Patientenzimmer;;3;Style 2;;351;;
+6420.03.666A;F;;;;3;;;;;
+6420.03.668;F;Station F3;Patientenzimmer;;3;Style 2;;351;;
+6420.03.668;F;;;;3;;;;;
+6420.03.668A;F;;;;3;;;;;
+6420.03.710;A;Technik;AV;;3;Style 1;710;;;
+6420.03.710A;A;;;;3;;;;;
+6420.03.712;A;Technik;TGA;;3;Style 1;712;;;
+6420.03.715;A;Technik;FL;;3;Style 1;715;;;
+6420.03.716;A;;;;3;;;;;
+6420.03.717;A;;;;3;;;;;
+6420.03.720;A;;;;3;;;;;
+6420.03.767;A;;;;3;;;;;
+6420.03.768;A;Technik;TGA;;3;Style 1;768;;;
+6420.03.787;F;Technik;;;3;Style 1;787;;;
+6420.03.788;F;;;;3;;;;;
+6420.03.789;F;Technik;TGA;;3;Style 1;789;;;
+6420.03.790;F;;;;3;;;;;
+6420.03.791;F;;;;3;;;;;
+6420.03.792;F;;;;3;;;;;
+6420.03.795;F;;;;3;;;;;
+6420.03.798;F;Technik;EDV;;3;Style 1;798;;;
+6420.03.800;A;;;;3;;;;;
+6420.03.806;F;;;;3;;;;;
+6420.03.807;F;;;;3;;;;;
+6420.03.807;F;;;;3;;;;;
+6420.03.820;A;;;;3;;;;;
+6420.03.820;A;;;;3;;;;;
+6420.03.848;A;;;;3;;;;;
+6420.03.848;A;;;;3;;;;;
+6420.03.820;A;;;;3;;;;;
+6420.03.857;E;;;;3;;;;;
+6420.03.857;E;;;;3;;;;;
+6420.03.858;F;;;;3;;;;;
+6420.03.858;F;;;;3;;;;;
+6420.03.858;F;;;;3;;;;;
+6420.03.860;F;;;;3;;;;;
+6420.03.861;F;;;;3;;;;;
+;;;;;;;;;;
+6420.04.710;A;Technik;Aufzugsmasch;;4;Style 1;710;;;
+6420.04.711;A;Technik;Aufzugsmasch;;4;Style 1;711;;;
+6420.04.712;A;Lager;HLP;;4;Style 1;712;;;
+6420.04.784;E;;;;4;;;;;
+6420.04.796;F;;;;4;;;;;
+6420.04.713;A;;;;4;;;;;
+6420.04.713;A;;;;4;;;;;
+6420.04.800;A;;;;4;;;;;
+6420.04.820;A1;;;;4;;;;;
+6420.04.813;A;Technik;;;4;Style 1;813;;;
+6420.04.808;E1;Treppenhaus (wetterfeste Beschriftung);;;4;Style 1;808;;;
+6420.04.814;E;Technik;;;4;Style 1;814;;;
+6420.04.720;E;Technik;Lüftung Küche;;4;Style 1;720;;;

@@ -1,0 +1,409 @@
+fileFormatVersion: 2
+guid: 76280866da1a85d4aafc22bb486abffe
+ModelImporter:
+  serializedVersion: 25
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Beton, rauh
+  - first:
+      1: 100002
+    second: Beton, Sichtbeton 2
+  - first:
+      1: 100004
+    second: //RootNode
+  - first:
+      1: 100006
+    second: Farbe, gelb
+  - first:
+      1: 100008
+    second: "Farbe, wei\xDF"
+  - first:
+      1: 100010
+    second: Fensterrahmen
+  - first:
+      1: 100012
+    second: Glas Normalglas
+  - first:
+      1: 100014
+    second: Holz Nussbaum
+  - first:
+      1: 100016
+    second: Metall Aluminium, matt
+  - first:
+      1: 100018
+    second: Metall Stahl, lackiert
+  - first:
+      1: 100020
+    second: Metall, Fassade Edelstahl
+  - first:
+      1: 100022
+    second: Naturstein Kalkstein
+  - first:
+      4: 400000
+    second: Beton, rauh
+  - first:
+      4: 400002
+    second: Beton, Sichtbeton 2
+  - first:
+      4: 400004
+    second: //RootNode
+  - first:
+      4: 400006
+    second: Farbe, gelb
+  - first:
+      4: 400008
+    second: "Farbe, wei\xDF"
+  - first:
+      4: 400010
+    second: Fensterrahmen
+  - first:
+      4: 400012
+    second: Glas Normalglas
+  - first:
+      4: 400014
+    second: Holz Nussbaum
+  - first:
+      4: 400016
+    second: Metall Aluminium, matt
+  - first:
+      4: 400018
+    second: Metall Stahl, lackiert
+  - first:
+      4: 400020
+    second: Metall, Fassade Edelstahl
+  - first:
+      4: 400022
+    second: Naturstein Kalkstein
+  - first:
+      21: 2100000
+    second: Naturstein Kalkstein
+  - first:
+      21: 2100002
+    second: Holz Nussbaum
+  - first:
+      21: 2100004
+    second: Metall Aluminium, matt
+  - first:
+      21: 2100006
+    second: Beton, Sichtbeton 2
+  - first:
+      21: 2100008
+    second: Glas Normalglas
+  - first:
+      21: 2100010
+    second: Metall Stahl, lackiert
+  - first:
+      21: 2100012
+    second: "Farbe, wei\xDF"
+  - first:
+      21: 2100014
+    second: Farbe, gelb
+  - first:
+      21: 2100016
+    second: Metall, Fassade Edelstahl
+  - first:
+      21: 2100018
+    second: Beton, rauh
+  - first:
+      21: 2100020
+    second: Fensterrahmen
+  - first:
+      23: 2300000
+    second: Beton, rauh
+  - first:
+      23: 2300002
+    second: Beton, Sichtbeton 2
+  - first:
+      23: 2300004
+    second: Farbe, gelb
+  - first:
+      23: 2300006
+    second: "Farbe, wei\xDF"
+  - first:
+      23: 2300008
+    second: Fensterrahmen
+  - first:
+      23: 2300010
+    second: Glas Normalglas
+  - first:
+      23: 2300012
+    second: Holz Nussbaum
+  - first:
+      23: 2300014
+    second: Metall Aluminium, matt
+  - first:
+      23: 2300016
+    second: Metall Stahl, lackiert
+  - first:
+      23: 2300018
+    second: Metall, Fassade Edelstahl
+  - first:
+      23: 2300020
+    second: Naturstein Kalkstein
+  - first:
+      33: 3300000
+    second: Beton, rauh
+  - first:
+      33: 3300002
+    second: Beton, Sichtbeton 2
+  - first:
+      33: 3300004
+    second: Farbe, gelb
+  - first:
+      33: 3300006
+    second: "Farbe, wei\xDF"
+  - first:
+      33: 3300008
+    second: Fensterrahmen
+  - first:
+      33: 3300010
+    second: Glas Normalglas
+  - first:
+      33: 3300012
+    second: Holz Nussbaum
+  - first:
+      33: 3300014
+    second: Metall Aluminium, matt
+  - first:
+      33: 3300016
+    second: Metall Stahl, lackiert
+  - first:
+      33: 3300018
+    second: Metall, Fassade Edelstahl
+  - first:
+      33: 3300020
+    second: Naturstein Kalkstein
+  - first:
+      43: 4300000
+    second: Naturstein Kalkstein
+  - first:
+      43: 4300002
+    second: Holz Nussbaum
+  - first:
+      43: 4300004
+    second: Metall Aluminium, matt
+  - first:
+      43: 4300006
+    second: Beton, Sichtbeton 2
+  - first:
+      43: 4300008
+    second: Glas Normalglas
+  - first:
+      43: 4300010
+    second: Metall Stahl, lackiert
+  - first:
+      43: 4300012
+    second: "Farbe, wei\xDF"
+  - first:
+      43: 4300014
+    second: Farbe, gelb
+  - first:
+      43: 4300016
+    second: Metall, Fassade Edelstahl
+  - first:
+      43: 4300018
+    second: Beton, rauh
+  - first:
+      43: 4300020
+    second: Fensterrahmen
+  - first:
+      64: 6400000
+    second: Beton, rauh
+  - first:
+      64: 6400002
+    second: Beton, Sichtbeton 2
+  - first:
+      64: 6400004
+    second: Farbe, gelb
+  - first:
+      64: 6400006
+    second: "Farbe, wei\xDF"
+  - first:
+      64: 6400008
+    second: Fensterrahmen
+  - first:
+      64: 6400010
+    second: Glas Normalglas
+  - first:
+      64: 6400012
+    second: Holz Nussbaum
+  - first:
+      64: 6400014
+    second: Metall Aluminium, matt
+  - first:
+      64: 6400016
+    second: Metall Stahl, lackiert
+  - first:
+      64: 6400018
+    second: Metall, Fassade Edelstahl
+  - first:
+      64: 6400020
+    second: Naturstein Kalkstein
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Beton, Sichtbeton 2
+    second: {fileID: 2100000, guid: 197bc296c7575f14ba69ae9ea2565569, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Beton, rauh
+    second: {fileID: 2100000, guid: 223eb1153ff5b094ebb6032024ee196b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Farbe, gelb
+    second: {fileID: 2100000, guid: eb75da231f4e70e44a167ee1868293a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Farbe, wei\xDF"
+    second: {fileID: 2100000, guid: a59f09ae70f98164d97dc92e663c08bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fensterrahmen
+    second: {fileID: 2100000, guid: cfeb6372608c21a4db26b65ebda7b9d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glas Normalglas
+    second: {fileID: 2100000, guid: 9bff59102113ecf4ea8f0fa9426d2a60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Holz Nussbaum
+    second: {fileID: 2100000, guid: 4841da7b16655614fb37f9f2daaba7c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metall Aluminium, matt
+    second: {fileID: 2100000, guid: 7e36126d110dac7488ff9d0ae11042d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metall Stahl, lackiert
+    second: {fileID: 2100000, guid: 5cd53895e42853d4b801e314c0e17185, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metall, Fassade Edelstahl
+    second: {fileID: 2100000, guid: 1c85dc55b2d53474e992f2baf909a116, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Naturstein Kalkstein
+    second: {fileID: 2100000, guid: 9215ab8dccca33841baafabdd12005cb, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 0f9f825a0239b7e4025ffecba0fc83df
+    second: {fileID: 2800000, guid: 36f7dd96717dd97478f2a4913258ddc2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 7e19f0c6b8257c422192912ceed46ded
+    second: {fileID: 2800000, guid: 71554b23b2ec5d141ae335127e2eb93f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: d0d7d181f1e0e00cc5a6afcb944ae48e
+    second: {fileID: 2800000, guid: 7c8c3cfd763650a469a3a2b1d715f8ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: e30d6f0b7e96e58529fd2c4570f9a839
+    second: {fileID: 2800000, guid: b3e5c985d64b1cd4f83c6a7ccee68386, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,17 @@
+<script>
+		function unityReady() {
+			var returnVal = confirm("Unity is ready. Do you want to continue to a specific room?");
+			
+			if(returnVal == true) {
+				gameInstance.SendMessage("Setup", "FocusOnObject", "F3W5R3");
+			}
+			else {
+				gameInstance.SendMessage("Setup", "FocusOnObject", "-1");		
+			}
+		}
+	</script>
+	<script>
+		function showRoomDetails(floor, colliderName) {
+			alert("ShowRoomDetails: F_" + floor + ":N_" + colliderName);
+		}
+	</script>

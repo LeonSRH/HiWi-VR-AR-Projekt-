@@ -1,0 +1,5 @@
+- Streaming Assets Folder fuer spaetere generische Loesung der Stockwerks-Modelle und Moebel
+- Resources Folder fuer Access via Path
+- _Resources Folder fuer "normale" Resources, die von Unity normal in den Build verpackt werden sollen
+  (Jetzige Models werden vorerst in diesem Ordner verbleiben, bis der generische Ansatz funktioniert und man eigene Models hinzufuegen kann, die dann automatisch in das Unity-Modul integriert werden.)
+Referenz: https://docs.unity3d.com/Manual/SpecialFolders.html

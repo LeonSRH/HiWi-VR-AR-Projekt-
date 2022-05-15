@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 970f54012a4af7a428875f6f0bf86b46, type: 3}
+  m_Name: "Geb\xE4udetechnik"
+  m_EditorClassIdentifier: 
+  name: "Geb\xE4ude allgemein"
+  description: "Allgemeine Geb\xE4udeinformationen"
+  artwork: {fileID: 21300000, guid: 42bc4d23bd1164c4c835fc68642f15f2, type: 3}
+  objects:
+  - {fileID: 11400000, guid: 48f4087a1b845af4b85877f940aaeb0e, type: 2}
+  - {fileID: 11400000, guid: eb8735d86b2930946b0783da113c6a48, type: 2}
+  - {fileID: 11400000, guid: b07e43fe28d22d24f86e1f7a1128d5a6, type: 2}

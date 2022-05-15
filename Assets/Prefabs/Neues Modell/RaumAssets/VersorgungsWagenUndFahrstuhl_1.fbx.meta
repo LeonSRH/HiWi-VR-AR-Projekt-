@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: aa62fb4271e46bb4b805d6a3bb5a6c91
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Band
+    100002: "FahrstuhlT\xFCr"
+    100004: Rad
+    100006: Rad.001
+    100008: Rad.002
+    100010: Rad.003
+    100012: Schalter
+    100014: Schiene_Links
+    100016: Schiene_Rechts
+    100018: Tuer
+    100020: Tuer.001
+    100022: Tuer.002
+    100024: Tuer.003
+    100026: Versorgungswagen
+    100028: //RootNode
+    400000: Band
+    400002: "FahrstuhlT\xFCr"
+    400004: Rad
+    400006: Rad.001
+    400008: Rad.002
+    400010: Rad.003
+    400012: Schalter
+    400014: Schiene_Links
+    400016: Schiene_Rechts
+    400018: Tuer
+    400020: Tuer.001
+    400022: Tuer.002
+    400024: Tuer.003
+    400026: Versorgungswagen
+    400028: //RootNode
+    2100000: No Name
+    2100002: Material
+    2300000: Band
+    2300002: "FahrstuhlT\xFCr"
+    2300004: Rad
+    2300006: Rad.001
+    2300008: Rad.002
+    2300010: Rad.003
+    2300012: Schalter
+    2300014: Schiene_Links
+    2300016: Schiene_Rechts
+    2300018: Tuer
+    2300020: Tuer.001
+    2300022: Tuer.002
+    2300024: Tuer.003
+    2300026: Versorgungswagen
+    3300000: Band
+    3300002: "FahrstuhlT\xFCr"
+    3300004: Rad
+    3300006: Rad.001
+    3300008: Rad.002
+    3300010: Rad.003
+    3300012: Schalter
+    3300014: Schiene_Links
+    3300016: Schiene_Rechts
+    3300018: Tuer
+    3300020: Tuer.001
+    3300022: Tuer.002
+    3300024: Tuer.003
+    3300026: Versorgungswagen
+    4300000: "FahrstuhlT\xFCr"
+    4300002: Schalter
+    4300004: Versorgungswagen
+    4300006: Rad.003
+    4300008: Rad.002
+    4300010: Rad.001
+    4300012: Rad
+    4300014: Tuer.003
+    4300016: Tuer.002
+    4300018: Tuer.001
+    4300020: Tuer
+    4300022: Schiene_Rechts
+    4300024: Schiene_Links
+    4300026: Band
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

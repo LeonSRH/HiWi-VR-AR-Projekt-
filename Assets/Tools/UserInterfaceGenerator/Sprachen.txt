@@ -1,0 +1,43 @@
+
+
+
+<languages>
+	<English>
+		<string name="app_name">Unity Multiple Language Support</string>
+		<string name="description">This script provides convenient multiple language support.</string>
+	</English>
+	<French>
+		<string name="app_name">Unité Langue Soutien Multiple</string>
+		<string name="description">Ce script fournit un soutien multilingue pratique.</string>
+	</French>
+	<German>
+		<string name="app_name">Sprache</string>
+		<string name="description">Dieses Script ermöglicht verschiedene Sprachen</string>
+	</German>
+	<Japanese>
+		<string name="app_name">ハローワールド</string>
+		<string name="description">ハローワールド</string>
+	</Japanese>
+	<Chinese>
+		<string name="app_name">世界您好</string>
+		<string name="description">世界您好</string>
+	</Chinese>
+	<Hungarian>
+		<string name="app_name">helló világ</string>
+		<string name="description">helló világ</string>
+	</Hungarian>
+	<Portuguese>
+		<string name="app_name">Olá, mundo</string>
+		<string name="description">Olá, mundo</string>
+	</Portuguese>
+	<Russian>
+		<string name="app_name">Всем привет</string>
+		<string name="description">Всем привет</string>
+	</Russian>
+	<Thai>
+		<string name="app_name">หวัดดีชาวโลก</string>
+		<string name="description">หวัดดีชาวโลก</string>
+	</Thai>
+	
+	
+</languages>

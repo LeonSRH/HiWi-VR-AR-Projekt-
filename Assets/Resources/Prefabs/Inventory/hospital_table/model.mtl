@@ -1,0 +1,22 @@
+# Made in Blockbench 3.1.0
+newmtl 0
+map_Kd quartz_block_side.png 
+newmtl 1
+map_Kd light_blue_concrete.png 
+newmtl 2
+map_Kd sandstone_top.png 
+newmtl 3
+map_Kd blue_ice.png 
+newmtl 4
+map_Kd black_concrete.png 
+newmtl 5
+map_Kd red_stained_glass.png 
+newmtl 6
+map_Kd white_stained_glass.png 
+newmtl 7
+map_Kd white_concrete.png 
+newmtl 8
+map_Kd cut_sandstone.png 
+newmtl 9
+map_Kd spruce_planks.png 
+newmtl none
