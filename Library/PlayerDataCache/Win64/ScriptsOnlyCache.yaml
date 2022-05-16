@@ -1,0 +1,5002 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    Assembly-CSharp-firstpass.dll:
+    - UnityEngine.PostProcessing.PostProcessingBehaviour
+    - UnityEngine.PostProcessing.PostProcessingProfile
+    - UnityStandardAssets.CinematicEffects.Bloom
+    Assembly-CSharp.dll:
+    - Analyse
+    - Assets.Plugins.Lomenu_UI.Scripts.PlayAnim
+    - Assets.Plugins.Lomenu_UI.Scripts.Quality
+    - Assets.Plugins.Lomenu_UI.Scripts.Volume
+    - Assets.Plugins.Scripts.TrainingRoomScripts.LoadScene
+    - Assets.Plugins.Scripts.TrainingRoomScripts.LoadingScreen
+    - Authentication
+    - BadgesUIChanges
+    - BehaviorDesigner.Runtime.BehaviorTree
+    - BehaviorDesigner.Runtime.ExternalBehaviorTree
+    - CameraMovement
+    - ChangeSceneOnClick
+    - ChangeWorkerView
+    - CreateBedsForPatient
+    - CreatePatients
+    - CreatePlaceableInventoryitem
+    - CustomDropdown
+    - CustomInputField
+    - DataAnalytics
+    - DigitalRoomSignView
+    - DigitalSinageManager
+    - DoorSignController
+    - DragObject
+    - DrawPathForTraining
+    - DropdownItem
+    - ExportController
+    - FillPanel
+    - FillPanel_StyleSet
+    - FlicFlacObj
+    - FollowMouseUI
+    - GoToPatientTrigger
+    - ImportController
+    - Invector.CharacterController.vThirdPersonController
+    - Invector.CharacterController.vThirdPersonInput
+    - InventoryButtonController
+    - InventoryController
+    - InventoryCreateView
+    - InventoryDragController
+    - InventoryItemUIController
+    - InventoryListDropHandler
+    - InventoryMainUIController
+    - InventorySearch
+    - InventoryView
+    - ItemAddTrigger
+    - ItemDragHandler
+    - ItemDropOnTrash
+    - ItemTriggerer
+    - LMSMainController
+    - LMSMainView
+    - LUI_BrightnessAdjustment
+    - LUI_ButtonSound
+    - LUI_DissolveEdge
+    - LUI_Exit
+    - LUI_LaunchURL
+    - LUI_ManageBlur
+    - LUI_MenuCamControl
+    - LUI_PAK
+    - LUI_PUBG
+    - LUI_PUBG_Button
+    - LUI_PanelAnim
+    - LUI_PressAnyKey
+    - LUI_Quality
+    - LUI_RotateObject
+    - LUI_UIAnimManager
+    - LUI_Volume
+    - MainView
+    - MinimapScript
+    - NUI_Device
+    - NUI_DoorSign
+    - NUI_Floors
+    - NUI_Inventory
+    - NUI_LMS
+    - NUI_Planning
+    - OptionsMenu
+    - OverViewZoom
+    - PBFilled
+    - PieGraph
+    - PlanningController
+    - PlanningMainView
+    - PlayerPoints
+    - PowerBISceneManager
+    - PowerBIStreaming
+    - ProgressBar
+    - RadialSlider
+    - RatingSystem
+    - ReadWriteCsv.CSVController
+    - RoomColliderMaterialController
+    - RoomInfoCache
+    - RoomItemDropHandler
+    - RoomSearch
+    - SceneLoader
+    - ScreenRecorder
+    - SelectedRoomStatus
+    - SensorToolkit.Example.Asteroid
+    - SensorToolkit.Example.AutomaticSlidingDoor
+    - SensorToolkit.Example.BoxSpawner
+    - SensorToolkit.Example.Bullet
+    - SensorToolkit.Example.CharacterControls
+    - SensorToolkit.Example.CollectPickups
+    - SensorToolkit.Example.GuardAI
+    - SensorToolkit.Example.GunWithClip
+    - SensorToolkit.Example.Health
+    - SensorToolkit.Example.Holdable
+    - SensorToolkit.Example.Lifetime
+    - SensorToolkit.Example.PlayerInput
+    - SensorToolkit.Example.ScoreZone
+    - SensorToolkit.Example.SecurityCamera
+    - SensorToolkit.Example.SoldierAI
+    - SensorToolkit.Example.TeamMember
+    - SensorToolkit.FOVCollider
+    - SensorToolkit.LOSTargets
+    - SensorToolkit.RangeSensor
+    - SensorToolkit.RaySensor
+    - SensorToolkit.SteeringRig
+    - SensorToolkit.TriggerSensor
+    - SetCameraToRoomUI
+    - SmartHospital.Controller.ExplorerMode.Rooms.Details.DetailSearch
+    - SmartHospital.Controller.ExplorerMode.Rooms.Details.RoomDetailsView
+    - SmartHospital.Controller.ExplorerMode.Rooms.LoadCSVRoomData
+    - SmartHospital.Controller.MainSceneMainController
+    - SmartHospital.Controller.MainSceneUIController
+    - SmartHospital.ExplorerMode.Rooms.Locator.RoomLocator2D
+    - SmartHospital.Model.ClientRoom
+    - SmartHospital.TrainingRoom.BlinkLampe
+    - SmartHospital.TrainingRoom.CameraOrbit
+    - SmartHospital.TrainingRoom.CreateDoorSignNumber
+    - SmartHospital.TrainingRoom.DialogueManager
+    - SmartHospital.TrainingRoom.DialogueTrigger
+    - SmartHospital.TrainingRoom.FindLocationQuest
+    - SmartHospital.TrainingRoom.FirstCameraScript
+    - SmartHospital.TrainingRoom.FocusArrowOnNextPoint
+    - SmartHospital.TrainingRoom.LoadingBarController
+    - SmartHospital.TrainingRoom.OpenDoorTrigger
+    - SmartHospital.TrainingRoom.PauseOnPlayerEnter
+    - SmartHospital.TrainingRoom.PlayerCameraControllerActions
+    - SmartHospital.TrainingRoom.QuestTriggerer
+    - SmartHospital.TrainingRoom.QuestUiPlayerTrigger
+    - SmartHospital.TrainingRoom.StartPlayerQuest
+    - SmartHospital.TrainingRoom.UITriggerer
+    - SwitchAnim
+    - TestCreatePanelsAndElements
+    - ToggleAnim
+    - UIZoomImage
+    - Unity.ExplorerMode.Room.Details.RoomDetailsController
+    - WorkerDetailsController
+    - ZenFulcrum.EmbeddedBrowser.SimpleController
+    - ZombiePlayerTrigger
+    - ZombieTrigger
+    - ZoomInRoom
+    - vThirdPersonCamera
+    BehaviorDesigner.Runtime.dll:
+    - BehaviorDesigner.Runtime.GlobalVariables
+    ProBuilderCore-Unity5.dll:
+    - ProBuilder2.Common.pb_PreferenceDictionary
+    - pb_Entity
+    - pb_Object
+    SmartHospital.dll:
+    - SmartHospital.Database.Request.RequestTests
+    Unity.2D.Tilemap.Editor.dll:
+    - UnityEditor.Tilemaps.GridPaintingState
+    - UnityEditor.Tilemaps.GridPaletteBrushes
+    - UnityEditor.Tilemaps.GridPalettes
+    - UnityEditor.Tilemaps.SceneViewGridManager
+    - UnityEditor.Tilemaps.TileDragAndDropManager
+    Unity.Rider.Editor.dll:
+    - Packages.Rider.Editor.UnitTesting.CallbackData
+    Unity.TextMeshPro.dll:
+    - TMPro.TMP_Dropdown
+    - TMPro.TMP_FontAsset
+    - TMPro.TMP_InputField
+    - TMPro.TMP_Settings
+    - TMPro.TMP_SpriteAsset
+    - TMPro.TMP_StyleSheet
+    - TMPro.TMP_SubMeshUI
+    - TMPro.TextMeshPro
+    - TMPro.TextMeshProUGUI
+    UnityEditor.TestRunner.dll:
+    - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
+    - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
+    UnityEngine.UI.dll:
+    - UnityEngine.EventSystems.EventSystem
+    - UnityEngine.EventSystems.EventTrigger
+    - UnityEngine.EventSystems.StandaloneInputModule
+    - UnityEngine.UI.Button
+    - UnityEngine.UI.CanvasScaler
+    - UnityEngine.UI.ContentSizeFitter
+    - UnityEngine.UI.Dropdown
+    - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.GridLayoutGroup
+    - UnityEngine.UI.HorizontalLayoutGroup
+    - UnityEngine.UI.Image
+    - UnityEngine.UI.InputField
+    - UnityEngine.UI.LayoutElement
+    - UnityEngine.UI.Mask
+    - UnityEngine.UI.Outline
+    - UnityEngine.UI.RawImage
+    - UnityEngine.UI.RectMask2D
+    - UnityEngine.UI.ScrollRect
+    - UnityEngine.UI.Scrollbar
+    - UnityEngine.UI.Shadow
+    - UnityEngine.UI.Slider
+    - UnityEngine.UI.Text
+    - UnityEngine.UI.Toggle
+    - UnityEngine.UI.VerticalLayoutGroup
+    ZFBrowser.dll:
+    - ZenFulcrum.EmbeddedBrowser.Browser
+    - ZenFulcrum.EmbeddedBrowser.CursorRendererOS
+    - ZenFulcrum.EmbeddedBrowser.DownloadManager
+    - ZenFulcrum.EmbeddedBrowser.PointerUIGUI
+    com.unity.multiplayer-hlapi.Runtime.dll:
+    - UnityEngine.Networking.NetworkCallbacks
+  sceneClasses:
+    Assets/_Scenes/DigitalSignage/OP_WMS_DoorSign.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11598}
+    - Class: 114
+      Script: {instanceID: 11600}
+    - Class: 114
+      Script: {instanceID: 11610}
+    - Class: 114
+      Script: {instanceID: 11684}
+    - Class: 114
+      Script: {instanceID: 13842}
+    - Class: 114
+      Script: {instanceID: 16120}
+    - Class: 114
+      Script: {instanceID: 16380}
+    - Class: 114
+      Script: {instanceID: 16782}
+    - Class: 114
+      Script: {instanceID: 16960}
+    - Class: 114
+      Script: {instanceID: 18224}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 258
+      Script: {instanceID: 0}
+    Assets/_Scenes/DisplayListOfDevices.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11596}
+    - Class: 114
+      Script: {instanceID: 11598}
+    - Class: 114
+      Script: {instanceID: 11600}
+    - Class: 114
+      Script: {instanceID: 11602}
+    - Class: 114
+      Script: {instanceID: 11606}
+    - Class: 114
+      Script: {instanceID: 11610}
+    - Class: 114
+      Script: {instanceID: 11620}
+    - Class: 114
+      Script: {instanceID: 11684}
+    - Class: 114
+      Script: {instanceID: 11840}
+    - Class: 114
+      Script: {instanceID: 12430}
+    - Class: 114
+      Script: {instanceID: 12442}
+    - Class: 114
+      Script: {instanceID: 12616}
+    - Class: 114
+      Script: {instanceID: 12650}
+    - Class: 114
+      Script: {instanceID: 13232}
+    - Class: 114
+      Script: {instanceID: 13842}
+    - Class: 114
+      Script: {instanceID: 14478}
+    - Class: 114
+      Script: {instanceID: 14574}
+    - Class: 114
+      Script: {instanceID: 15148}
+    - Class: 114
+      Script: {instanceID: 16120}
+    - Class: 114
+      Script: {instanceID: 16782}
+    - Class: 114
+      Script: {instanceID: 16960}
+    - Class: 114
+      Script: {instanceID: 18224}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 258
+      Script: {instanceID: 0}
+    Assets/_Scenes/DoorSign.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11596}
+    - Class: 114
+      Script: {instanceID: 11598}
+    - Class: 114
+      Script: {instanceID: 11600}
+    - Class: 114
+      Script: {instanceID: 11602}
+    - Class: 114
+      Script: {instanceID: 11606}
+    - Class: 114
+      Script: {instanceID: 11610}
+    - Class: 114
+      Script: {instanceID: 11612}
+    - Class: 114
+      Script: {instanceID: 11620}
+    - Class: 114
+      Script: {instanceID: 11684}
+    - Class: 114
+      Script: {instanceID: 11840}
+    - Class: 114
+      Script: {instanceID: 12340}
+    - Class: 114
+      Script: {instanceID: 12442}
+    - Class: 114
+      Script: {instanceID: 12616}
+    - Class: 114
+      Script: {instanceID: 12650}
+    - Class: 114
+      Script: {instanceID: 13232}
+    - Class: 114
+      Script: {instanceID: 13272}
+    - Class: 114
+      Script: {instanceID: 13842}
+    - Class: 114
+      Script: {instanceID: 14070}
+    - Class: 114
+      Script: {instanceID: 14206}
+    - Class: 114
+      Script: {instanceID: 14478}
+    - Class: 114
+      Script: {instanceID: 14574}
+    - Class: 114
+      Script: {instanceID: 15148}
+    - Class: 114
+      Script: {instanceID: 15474}
+    - Class: 114
+      Script: {instanceID: 16078}
+    - Class: 114
+      Script: {instanceID: 16120}
+    - Class: 114
+      Script: {instanceID: 16380}
+    - Class: 114
+      Script: {instanceID: 16782}
+    - Class: 114
+      Script: {instanceID: 16960}
+    - Class: 114
+      Script: {instanceID: 17810}
+    - Class: 114
+      Script: {instanceID: 18224}
+    - Class: 114
+      Script: {instanceID: 18332}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/_Scenes/LearningManagementScene.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11596}
+    - Class: 114
+      Script: {instanceID: 11598}
+    - Class: 114
+      Script: {instanceID: 11600}
+    - Class: 114
+      Script: {instanceID: 11602}
+    - Class: 114
+      Script: {instanceID: 11606}
+    - Class: 114
+      Script: {instanceID: 11610}
+    - Class: 114
+      Script: {instanceID: 11620}
+    - Class: 114
+      Script: {instanceID: 11622}
+    - Class: 114
+      Script: {instanceID: 11684}
+    - Class: 114
+      Script: {instanceID: 11840}
+    - Class: 114
+      Script: {instanceID: 12340}
+    - Class: 114
+      Script: {instanceID: 12442}
+    - Class: 114
+      Script: {instanceID: 12616}
+    - Class: 114
+      Script: {instanceID: 12650}
+    - Class: 114
+      Script: {instanceID: 12816}
+    - Class: 114
+      Script: {instanceID: 12818}
+    - Class: 114
+      Script: {instanceID: 13232}
+    - Class: 114
+      Script: {instanceID: 13828}
+    - Class: 114
+      Script: {instanceID: 13842}
+    - Class: 114
+      Script: {instanceID: 14478}
+    - Class: 114
+      Script: {instanceID: 14574}
+    - Class: 114
+      Script: {instanceID: 15148}
+    - Class: 114
+      Script: {instanceID: 15474}
+    - Class: 114
+      Script: {instanceID: 15826}
+    - Class: 114
+      Script: {instanceID: 16020}
+    - Class: 114
+      Script: {instanceID: 16078}
+    - Class: 114
+      Script: {instanceID: 16120}
+    - Class: 114
+      Script: {instanceID: 16380}
+    - Class: 114
+      Script: {instanceID: 16456}
+    - Class: 114
+      Script: {instanceID: 16782}
+    - Class: 114
+      Script: {instanceID: 16960}
+    - Class: 114
+      Script: {instanceID: 17160}
+    - Class: 114
+      Script: {instanceID: 17456}
+    - Class: 114
+      Script: {instanceID: 18224}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/_Scenes/MainScene.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 49
+      Script: {instanceID: 0}
+    - Class: 54
+      Script: {instanceID: 0}
+    - Class: 64
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 72
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 84
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 111
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1032}
+    - Class: 114
+      Script: {instanceID: 11596}
+    - Class: 114
+      Script: {instanceID: 11598}
+    - Class: 114
+      Script: {instanceID: 11600}
+    - Class: 114
+      Script: {instanceID: 11602}
+    - Class: 114
+      Script: {instanceID: 11604}
+    - Class: 114
+      Script: {instanceID: 11606}
+    - Class: 114
+      Script: {instanceID: 11608}
+    - Class: 114
+      Script: {instanceID: 11610}
+    - Class: 114
+      Script: {instanceID: 11612}
+    - Class: 114
+      Script: {instanceID: 11616}
+    - Class: 114
+      Script: {instanceID: 11620}
+    - Class: 114
+      Script: {instanceID: 11622}
+    - Class: 114
+      Script: {instanceID: 11684}
+    - Class: 114
+      Script: {instanceID: 11724}
+    - Class: 114
+      Script: {instanceID: 11840}
+    - Class: 114
+      Script: {instanceID: 11844}
+    - Class: 114
+      Script: {instanceID: 11848}
+    - Class: 114
+      Script: {instanceID: 11956}
+    - Class: 114
+      Script: {instanceID: 12076}
+    - Class: 114
+      Script: {instanceID: 12206}
+    - Class: 114
+      Script: {instanceID: 12308}
+    - Class: 114
+      Script: {instanceID: 12340}
+    - Class: 114
+      Script: {instanceID: 12366}
+    - Class: 114
+      Script: {instanceID: 12380}
+    - Class: 114
+      Script: {instanceID: 12442}
+    - Class: 114
+      Script: {instanceID: 12498}
+    - Class: 114
+      Script: {instanceID: 12518}
+    - Class: 114
+      Script: {instanceID: 12538}
+    - Class: 114
+      Script: {instanceID: 12556}
+    - Class: 114
+      Script: {instanceID: 12568}
+    - Class: 114
+      Script: {instanceID: 12580}
+    - Class: 114
+      Script: {instanceID: 12610}
+    - Class: 114
+      Script: {instanceID: 12616}
+    - Class: 114
+      Script: {instanceID: 12650}
+    - Class: 114
+      Script: {instanceID: 12780}
+    - Class: 114
+      Script: {instanceID: 12806}
+    - Class: 114
+      Script: {instanceID: 12816}
+    - Class: 114
+      Script: {instanceID: 12826}
+    - Class: 114
+      Script: {instanceID: 12854}
+    - Class: 114
+      Script: {instanceID: 12884}
+    - Class: 114
+      Script: {instanceID: 12938}
+    - Class: 114
+      Script: {instanceID: 12976}
+    - Class: 114
+      Script: {instanceID: 13110}
+    - Class: 114
+      Script: {instanceID: 13232}
+    - Class: 114
+      Script: {instanceID: 13238}
+    - Class: 114
+      Script: {instanceID: 13470}
+    - Class: 114
+      Script: {instanceID: 13476}
+    - Class: 114
+      Script: {instanceID: 13646}
+    - Class: 114
+      Script: {instanceID: 13650}
+    - Class: 114
+      Script: {instanceID: 13710}
+    - Class: 114
+      Script: {instanceID: 13714}
+    - Class: 114
+      Script: {instanceID: 13722}
+    - Class: 114
+      Script: {instanceID: 13748}
+    - Class: 114
+      Script: {instanceID: 13786}
+    - Class: 114
+      Script: {instanceID: 13800}
+    - Class: 114
+      Script: {instanceID: 13828}
+    - Class: 114
+      Script: {instanceID: 13836}
+    - Class: 114
+      Script: {instanceID: 13842}
+    - Class: 114
+      Script: {instanceID: 13858}
+    - Class: 114
+      Script: {instanceID: 13900}
+    - Class: 114
+      Script: {instanceID: 13954}
+    - Class: 114
+      Script: {instanceID: 13962}
+    - Class: 114
+      Script: {instanceID: 14036}
+    - Class: 114
+      Script: {instanceID: 14078}
+    - Class: 114
+      Script: {instanceID: 14152}
+    - Class: 114
+      Script: {instanceID: 14228}
+    - Class: 114
+      Script: {instanceID: 14416}
+    - Class: 114
+      Script: {instanceID: 14478}
+    - Class: 114
+      Script: {instanceID: 14558}
+    - Class: 114
+      Script: {instanceID: 14574}
+    - Class: 114
+      Script: {instanceID: 14576}
+    - Class: 114
+      Script: {instanceID: 14612}
+    - Class: 114
+      Script: {instanceID: 14722}
+    - Class: 114
+      Script: {instanceID: 14742}
+    - Class: 114
+      Script: {instanceID: 14748}
+    - Class: 114
+      Script: {instanceID: 14908}
+    - Class: 114
+      Script: {instanceID: 14954}
+    - Class: 114
+      Script: {instanceID: 15046}
+    - Class: 114
+      Script: {instanceID: 15076}
+    - Class: 114
+      Script: {instanceID: 15080}
+    - Class: 114
+      Script: {instanceID: 15148}
+    - Class: 114
+      Script: {instanceID: 15220}
+    - Class: 114
+      Script: {instanceID: 15320}
+    - Class: 114
+      Script: {instanceID: 15474}
+    - Class: 114
+      Script: {instanceID: 15486}
+    - Class: 114
+      Script: {instanceID: 15488}
+    - Class: 114
+      Script: {instanceID: 15618}
+    - Class: 114
+      Script: {instanceID: 15620}
+    - Class: 114
+      Script: {instanceID: 15872}
+    - Class: 114
+      Script: {instanceID: 15948}
+    - Class: 114
+      Script: {instanceID: 15992}
+    - Class: 114
+      Script: {instanceID: 16002}
+    - Class: 114
+      Script: {instanceID: 16020}
+    - Class: 114
+      Script: {instanceID: 16078}
+    - Class: 114
+      Script: {instanceID: 16120}
+    - Class: 114
+      Script: {instanceID: 16150}
+    - Class: 114
+      Script: {instanceID: 16190}
+    - Class: 114
+      Script: {instanceID: 16202}
+    - Class: 114
+      Script: {instanceID: 16244}
+    - Class: 114
+      Script: {instanceID: 16312}
+    - Class: 114
+      Script: {instanceID: 16348}
+    - Class: 114
+      Script: {instanceID: 16366}
+    - Class: 114
+      Script: {instanceID: 16380}
+    - Class: 114
+      Script: {instanceID: 16396}
+    - Class: 114
+      Script: {instanceID: 16404}
+    - Class: 114
+      Script: {instanceID: 16456}
+    - Class: 114
+      Script: {instanceID: 16682}
+    - Class: 114
+      Script: {instanceID: 16698}
+    - Class: 114
+      Script: {instanceID: 16770}
+    - Class: 114
+      Script: {instanceID: 16782}
+    - Class: 114
+      Script: {instanceID: 16790}
+    - Class: 114
+      Script: {instanceID: 16916}
+    - Class: 114
+      Script: {instanceID: 16948}
+    - Class: 114
+      Script: {instanceID: 16960}
+    - Class: 114
+      Script: {instanceID: 17044}
+    - Class: 114
+      Script: {instanceID: 17058}
+    - Class: 114
+      Script: {instanceID: 17084}
+    - Class: 114
+      Script: {instanceID: 17110}
+    - Class: 114
+      Script: {instanceID: 17120}
+    - Class: 114
+      Script: {instanceID: 17372}
+    - Class: 114
+      Script: {instanceID: 17386}
+    - Class: 114
+      Script: {instanceID: 17388}
+    - Class: 114
+      Script: {instanceID: 17444}
+    - Class: 114
+      Script: {instanceID: 17456}
+    - Class: 114
+      Script: {instanceID: 17506}
+    - Class: 114
+      Script: {instanceID: 17528}
+    - Class: 114
+      Script: {instanceID: 17530}
+    - Class: 114
+      Script: {instanceID: 17534}
+    - Class: 114
+      Script: {instanceID: 17574}
+    - Class: 114
+      Script: {instanceID: 17576}
+    - Class: 114
+      Script: {instanceID: 17610}
+    - Class: 114
+      Script: {instanceID: 17652}
+    - Class: 114
+      Script: {instanceID: 17810}
+    - Class: 114
+      Script: {instanceID: 17818}
+    - Class: 114
+      Script: {instanceID: 17830}
+    - Class: 114
+      Script: {instanceID: 17838}
+    - Class: 114
+      Script: {instanceID: 17884}
+    - Class: 114
+      Script: {instanceID: 17908}
+    - Class: 114
+      Script: {instanceID: 18004}
+    - Class: 114
+      Script: {instanceID: 18058}
+    - Class: 114
+      Script: {instanceID: 18162}
+    - Class: 114
+      Script: {instanceID: 18214}
+    - Class: 114
+      Script: {instanceID: 18224}
+    - Class: 114
+      Script: {instanceID: 18244}
+    - Class: 114
+      Script: {instanceID: 18360}
+    - Class: 114
+      Script: {instanceID: 18374}
+    - Class: 114
+      Script: {instanceID: 18444}
+    - Class: 114
+      Script: {instanceID: 122396}
+    - Class: 114
+      Script: {instanceID: 380324}
+    - Class: 114
+      Script: {instanceID: 381946}
+    - Class: 114
+      Script: {instanceID: 392946}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 120
+      Script: {instanceID: 0}
+    - Class: 122
+      Script: {instanceID: 0}
+    - Class: 124
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 134
+      Script: {instanceID: 0}
+    - Class: 135
+      Script: {instanceID: 0}
+    - Class: 136
+      Script: {instanceID: 0}
+    - Class: 138
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 198
+      Script: {instanceID: 0}
+    - Class: 199
+      Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 225
+      Script: {instanceID: 0}
+    - Class: 258
+      Script: {instanceID: 0}
+    - Class: 328
+      Script: {instanceID: 0}
+    - Class: 329
+      Script: {instanceID: 0}
+    Assets/_Scenes/PlanningScene.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11596}
+    - Class: 114
+      Script: {instanceID: 11598}
+    - Class: 114
+      Script: {instanceID: 11600}
+    - Class: 114
+      Script: {instanceID: 11602}
+    - Class: 114
+      Script: {instanceID: 11606}
+    - Class: 114
+      Script: {instanceID: 11610}
+    - Class: 114
+      Script: {instanceID: 11620}
+    - Class: 114
+      Script: {instanceID: 11684}
+    - Class: 114
+      Script: {instanceID: 11840}
+    - Class: 114
+      Script: {instanceID: 11848}
+    - Class: 114
+      Script: {instanceID: 12442}
+    - Class: 114
+      Script: {instanceID: 12616}
+    - Class: 114
+      Script: {instanceID: 12650}
+    - Class: 114
+      Script: {instanceID: 13232}
+    - Class: 114
+      Script: {instanceID: 13504}
+    - Class: 114
+      Script: {instanceID: 13842}
+    - Class: 114
+      Script: {instanceID: 14574}
+    - Class: 114
+      Script: {instanceID: 16120}
+    - Class: 114
+      Script: {instanceID: 16592}
+    - Class: 114
+      Script: {instanceID: 16782}
+    - Class: 114
+      Script: {instanceID: 16944}
+    - Class: 114
+      Script: {instanceID: 16960}
+    - Class: 114
+      Script: {instanceID: 17652}
+    - Class: 114
+      Script: {instanceID: 18224}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/_Scenes/PowerBIScene.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11598}
+    - Class: 114
+      Script: {instanceID: 11600}
+    - Class: 114
+      Script: {instanceID: 11610}
+    - Class: 114
+      Script: {instanceID: 11684}
+    - Class: 114
+      Script: {instanceID: 12220}
+    - Class: 114
+      Script: {instanceID: 12616}
+    - Class: 114
+      Script: {instanceID: 12816}
+    - Class: 114
+      Script: {instanceID: 13096}
+    - Class: 114
+      Script: {instanceID: 13232}
+    - Class: 114
+      Script: {instanceID: 13828}
+    - Class: 114
+      Script: {instanceID: 13842}
+    - Class: 114
+      Script: {instanceID: 15474}
+    - Class: 114
+      Script: {instanceID: 16020}
+    - Class: 114
+      Script: {instanceID: 16120}
+    - Class: 114
+      Script: {instanceID: 16456}
+    - Class: 114
+      Script: {instanceID: 16782}
+    - Class: 114
+      Script: {instanceID: 16960}
+    - Class: 114
+      Script: {instanceID: 17044}
+    - Class: 114
+      Script: {instanceID: 17456}
+    - Class: 114
+      Script: {instanceID: 18224}
+    - Class: 114
+      Script: {instanceID: 414562}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 258
+      Script: {instanceID: 0}
+    Assets/_Scenes/Training/1_Floor_Level.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 54
+      Script: {instanceID: 0}
+    - Class: 64
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 84
+      Script: {instanceID: 0}
+    - Class: 90
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11598}
+    - Class: 114
+      Script: {instanceID: 11600}
+    - Class: 114
+      Script: {instanceID: 11602}
+    - Class: 114
+      Script: {instanceID: 11604}
+    - Class: 114
+      Script: {instanceID: 11606}
+    - Class: 114
+      Script: {instanceID: 11610}
+    - Class: 114
+      Script: {instanceID: 11618}
+    - Class: 114
+      Script: {instanceID: 11684}
+    - Class: 114
+      Script: {instanceID: 12146}
+    - Class: 114
+      Script: {instanceID: 12310}
+    - Class: 114
+      Script: {instanceID: 12442}
+    - Class: 114
+      Script: {instanceID: 12682}
+    - Class: 114
+      Script: {instanceID: 12780}
+    - Class: 114
+      Script: {instanceID: 12788}
+    - Class: 114
+      Script: {instanceID: 12838}
+    - Class: 114
+      Script: {instanceID: 12950}
+    - Class: 114
+      Script: {instanceID: 12998}
+    - Class: 114
+      Script: {instanceID: 13164}
+    - Class: 114
+      Script: {instanceID: 13240}
+    - Class: 114
+      Script: {instanceID: 13764}
+    - Class: 114
+      Script: {instanceID: 13842}
+    - Class: 114
+      Script: {instanceID: 13926}
+    - Class: 114
+      Script: {instanceID: 14168}
+    - Class: 114
+      Script: {instanceID: 14314}
+    - Class: 114
+      Script: {instanceID: 14362}
+    - Class: 114
+      Script: {instanceID: 14450}
+    - Class: 114
+      Script: {instanceID: 14574}
+    - Class: 114
+      Script: {instanceID: 14602}
+    - Class: 114
+      Script: {instanceID: 14650}
+    - Class: 114
+      Script: {instanceID: 14674}
+    - Class: 114
+      Script: {instanceID: 15056}
+    - Class: 114
+      Script: {instanceID: 15066}
+    - Class: 114
+      Script: {instanceID: 15182}
+    - Class: 114
+      Script: {instanceID: 15314}
+    - Class: 114
+      Script: {instanceID: 15372}
+    - Class: 114
+      Script: {instanceID: 15474}
+    - Class: 114
+      Script: {instanceID: 15756}
+    - Class: 114
+      Script: {instanceID: 15888}
+    - Class: 114
+      Script: {instanceID: 15996}
+    - Class: 114
+      Script: {instanceID: 16052}
+    - Class: 114
+      Script: {instanceID: 16120}
+    - Class: 114
+      Script: {instanceID: 16238}
+    - Class: 114
+      Script: {instanceID: 16304}
+    - Class: 114
+      Script: {instanceID: 16782}
+    - Class: 114
+      Script: {instanceID: 16822}
+    - Class: 114
+      Script: {instanceID: 16916}
+    - Class: 114
+      Script: {instanceID: 16960}
+    - Class: 114
+      Script: {instanceID: 17020}
+    - Class: 114
+      Script: {instanceID: 17102}
+    - Class: 114
+      Script: {instanceID: 17528}
+    - Class: 114
+      Script: {instanceID: 17838}
+    - Class: 114
+      Script: {instanceID: 18162}
+    - Class: 114
+      Script: {instanceID: 18224}
+    - Class: 114
+      Script: {instanceID: 405776}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 120
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 135
+      Script: {instanceID: 0}
+    - Class: 136
+      Script: {instanceID: 0}
+    - Class: 137
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 195
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 238
+      Script: {instanceID: 0}
+  scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: 5ad4aa237d47ac2bab17bacb672edf7a
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: HorizontalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: aeb62f729c52c814dec86c47dcac1471
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Text
+  - hash:
+      serializedVersion: 2
+      Hash: 5f1752ed2092162f016c19510c28a8b9
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Button
+  - hash:
+      serializedVersion: 2
+      Hash: aba7b2852ef61d175dd9602e7723d5e5
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Mask
+  - hash:
+      serializedVersion: 2
+      Hash: 7072231382eb3c4871b3dd75ad0227e1
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Slider
+  - hash:
+      serializedVersion: 2
+      Hash: aa88ae22474df55295327e4ee99e5a24
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Toggle
+  - hash:
+      serializedVersion: 2
+      Hash: a63fc1a3b035e5a0b5839cd7f7b3086e
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 89f9a1b4c64db9559e39f4a2e3bfaadd
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Image
+  - hash:
+      serializedVersion: 2
+      Hash: 7ab0e790220bdca831fdd886b339039d
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GridLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 313163b2c06309ee082a587a8fad2f08
+    assemblyName: ProBuilderCore-Unity5.dll
+    namespaceName: 
+    className: pb_Object
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Outline
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Shadow
+  - hash:
+      serializedVersion: 2
+      Hash: 0dbc3be398b4869a5c8d0d8481ee402c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: LayoutElement
+  - hash:
+      serializedVersion: 2
+      Hash: 5ad4aa237d47ac2bab17bacb672edf7a
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: VerticalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: a1f19ad47d3094e235f21b74dfc423a8
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: PostProcessLayer
+  - hash:
+      serializedVersion: 2
+      Hash: 854a1594a41730855148016f07f32616
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.Test_Debug
+    className: EditorTestScript
+  - hash:
+      serializedVersion: 2
+      Hash: 691bc67440b2bc3ebd63df994f27410c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SensorToolkit.Example
+    className: AlarmController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.ExplorerMode.Rooms.Furniture
+    className: FurniturePlacer
+  - hash:
+      serializedVersion: 2
+      Hash: 280fa6048f916e682e2fd4f3791b34f3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.UI.Compass
+    className: CompassController
+  - hash:
+      serializedVersion: 2
+      Hash: 4bc4346a71a8df53a6b106f68ef3a190
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: CanvasScaler
+  - hash:
+      serializedVersion: 2
+      Hash: f73fb4531b040971675e8eb2205c150e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.UI.TopCameraPanel
+    className: OrientationHelper
+  - hash:
+      serializedVersion: 2
+      Hash: 605c909fdfe7f4843bf6682f9fac986a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Assets.Plugins.Lomenu_UI.Scripts
+    className: PlayAnim
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CSVWriteTuerschildListe
+  - hash:
+      serializedVersion: 2
+      Hash: 726fcf7961cbb4108aa5be5e55b8c8bf
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: ColorGrading
+  - hash:
+      serializedVersion: 2
+      Hash: b13de7a0a457cb8e026d4237dc1b5797
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: LensDistortion
+  - hash:
+      serializedVersion: 2
+      Hash: c42672c997f8be6b1aa86a927ebea785
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SelectionCaret
+  - hash:
+      serializedVersion: 2
+      Hash: 48565b6d84940d0bb0e291711cd82019
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SensorToolkit
+    className: RangeSensor2D
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: qb_Object
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: ZFBrowser.dll
+    namespaceName: ZenFulcrum.EmbeddedBrowser
+    className: StandaloneShutdown
+  - hash:
+      serializedVersion: 2
+      Hash: e87e4a4b53652e3121c1de39d982a768
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LaunchURL
+  - hash:
+      serializedVersion: 2
+      Hash: 87ff43d2baf3385cba327d8f803a4ebb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 626925ef558787b2d85c809198164d19
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: fb2d4fd18f5654e1894757d23cc4b88a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SensorToolkit
+    className: LOSTargets
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DataAnalytics
+  - hash:
+      serializedVersion: 2
+      Hash: 21be25811ed80c852a29100601d1a8b8
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.ImageEffects
+    className: TiltShift
+  - hash:
+      serializedVersion: 2
+      Hash: c895a3b68b0c5cefcf4e9a62b229a62c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: WorkerView
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: SmartHospital.dll
+    namespaceName: Common.Services
+    className: CoroutineService
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.ModelProcessing
+    className: CombineColliders
+  - hash:
+      serializedVersion: 2
+      Hash: 1ddf5588b5b804048233b21e7248ba02
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DS_Factory
+  - hash:
+      serializedVersion: 2
+      Hash: 6c8b956db05de8ba970de8ff90fa1be6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Chronos
+    className: LocalClock
+  - hash:
+      serializedVersion: 2
+      Hash: 90233dcaeda14fafb2784fe60c3060a6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.Test_Debug
+    className: TestCameraController
+  - hash:
+      serializedVersion: 2
+      Hash: 2b19be13f00df62e6d4d4f5539bcad51
+    assemblyName: NavMeshComponents.dll
+    namespaceName: UnityEngine.AI
+    className: NavMeshModifier
+  - hash:
+      serializedVersion: 2
+      Hash: fce78e15ff290214efe3a9602c07618a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LUI_ManageBlur
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: NUI_UserManagement
+  - hash:
+      serializedVersion: 2
+      Hash: 172cfdd977ca8a6f32932932c2f0d2ee
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.ImageEffects
+    className: ImageEffectBase
+  - hash:
+      serializedVersion: 2
+      Hash: c8c672fee8a258266e51b55a210b8083
+    assemblyName: NavMeshComponents.dll
+    namespaceName: UnityEngine.AI
+    className: NavMeshLink
+  - hash:
+      serializedVersion: 2
+      Hash: 83d56b22cc85bac1d5b0a7aac0c09909
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraHandler
+  - hash:
+      serializedVersion: 2
+      Hash: c150d9404e6b53770dd5f5e91004bccd
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.ImageEffects
+    className: BlurOptimized
+  - hash:
+      serializedVersion: 2
+      Hash: 0d85f4fda1e0e70cd92c084d12f05cdc
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.Characters.ThirdPerson
+    className: AICharacterControl
+  - hash:
+      serializedVersion: 2
+      Hash: 2d3a6294a05b1f2fa2815f9e7b1e1fd7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ProgressBar
+  - hash:
+      serializedVersion: 2
+      Hash: be8b29ecd05b56bbfb5cc0e39b16c11b
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.Characters.FirstPerson
+    className: FirstPersonController
+  - hash:
+      serializedVersion: 2
+      Hash: c3efeb87e8bf6642837902ab2798e6c8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LMSObject
+  - hash:
+      serializedVersion: 2
+      Hash: 71f7f12b8d0f4fd73590db8bcb6d453c
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: Bloom
+  - hash:
+      serializedVersion: 2
+      Hash: 5bd9a19c7b5f76c563418e28f48a561b
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkLobbyPlayer
+  - hash:
+      serializedVersion: 2
+      Hash: 032425131b3d68b5d25a6ddf7121deba
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.CinematicEffects
+    className: AntiAliasing
+  - hash:
+      serializedVersion: 2
+      Hash: e7a73f5f78ba6445195ec23b74a1ce2d
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_ScrollbarEventHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.TrainingRoom
+    className: CreateDoorSignNumber
+  - hash:
+      serializedVersion: 2
+      Hash: af93f9c42e90877a9ba31e37adfd900c
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: MotionBlur
+  - hash:
+      serializedVersion: 2
+      Hash: ee4d983acb704ab10b99dd3471e843c2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.ExplorerMode.CameraControl
+    className: ExplorerCamera
+  - hash:
+      serializedVersion: 2
+      Hash: 7e6f3cec810b51366c6e857ffaf3cdbc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PanelManager
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CollectPatientsOnBusstop
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SensorToolkit
+    className: RenderFOVCollider
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.TrainingRoom
+    className: FindNextBusstop
+  - hash:
+      serializedVersion: 2
+      Hash: 6e61ab2d4520d13be4cc342fa69df20f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.TrainingRoom
+    className: CameraOrbit
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlaceFurniture
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PowerBISceneManager
+  - hash:
+      serializedVersion: 2
+      Hash: 04e4a8b0447477cc4e933d9e5311188f
+    assemblyName: UnityEngine.XR.LegacyInputHelpers.dll
+    namespaceName: UnityEngine.XR.LegacyInputHelpers
+    className: ArmModel
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ZenFulcrum.EmbeddedBrowser
+    className: SimpleScripting
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: SampleInfo
+  - hash:
+      serializedVersion: 2
+      Hash: f5d760d1839b712179a6777be9cef0ee
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Chronos
+    className: Timeline
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: GroupTrack
+  - hash:
+      serializedVersion: 2
+      Hash: cefc42c2cb25819ed10824bfe940c3dc
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.ImageEffects
+    className: GlobalFog
+  - hash:
+      serializedVersion: 2
+      Hash: a5e44188ccd983bb228b74d4b7419ecf
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.ImageEffects
+    className: ContrastStretch
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: qb_ObjectContainer
+  - hash:
+      serializedVersion: 2
+      Hash: 51f8d470cac09a8e32d2d547963d8efc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ResizePanel
+  - hash:
+      serializedVersion: 2
+      Hash: 44e8b1f220b4b9354907f7d1136d1216
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CustomDropdown
+  - hash:
+      serializedVersion: 2
+      Hash: caf8dd6d27a7e29b6cbf5fd78c24bff3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CreatePatients
+  - hash:
+      serializedVersion: 2
+      Hash: 02493766ba0d073bd9e5d602a5878d4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: iTween
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.UI
+    className: LoadingPanel
+  - hash:
+      serializedVersion: 2
+      Hash: 5f1752ed2092162f016c19510c28a8b9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ToggleButton
+  - hash:
+      serializedVersion: 2
+      Hash: 5f1416bf0ef83bdf55c2031dcecd02e6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: FillPanel_StyleSet
+  - hash:
+      serializedVersion: 2
+      Hash: a5781dc71a671b1ad2b38de19f24b71f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: b2119094b0083707a0b6ff356d4a1f66
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.ImageEffects
+    className: VignetteAndChromaticAberration
+  - hash:
+      serializedVersion: 2
+      Hash: 3340d4ce84d6bec78c0c148667fdf5fa
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.TrainingRoom
+    className: HighlightGameObject
+  - hash:
+      serializedVersion: 2
+      Hash: aef611de62ec05f65dec413b7704aa3b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ZenFulcrum.EmbeddedBrowser
+    className: VRBrowserPanel
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.Controller.ExplorerMode.Rooms.Details
+    className: RoomDetailsView
+  - hash:
+      serializedVersion: 2
+      Hash: b4fe9b6a9a83a71b0c04bde4e42f5e5a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SensorToolkit.Example
+    className: SecurityCamera
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: EventSystemChecker
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ObjectRelationSetterController
+  - hash:
+      serializedVersion: 2
+      Hash: afc5b93a7b192de2dcb3832fe35a5c7e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Chronos.Example
+    className: ExampleSpin
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: NUI_Device
+  - hash:
+      serializedVersion: 2
+      Hash: d9d02fe028b61c5d98e50a25f7f44fcf
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.CinematicEffects
+    className: ScreenSpaceReflection
+  - hash:
+      serializedVersion: 2
+      Hash: cbdaf6289eb255feedd0bee0a753faee
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ExtrudeRandomEdges
+  - hash:
+      serializedVersion: 2
+      Hash: 499fd23433e68e265d153aa6b95d0047
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Scrollbar
+  - hash:
+      serializedVersion: 2
+      Hash: eafb77726b67b7571818a7210a3ce11e
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkIdentity
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: ZFBrowser.dll
+    namespaceName: ZenFulcrum.EmbeddedBrowser
+    className: DialogHandler
+  - hash:
+      serializedVersion: 2
+      Hash: ee75fac22abf7b96a21bd28575dd65d2
+    assemblyName: ZFBrowser.dll
+    namespaceName: ZenFulcrum.EmbeddedBrowser
+    className: FPSBrowserUI
+  - hash:
+      serializedVersion: 2
+      Hash: e516979283d10ce44925f4fcbc0fac45
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LUI_UIAnimManager
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: PositionAsUV1
+  - hash:
+      serializedVersion: 2
+      Hash: abf1930d8126d0b2e00e9449129a0190
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: TouchInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 0ae73a56816c59c1027053d87c2589c7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CSVTuerliste
+  - hash:
+      serializedVersion: 2
+      Hash: ca722af37fed3cd6078f0cc41971ba1b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ItemDragHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 6634c76cc65d07ad1c0bb079e9fa6f29
+    assemblyName: CIHttpClient.dll
+    namespaceName: 
+    className: ExampleSceneManagerController
+  - hash:
+      serializedVersion: 2
+      Hash: f0adccffaa460cb5c8914229276bfa0d
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.ImageEffects
+    className: ColorCorrectionCurves
+  - hash:
+      serializedVersion: 2
+      Hash: 81b30dd509178db385045390b055a500
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.TrainingRoom
+    className: ShowFloorOnClick
+  - hash:
+      serializedVersion: 2
+      Hash: ce7747f8dd3f2731bac179a9306c4f5e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LUI_PAK
+  - hash:
+      serializedVersion: 2
+      Hash: c722850d8119fb17fb5d6d415d867f64
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: InventoryItemUIController
+  - hash:
+      serializedVersion: 2
+      Hash: b327fbaefba96f3964a1c8e2a3df5216
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LUI_DissolveEdge
+  - hash:
+      serializedVersion: 2
+      Hash: fcb9320e5c33cc01bf1bad6a0e107374
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.ExplorerMode.Services
+    className: ColliderHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: TestResultRendererCallback
+  - hash:
+      serializedVersion: 2
+      Hash: 18b4f536ecc94fc703518dbddf1d49e5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: NUI_Floors
+  - hash:
+      serializedVersion: 2
+      Hash: 3ef34249fb531e0d7d12cba5487cd45e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PrototypeHouseBuilding
+  - hash:
+      serializedVersion: 2
+      Hash: f542c1afca5bb4022f91fdda19b8d622
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: DepthOfField
+  - hash:
+      serializedVersion: 2
+      Hash: 6a51afd3b0ad5aed795f1a72591bd3b8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SensorToolkit.Example
+    className: ScoreZone
+  - hash:
+      serializedVersion: 2
+      Hash: 6f7eb4da14bbe9f9f4564025cbe28bf7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlayerCameraController
+  - hash:
+      serializedVersion: 2
+      Hash: 234235b9fb07320d11497e08a726cc56
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_InputField
+  - hash:
+      serializedVersion: 2
+      Hash: 352455aaadb8c98ff36ead557753abfa
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.CrossPlatformInput
+    className: TiltInput
+  - hash:
+      serializedVersion: 2
+      Hash: ad9173d3a69d99153f38ed4b62226129
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkTransform
+  - hash:
+      serializedVersion: 2
+      Hash: 18c36f79032077bf280fac8e890635e6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: FillPanel
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.TrainingRoom
+    className: PlayerCameraControllerActions
+  - hash:
+      serializedVersion: 2
+      Hash: 4fcbe16b2ca5619db65fcc048185d681
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: qd_Decal
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ModeManager
+  - hash:
+      serializedVersion: 2
+      Hash: 6f23d47832affbe340abbb256483d247
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: NavigationDummy
+  - hash:
+      serializedVersion: 2
+      Hash: b92219d11d51e1d73fb165e70d2555b4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ZenFulcrum.EmbeddedBrowser
+    className: DemoList
+  - hash:
+      serializedVersion: 2
+      Hash: b9709313863bb6f91727ab109673a689
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.ExplorerMode.Rooms.TagSystem
+    className: RoomPainter
+  - hash:
+      serializedVersion: 2
+      Hash: 3165d54eee0d0545cc6427833e3d97c8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ParticleMenu
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: RedLightFlicker
+  - hash:
+      serializedVersion: 2
+      Hash: 63d7b9b64a11859f416d72ba9a3c3fec
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: ScreenSpaceReflections
+  - hash:
+      serializedVersion: 2
+      Hash: 3fbb1a5ffeb0d2dc3502a3dae62a7533
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityEngine.PostProcessing
+    className: PostProcessingBehaviour
+  - hash:
+      serializedVersion: 2
+      Hash: 4ccb3507a96a63f0d63542f0ea89b571
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: vThirdPersonCamera
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.Vehicles.Ball
+    className: BallUserControl
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: InventoryListDropHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 8dc6000c4f82bebfd36a68671c55443e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlaceableInventoryItemSO
+  - hash:
+      serializedVersion: 2
+      Hash: 87c952415b666295908abc8038a930c1
+    assemblyName: ZFBrowser.dll
+    namespaceName: ZenFulcrum.EmbeddedBrowser
+    className: PointerUIGUI
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LMSMainController
+  - hash:
+      serializedVersion: 2
+      Hash: 4abd0ecda08adaf8346fcd0cd3e4112f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: RoomSearch
+  - hash:
+      serializedVersion: 2
+      Hash: 65b3a3b9a7779d539ec75a3ceddebdba
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MinimapScript
+  - hash:
+      serializedVersion: 2
+      Hash: 8aa3d6ccbcb54ee8db6c1229854adaaa
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ContentSizeFitter
+  - hash:
+      serializedVersion: 2
+      Hash: 29d5d973871cffe5ed410a8c558c036b
+    assemblyName: ZFBrowser.dll
+    namespaceName: ZenFulcrum.EmbeddedBrowser
+    className: FPSCursorRenderer
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalAsset
+  - hash:
+      serializedVersion: 2
+      Hash: a4f53786c5e89397b7d34957535b29a9
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.ImageEffects
+    className: NoiseAndScratches
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.Controller.ExplorerMode.Rooms.Details.Workers
+    className: WorkerSlider
+  - hash:
+      serializedVersion: 2
+      Hash: c9d7f0d81fdae2d877bb1152cc49f7a4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ProBuilder2.Examples
+    className: IcoBumpin
+  - hash:
+      serializedVersion: 2
+      Hash: ae3821ed54c3dc1263aafbca50c7d072
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ExportController
+  - hash:
+      serializedVersion: 2
+      Hash: 38bcb4d3f9a1812fd650f92e87a4cf64
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: PostProcessProfile
+  - hash:
+      serializedVersion: 2
+      Hash: 47f7902f8963babdce608bf76d778b9c
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.ImageEffects
+    className: Antialiasing
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: PhysicsRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 0ed2f28b1576a540cd29bdc18f504c5d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LUI_RotateObject
+  - hash:
+      serializedVersion: 2
+      Hash: 816e8a9924bba72d67cd8bcf9c25e71e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.StartMenu
+    className: SetupModule
+  - hash:
+      serializedVersion: 2
+      Hash: cca5a3d8fdc962e2e4e678357846e223
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: BehaviorDesigner.Runtime
+    className: ExternalBehaviorTree
+  - hash:
+      serializedVersion: 2
+      Hash: e82c0521cdfe8cb6a168ef7208a98d4a
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: Vignette
+  - hash:
+      serializedVersion: 2
+      Hash: bbcf9b31fbaedd5b81174ec059031023
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SensorToolkit
+    className: RaySensor
+  - hash:
+      serializedVersion: 2
+      Hash: 6cfb5066712da9f13c6f1589f6b81d35
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ItemTriggerer
+  - hash:
+      serializedVersion: 2
+      Hash: a932fa4c81183e517c980d86ebd089e6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.Controller.ExplorerMode.Rooms.Details
+    className: DetailsController
+  - hash:
+      serializedVersion: 2
+      Hash: 68c3272fa953a0c2897208782c52c818
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TriggerUI
+  - hash:
+      serializedVersion: 2
+      Hash: 23f6680eb5de83fe5c844dd40be43a0d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.UI
+    className: SlidePanel
+  - hash:
+      serializedVersion: 2
+      Hash: e540a01426f9ad59088593bf72bcd255
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.Utility
+    className: TimedObjectActivator
+  - hash:
+      serializedVersion: 2
+      Hash: c2bcce63c26a06b9fc9cc986e4aea8a4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DemoManager
+  - hash:
+      serializedVersion: 2
+      Hash: 0ed2f28b1576a540cd29bdc18f504c5d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Assets.Plugins.Lomenu_UI.Scripts
+    className: RotateObject
+  - hash:
+      serializedVersion: 2
+      Hash: bd3cf68c8964d3c66d1c43f4f98508c9
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 440a712404c62ee9b6e8f424420969a4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PowerBIStreaming
+  - hash:
+      serializedVersion: 2
+      Hash: 3f0b469d844365c00a63de0437c9b29e
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkProximityChecker
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: BuildingLayer
+  - hash:
+      serializedVersion: 2
+      Hash: f223accbd8eb021da976eeef15b24e5b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SensorToolkit.Example
+    className: CollectPickups
+  - hash:
+      serializedVersion: 2
+      Hash: b6abddfe81ce7709fd679f1ea0433cf7
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.ImageEffects
+    className: BloomAndFlares
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.Common
+    className: BaseController
+  - hash:
+      serializedVersion: 2
+      Hash: cf9f5cf2c3145a37ac07f00e50e460f9
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: AspectRatioFitter
+  - hash:
+      serializedVersion: 2
+      Hash: c920e41190b99e204f202d0e5b78dcf4
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.CinematicEffects
+    className: TonemappingColorGrading
+  - hash:
+      serializedVersion: 2
+      Hash: 2ca82dfd5404190e9b95e8c1b8eb4f1b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.TrainingRoom
+    className: FirstCameraScript
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SetPhysicsLayersMatrix
+  - hash:
+      serializedVersion: 2
+      Hash: b7e25b57a71c017f68ee0e139604d48c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DemoPanelAnim
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Assets.Plugins.Scripts.TrainingRoomScripts
+    className: CreateSettings
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ParticleCollision
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RectMask2D
+  - hash:
+      serializedVersion: 2
+      Hash: 5e6fb8984b8da264988bb633a6daef0b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DigitalSinageManager
+  - hash:
+      serializedVersion: 2
+      Hash: 188f2c42c5c42ffa042c86cd9b1c701a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.TrainingRoom
+    className: DialogueTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 8792e8356998aff9da84718837517b33
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.ImageEffects
+    className: Blur
+  - hash:
+      serializedVersion: 2
+      Hash: af78f221a76b31179241c75f785d3894
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.ImageEffects
+    className: MotionBlur
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: BuildingEditor_ControllerForCreation
+  - hash:
+      serializedVersion: 2
+      Hash: d941ab6dd93d37ffdf2277f2ea2375a0
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SubMeshUI
+  - hash:
+      serializedVersion: 2
+      Hash: 27d26b96608f065747f3798560339928
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.ExplorerMode
+    className: AutoCompleteInput
+  - hash:
+      serializedVersion: 2
+      Hash: 52bcb9c2a78bdd8d98a59e915c346e75
+    assemblyName: UnityEngine.XR.LegacyInputHelpers.dll
+    namespaceName: UnityEngine.XR.LegacyInputHelpers
+    className: TransitionArmModel
+  - hash:
+      serializedVersion: 2
+      Hash: 755aa9308df9cb5ec0a491ba4f5f09a5
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.ImageEffects
+    className: Bloom
+  - hash:
+      serializedVersion: 2
+      Hash: 83d56b22cc85bac1d5b0a7aac0c09909
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TouchObject
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.ExplorerMode.Rooms.Furniture
+    className: CollisionChecker
+  - hash:
+      serializedVersion: 2
+      Hash: 5ab533713adae59372fb3e10a585c186
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 303da015e9d1de9fdb27bbc2ba279ebd
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.Utility
+    className: WaypointProgressTracker
+  - hash:
+      serializedVersion: 2
+      Hash: 7a83dd549385029dca78d92a52925188
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TimeSpent
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: InventoryButtonController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: InventorySearch
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ActiveStateToggler
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.ExplorerMode.Rooms.TagSystem
+    className: TagSystemController
+  - hash:
+      serializedVersion: 2
+      Hash: 3a4b43922690b5c2c14f373305973aa0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Chronos.Example
+    className: ExampleBubble
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Drag_3D_Object
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: NUI_Planning
+  - hash:
+      serializedVersion: 2
+      Hash: 4f1970ff338df22918d773d264a0b0a3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LMSURLObject
+  - hash:
+      serializedVersion: 2
+      Hash: 73ff776d5ab44222aea9bd20968feb3a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: NavigationDummyView
+  - hash:
+      serializedVersion: 2
+      Hash: 230f7b5038f49d457dbcc3c455c71d9a
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.ImageEffects
+    className: ScreenSpaceAmbientObscurance
+  - hash:
+      serializedVersion: 2
+      Hash: d251bf88db6c95a6b1aa0b69298da9ef
+    assemblyName: UnityEngine.SpatialTracking.dll
+    namespaceName: UnityEngine.SpatialTracking
+    className: TrackedPoseDriver
+  - hash:
+      serializedVersion: 2
+      Hash: e7a02807a9dd36a9473edc2584ea5622
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GUI_TimersList
+  - hash:
+      serializedVersion: 2
+      Hash: 44e660673da5f91267c6f82549829bce
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GunShoot
+  - hash:
+      serializedVersion: 2
+      Hash: 00c8252a0159bff95bb64fd0e1a4911b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: BehaviorSelection
+  - hash:
+      serializedVersion: 2
+      Hash: 0630ef391884c85b664f0de03aad8a49
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SensorToolkit.Example
+    className: PlayerInput
+  - hash:
+      serializedVersion: 2
+      Hash: 1609b6e291a9d9d741011a24aeca665e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: RatingSystem
+  - hash:
+      serializedVersion: 2
+      Hash: 0e6ee66561388929ebf71f21348074e3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GroundPlacementControler
+  - hash:
+      serializedVersion: 2
+      Hash: 915822c3453f491f77b91bd4672b947c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: BehaviorDesigner.Runtime.Tactical
+    className: Bullet
+  - hash:
+      serializedVersion: 2
+      Hash: 3e5cd31aea86c0b7ffd7c72db93fcce4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Unity.ExplorerMode.Room.Details
+    className: RoomDetailsController
+  - hash:
+      serializedVersion: 2
+      Hash: bb8814741d7085ebb3d19a1a11769619
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DecalDestroyer
+  - hash:
+      serializedVersion: 2
+      Hash: ea76529a105664e3864387e89fedf062
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: InventoryDragController
+  - hash:
+      serializedVersion: 2
+      Hash: 92efbdf110ef16bafc152258981ace3e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.ExplorerMode.Rooms.Locator
+    className: RoomLocator2D
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.Controller.ExplorerMode.Rooms.Details
+    className: RoomparametersView
+  - hash:
+      serializedVersion: 2
+      Hash: adba84ec5346d3d3d826f4d2f98f30d9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: FollowMouseUI
+  - hash:
+      serializedVersion: 2
+      Hash: 7c6a6a00056201b83275da850ccb75b2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DS_Element
+  - hash:
+      serializedVersion: 2
+      Hash: c553b9b2d0dbf874565e8a4a3b771797
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SensorToolkit
+    className: FOVCollider2D
+  - hash:
+      serializedVersion: 2
+      Hash: 358a06d45aefcef15e4a8f9c7863829d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.TrainingRoom
+    className: StartPlayerQuest
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: FollowMouseUIController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: InventoryController
+  - hash:
+      serializedVersion: 2
+      Hash: e140c441a7f8ae40762ecf0e10a95f3c
+    assemblyName: ZFBrowser.dll
+    namespaceName: ZenFulcrum.EmbeddedBrowser
+    className: CursorRendererWorldSpace
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: MoveSample
+  - hash:
+      serializedVersion: 2
+      Hash: 7e6ed836cbaa230e56d6a2bbae1b9bb5
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: PostProcessEffectSettings
+  - hash:
+      serializedVersion: 2
+      Hash: 4165f641f5f6fb97be1151e0b36ce478
+    assemblyName: ZFBrowser.dll
+    namespaceName: ZenFulcrum.EmbeddedBrowser
+    className: Browser
+  - hash:
+      serializedVersion: 2
+      Hash: db1f205a8c9dae1c39098cd23fc97f63
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.Utility
+    className: ParticleSystemDestroyer
+  - hash:
+      serializedVersion: 2
+      Hash: 300294db6646db322607497367ed0d1c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LUI_Quality
+  - hash:
+      serializedVersion: 2
+      Hash: cc4274b586df3c02688bac01b88bd16c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventSystem
+  - hash:
+      serializedVersion: 2
+      Hash: 22c018dd8fa228e66d586ea6215449b3
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.Utility
+    className: SimpleMouseRotator
+  - hash:
+      serializedVersion: 2
+      Hash: 122d7ffab68b4eedc72a1fce03e63c2f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.ImageEffects
+    className: BloomOptimized
+  - hash:
+      serializedVersion: 2
+      Hash: 0fb27be807aa299702f28ad0bcad1f46
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: e3b3cd16f09d8f278095c391919314fc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.Test_Debug
+    className: WTSP_Test
+  - hash:
+      serializedVersion: 2
+      Hash: e390535084dd746e4106cde972be032e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CreatePlaceableInventoryitem
+  - hash:
+      serializedVersion: 2
+      Hash: 39b710db8a8394c70fb3df841af7b1f2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: FlicFlacObj
+  - hash:
+      serializedVersion: 2
+      Hash: 9ee14807b9cc5ac872c4eb3201d9a632
+    assemblyName: ZFBrowser.dll
+    namespaceName: ZenFulcrum.EmbeddedBrowser
+    className: BrowserSystemSettings
+  - hash:
+      serializedVersion: 2
+      Hash: cf07c6a6f9498ddd55a62c7012d9b3b0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.TrainingRoom
+    className: MovePlayer
+  - hash:
+      serializedVersion: 2
+      Hash: ddc69caaafb44bc3d543b18fd529fb22
+    assemblyName: ZFBrowser.dll
+    namespaceName: ZenFulcrum.EmbeddedBrowser
+    className: CursorRendererOverlay
+  - hash:
+      serializedVersion: 2
+      Hash: b1788818b54e28f7352a809b98c12631
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.TrainingRoom
+    className: LoadingBarController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.TrainingRoom
+    className: DisableDialogueQuestTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.Utility
+    className: DragRigidbody
+  - hash:
+      serializedVersion: 2
+      Hash: b8a5e8091ab0b8861d2add371082c5e0
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SpriteAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 069b4334f0d929130287017a0907766c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SensorToolkit.Example
+    className: Lifetime
+  - hash:
+      serializedVersion: 2
+      Hash: f50f9c0c30d4e31e2d25d40f199f1f6a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: qb_Group
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DestroyerOfBuilding
+  - hash:
+      serializedVersion: 2
+      Hash: 8dc90e648ac06f43bdd31ac9fa8f4579
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Selectable
+  - hash:
+      serializedVersion: 2
+      Hash: 9764bd29c557a2c26a97db9751b471af
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.CinematicEffects
+    className: Bloom
+  - hash:
+      serializedVersion: 2
+      Hash: 1b125c1450986846e6f6e00007f89217
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.Test_Debug
+    className: MathfTestScript
+  - hash:
+      serializedVersion: 2
+      Hash: a8b6c919b2049fcc280823488144371f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.CrossPlatformInput
+    className: Joystick
+  - hash:
+      serializedVersion: 2
+      Hash: 0e077fe9f3e4c88d25e8bf7fe3e0d40b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SensorToolkit
+    className: SteeringRig2D
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DoorSignController
+  - hash:
+      serializedVersion: 2
+      Hash: afc5b93a7b192de2dcb3832fe35a5c7e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraMovement
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ExplorerMode.UI.View
+    className: FloorControlView
+  - hash:
+      serializedVersion: 2
+      Hash: ef7e5375eff273d6aeb06144e796ea91
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ObjectActivationManager
+  - hash:
+      serializedVersion: 2
+      Hash: 88b9548d94f34d8b38e6f2bb376c5e6a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SensorToolkit
+    className: SteeringRig
+  - hash:
+      serializedVersion: 2
+      Hash: fcc7d6e27d92b560c59fd078ed68f763
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CreateBedsForPatient
+  - hash:
+      serializedVersion: 2
+      Hash: 0b2f6cf9bb4288f0810b0094f0afa4c3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: NUI_DoorSign
+  - hash:
+      serializedVersion: 2
+      Hash: 4f631fd718256a8c69483c396671a274
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.Utility
+    className: PlatformSpecificContent
+  - hash:
+      serializedVersion: 2
+      Hash: 265cf27ba050d55ff33a8acab4ded6c0
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkLobbyManager
+  - hash:
+      serializedVersion: 2
+      Hash: 7299a528424874bcf6b5736b5305ac37
+    assemblyName: NavMeshComponents.dll
+    namespaceName: UnityEngine.AI
+    className: NavMeshModifierVolume
+  - hash:
+      serializedVersion: 2
+      Hash: 986fa60e9fea9cb685f132bf0dae3a1e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Analyse
+  - hash:
+      serializedVersion: 2
+      Hash: 5e8a01a14cef8c5fb6866e39e13545df
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.Characters.ThirdPerson
+    className: ThirdPersonCharacter
+  - hash:
+      serializedVersion: 2
+      Hash: 61b9d9b6f4b6a222dfea8b131b3d3227
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: ChromaticAberration
+  - hash:
+      serializedVersion: 2
+      Hash: e6291ce11b9085188dd1689c4e0dbaeb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ZenFulcrum.EmbeddedBrowser
+    className: ForcedCooperation
+  - hash:
+      serializedVersion: 2
+      Hash: 5887ef1bc706b22b773d253fd443ceef
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkTransformVisualizer
+  - hash:
+      serializedVersion: 2
+      Hash: 0018becf9b90ed7e341d763b0e3b0d91
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Chronos
+    className: AreaClock2D
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DragUI
+  - hash:
+      serializedVersion: 2
+      Hash: 3ea8e75a925755f5d44e188b3e6ffe49
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.ExplorerMode.Services
+    className: DimensionToggle
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital
+    className: Keys
+  - hash:
+      serializedVersion: 2
+      Hash: 3b727d6ff558a5695208e391bd4787cd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Invector.CharacterController
+    className: vThirdPersonInput
+  - hash:
+      serializedVersion: 2
+      Hash: 0574135745ea880aa1c1be2f2057ab89
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.Utility
+    className: ActivateTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 13df3f61cec8bab90a8b75d42b78c5f6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Assets.Plugins.Lomenu_UI.Scripts
+    className: PanelAnim
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Assets.Plugins.Lomenu_UI.Scripts
+    className: Volume
+  - hash:
+      serializedVersion: 2
+      Hash: 5601d39465fdea1b11f88e7d3ea609b3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DropdownItem
+  - hash:
+      serializedVersion: 2
+      Hash: 8429f5e2e74458d387d20325476dffbf
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GunAim
+  - hash:
+      serializedVersion: 2
+      Hash: 4bd1cc3c85989d2213a9a8fd9d09e63f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.CrossPlatformInput
+    className: InputAxisScrollbar
+  - hash:
+      serializedVersion: 2
+      Hash: 76bf993f28bd8792c6d98ee3c25b121a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlayerPoints
+  - hash:
+      serializedVersion: 2
+      Hash: 9304ec324eeb2352dc40133327ca103f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: vPickupItem
+  - hash:
+      serializedVersion: 2
+      Hash: fdd7177da17032ba94d98037cc97bb49
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.CrossPlatformInput
+    className: AxisTouchButton
+  - hash:
+      serializedVersion: 2
+      Hash: f95b4d8f733728094250d2cc193f20e5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TestCreatePanelsAndElements
+  - hash:
+      serializedVersion: 2
+      Hash: b3ab2106268377ffe25dd18ac23dca28
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Asset
+  - hash:
+      serializedVersion: 2
+      Hash: 3a3324b73792dde0ff97dae69b3a3dfb
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.ImageEffects
+    className: SunShafts
+  - hash:
+      serializedVersion: 2
+      Hash: 2300cb01ec91e3b565a36e68c876a862
+    assemblyName: ZFBrowser.dll
+    namespaceName: ZenFulcrum.EmbeddedBrowser
+    className: ExternalKeyboard
+  - hash:
+      serializedVersion: 2
+      Hash: 496b85625bed8c6583368d58a6b35397
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ImportController
+  - hash:
+      serializedVersion: 2
+      Hash: a72b59fc029116362b3317d54b5ec7e0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Assets.Plugins.Lomenu_UI.Scripts
+    className: TiltWindow
+  - hash:
+      serializedVersion: 2
+      Hash: d4020bafcd3ccbb5601a6e6c8ac78be0
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ScrollRect
+  - hash:
+      serializedVersion: 2
+      Hash: 35628e01a2c2098c088fe055b6c17d85
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ScreenRecorder
+  - hash:
+      serializedVersion: 2
+      Hash: 72ebe068bbe74f0af5f0f552d2fb8510
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.TrainingRoom
+    className: FindLocationQuest
+  - hash:
+      serializedVersion: 2
+      Hash: 124b454dcd5e2ee0a64fec54a99e5f39
+    assemblyName: ZFBrowser.dll
+    namespaceName: ZenFulcrum.EmbeddedBrowser
+    className: GUIBrowserUI
+  - hash:
+      serializedVersion: 2
+      Hash: 3b4f2930eead4627abe94d84631a5fe3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ItemDropOnTrash
+  - hash:
+      serializedVersion: 2
+      Hash: 2490b63d58b20a9faa00e732500a94b7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LineBetweenPoints
+  - hash:
+      serializedVersion: 2
+      Hash: e87e4a4b53652e3121c1de39d982a768
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Assets.Plugins.Lomenu_UI.Scripts
+    className: LaunchURL
+  - hash:
+      serializedVersion: 2
+      Hash: 5651636d27d26c924efb665f0c4ea7b3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: BadgesUIChanges
+  - hash:
+      serializedVersion: 2
+      Hash: 095cadd77c41006893943c13220e079b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ZenFulcrum.EmbeddedBrowser
+    className: SimpleFPSController
+  - hash:
+      serializedVersion: 2
+      Hash: c88c4199b288356ec3eb2f0d85abc619
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.CrossPlatformInput
+    className: ButtonHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ProBuilder2.Examples
+    className: HueCube
+  - hash:
+      serializedVersion: 2
+      Hash: 300294db6646db322607497367ed0d1c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Assets.Plugins.Lomenu_UI.Scripts
+    className: Quality
+  - hash:
+      serializedVersion: 2
+      Hash: 0e0c7e6c34f2d19ba95cf463e39888b1
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.Characters.FirstPerson
+    className: HeadBob
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.Characters.ThirdPerson
+    className: ThirdPersonUserControl
+  - hash:
+      serializedVersion: 2
+      Hash: a4d879eed97e8d86fd752672fc026fa2
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.Utility
+    className: AutoMoveAndRotate
+  - hash:
+      serializedVersion: 2
+      Hash: 105d6ed16fcc2639030f3ee7f0e1fa9d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CustomInputField
+  - hash:
+      serializedVersion: 2
+      Hash: 699582968bf572a4f5f4654f266dca73
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DropMe
+  - hash:
+      serializedVersion: 2
+      Hash: 7a702ef52839a07b0aa02c610d6d0921
+    assemblyName: ZFBrowser.dll
+    namespaceName: ZenFulcrum.EmbeddedBrowser
+    className: DownloadManager
+  - hash:
+      serializedVersion: 2
+      Hash: 48565b6d84940d0bb0e291711cd82019
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SensorToolkit
+    className: RangeSensor
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CamFlyScript
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: ForcedReset
+  - hash:
+      serializedVersion: 2
+      Hash: f8bd7a92bf9f22d289759689ae7b1fd4
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.Utility
+    className: SmoothFollow
+  - hash:
+      serializedVersion: 2
+      Hash: 9e9de9602ef6bfbb08a3d43c6cb8e928
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TemporaryData
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: RoomparameterView
+  - hash:
+      serializedVersion: 2
+      Hash: a00880e89f8927e9a80e760601284102
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Assets.Plugins.Lomenu_UI.Scripts
+    className: BrightnessAdjustment
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkCallbacks
+  - hash:
+      serializedVersion: 2
+      Hash: d0f7fb684948b079b861debb14bf28a7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: vComment
+  - hash:
+      serializedVersion: 2
+      Hash: b2cea134b905c700900f7e334a88ca77
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MobileUiController
+  - hash:
+      serializedVersion: 2
+      Hash: 4f1d41810ffa0fd02e115116705341cc
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.CinematicEffects
+    className: DepthOfField
+  - hash:
+      serializedVersion: 2
+      Hash: 133ce3970b69c5ec36e0472b918eb1b6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MultiWebCamManager
+  - hash:
+      serializedVersion: 2
+      Hash: 37ed34899c7b9ff5ce87742fd3a187c5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SaveImageOnHDD
+  - hash:
+      serializedVersion: 2
+      Hash: 86cfcd24b9fc59be9240f6811ea3b2b2
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.ImageEffects
+    className: ScreenOverlay
+  - hash:
+      serializedVersion: 2
+      Hash: 0568889868f6fb744b2ecba530349fde
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: ExampleWheelController
+  - hash:
+      serializedVersion: 2
+      Hash: 70c0cc519938006cb977e3f112b4e42e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SwitchAnim
+  - hash:
+      serializedVersion: 2
+      Hash: 21e871d89bbce53c038fc75ad1b7c7f3
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkManager
+  - hash:
+      serializedVersion: 2
+      Hash: d6fc8d3165070298511ec776ea575626
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: PostProcessResources
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SpriteAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: b4a17f9cbc4da95ee77dba23b45dea37
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.CinematicEffects
+    className: LensAberrations
+  - hash:
+      serializedVersion: 2
+      Hash: 806d03005dc7f35acc8bc1f3aca48a47
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: OverViewZoom
+  - hash:
+      serializedVersion: 2
+      Hash: b3b88a83977f0095ee5fd9765e4de1e8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AnimationScript
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: SmartHospital.dll
+    namespaceName: SmartHospital.Database.Request
+    className: RequestTests
+  - hash:
+      serializedVersion: 2
+      Hash: fb8c12cb107ac6ddbe08da5ff82d3d11
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: BehaviorDesigner.Runtime
+    className: BehaviorTree
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ShowSliderValue
+  - hash:
+      serializedVersion: 2
+      Hash: edd3fe2e4ff88532a0e76931c03b4364
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.TrainingRoom
+    className: BlinkLampe
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LineRendererTest
+  - hash:
+      serializedVersion: 2
+      Hash: a4d797bdc297a38e033bb3b163c14acd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LUI_PressAnyKey
+  - hash:
+      serializedVersion: 2
+      Hash: cc65bdd5c3ba5be5e282f6f586a81782
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.Controller
+    className: MainSceneUIController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: BlueLightFlicker
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.CrossPlatformInput
+    className: MobileControlRig
+  - hash:
+      serializedVersion: 2
+      Hash: a53651ee3996fbba20dfe0fce02f0b23
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: AutoExposure
+  - hash:
+      serializedVersion: 2
+      Hash: 36ce0cfc4c7de5575762889f0ea21ffe
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.UI
+    className: SwitcherPanel
+  - hash:
+      serializedVersion: 2
+      Hash: 550dbfdbfe38c5d97665d56ec6534c75
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Port
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: OptionsMenu
+  - hash:
+      serializedVersion: 2
+      Hash: 38e37e4aaad1aa9d5910ac2c31333de8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Assets.Plugins.Lomenu_UI.Scripts
+    className: MenuCamControl
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: RoomMaterialController
+  - hash:
+      serializedVersion: 2
+      Hash: 8bc1469a92607b173081eaf606783f54
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.ExplorerMode.Services
+    className: FocusControl
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: RemoteTestResultSender
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.TrainingRoom
+    className: OpenDoorTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.Utility
+    className: ObjectResetter
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ProGrids
+    className: pg_IgnoreSnap
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SensorToolkit
+    className: RenderFOVCollider2D
+  - hash:
+      serializedVersion: 2
+      Hash: ee75fac22abf7b96a21bd28575dd65d2
+    assemblyName: ZFBrowser.dll
+    namespaceName: ZenFulcrum.EmbeddedBrowser
+    className: ClickMeshBrowserUI
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ChangeWorkerView
+  - hash:
+      serializedVersion: 2
+      Hash: 24ccc2fdbd5468c5ceecf1b11040000f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ZenFulcrum.EmbeddedBrowser
+    className: HUDManager
+  - hash:
+      serializedVersion: 2
+      Hash: 9cc3904a86f5a119184da7351cdb4e65
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.ImageEffects
+    className: DepthOfField
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.UI.Compass
+    className: CompassBuilder
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.UI.ColorPicker
+    className: ColorPicker
+  - hash:
+      serializedVersion: 2
+      Hash: 67fe9105576e0ae6980385b839007755
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ZenFulcrum.EmbeddedBrowser
+    className: SayWordsOnTouch
+  - hash:
+      serializedVersion: 2
+      Hash: 3a98979dcf969082b7d5f63f3aa37ab0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ZombieTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 50c443b12ccc0b475183318b5088bcc5
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: PostProcessDebug
+  - hash:
+      serializedVersion: 2
+      Hash: 29950c84a724f9540cb9351165ced4b1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SensorToolkit.Example
+    className: CharacterControls
+  - hash:
+      serializedVersion: 2
+      Hash: 4fd8bf02e3089425d3502e26c44ba31a
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextContainer
+  - hash:
+      serializedVersion: 2
+      Hash: 808c469095907a232d2778630f8d5f3b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.TrainingRoom
+    className: QuestTriggerer
+  - hash:
+      serializedVersion: 2
+      Hash: 0465dc65a069f3897db2a36a2dfde8f7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: RotateTowards
+  - hash:
+      serializedVersion: 2
+      Hash: 0b0676ec0dadbd5784f8c741fb414164
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ChangePlan
+  - hash:
+      serializedVersion: 2
+      Hash: 620499a5d04fcc9586e8f674da6af27f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: BehaviorDesigner.Runtime.Tactical
+    className: Health
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TestCreateDigitalSinage
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: SmartHospital.dll
+    namespaceName: SmartHospital.ExplorerMode.Database.Handler
+    className: RESTHandler
+  - hash:
+      serializedVersion: 2
+      Hash: e1082e20946207c099b2f909681f9f9a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Chronos
+    className: TimelineChild
+  - hash:
+      serializedVersion: 2
+      Hash: f84d945e5e1ca985698660fc26e9657f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RawImage
+  - hash:
+      serializedVersion: 2
+      Hash: f5a20c4819f1ecb3232e0690b36a1b2a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ZoomInRoom
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Authentication
+  - hash:
+      serializedVersion: 2
+      Hash: 109dd12b7d8dc4016f0271e8e6de2239
+    assemblyName: ProBuilderCore-Unity5.dll
+    namespaceName: ProBuilder2.Common
+    className: pb_BezierShape
+  - hash:
+      serializedVersion: 2
+      Hash: 710b2e947270e720a6c7fb64544ec1a8
+    assemblyName: ProBuilderCore-Unity5.dll
+    namespaceName: ProBuilder2.Common
+    className: pb_ColorPalette
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: ProBuilderCore-Unity5.dll
+    namespaceName: 
+    className: pb_DummyScript
+  - hash:
+      serializedVersion: 2
+      Hash: 84cb74a3902eeab70df9ddf52e980196
+    assemblyName: ProBuilderCore-Unity5.dll
+    namespaceName: ProBuilder2.Common
+    className: pb_ElementGraphics
+  - hash:
+      serializedVersion: 2
+      Hash: 806755981ca32012e76b513716e7b612
+    assemblyName: ProBuilderCore-Unity5.dll
+    namespaceName: 
+    className: pb_Entity
+  - hash:
+      serializedVersion: 2
+      Hash: 17daa9600657a74d8be57eb2382b8d7c
+    assemblyName: ProBuilderCore-Unity5.dll
+    namespaceName: ProBuilder2.Common
+    className: pb_LineRenderer
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: ProBuilderCore-Unity5.dll
+    namespaceName: ProBuilder2.Common
+    className: pb_MeshRenderer
+  - hash:
+      serializedVersion: 2
+      Hash: 895caf71fa916e8e4d6349edca6ab5d2
+    assemblyName: ProBuilderCore-Unity5.dll
+    namespaceName: ProBuilder2.Common
+    className: pb_PolyShape
+  - hash:
+      serializedVersion: 2
+      Hash: 9c7c87712e298256d276eb96e02a57b1
+    assemblyName: ProBuilderCore-Unity5.dll
+    namespaceName: ProBuilder2.Common
+    className: pb_PreferenceDictionary
+  - hash:
+      serializedVersion: 2
+      Hash: e7e74a8442e6ece26ccd2b4b614bf612
+    assemblyName: ProBuilderCore-Unity5.dll
+    namespaceName: ProBuilder2.Common
+    className: pb_Renderable
+  - hash:
+      serializedVersion: 2
+      Hash: 13c084009f60c8c506970f685bf6a918
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SetToPos
+  - hash:
+      serializedVersion: 2
+      Hash: afc97a70b1acb5261c7b1adad604fa52
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Chronos
+    className: CustomRecorder
+  - hash:
+      serializedVersion: 2
+      Hash: 490939089655574ef32802bdf9337364
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.StartMenu
+    className: ButtonHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Chronos.Example
+    className: ExampleOccurrences
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.ImageEffects
+    className: PostEffectsHelper
+  - hash:
+      serializedVersion: 2
+      Hash: 4e65411947ff85fe01bd6699a208428d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SensorToolkit.Example
+    className: BoxSpawner
+  - hash:
+      serializedVersion: 2
+      Hash: 0ddf9ccfd4d305d948dc73cdb27d6e9b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PBFilled
+  - hash:
+      serializedVersion: 2
+      Hash: 3a0220539181eeba8da7d870d8455f3f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ZenFulcrum.EmbeddedBrowser
+    className: VRMode
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.ModelProcessing
+    className: CombineCollidersExecEditor
+  - hash:
+      serializedVersion: 2
+      Hash: 20c9a74d659b6895cfdb5f4624ba8daa
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: vDestroyGameObject
+  - hash:
+      serializedVersion: 2
+      Hash: 1a9e52e2ff472238deaebe06595ba637
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.ImageEffects
+    className: ScreenSpaceAmbientOcclusion
+  - hash:
+      serializedVersion: 2
+      Hash: f4e93ef2d0c0fbfd7e274c1f7e221686
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ZenFulcrum.EmbeddedBrowser
+    className: BallBrowserSpawner
+  - hash:
+      serializedVersion: 2
+      Hash: d3d035140be38f66f595d49879140c9b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DrawPathForTraining
+  - hash:
+      serializedVersion: 2
+      Hash: 07d988440f35db25e51e099c57082aaa
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DestroyObject
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkStartPosition
+  - hash:
+      serializedVersion: 2
+      Hash: 1029e16c0095bd534b2424b5425cd691
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TestCheckHierarchy
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DragPanel
+  - hash:
+      serializedVersion: 2
+      Hash: c88c4199b288356ec3eb2f0d85abc619
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Entity
+  - hash:
+      serializedVersion: 2
+      Hash: b1f7566c35f07b1a2dd277f1d1e56d33
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Messanger
+  - hash:
+      serializedVersion: 2
+      Hash: fb8e7d632e24e3b8f9153e48aadddbec
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LMSMainView
+  - hash:
+      serializedVersion: 2
+      Hash: 0ae73a56816c59c1027053d87c2589c7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CSVRaumbuch
+  - hash:
+      serializedVersion: 2
+      Hash: 8a60e1f9918989e71e5a17494f8249a7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: NUI_Inventory
+  - hash:
+      serializedVersion: 2
+      Hash: d18739c0fee9d7a7e121e9f8649c1cd1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.TrainingRoom
+    className: UITriggerer
+  - hash:
+      serializedVersion: 2
+      Hash: 9df1902c7ee06e4a360e53abed10cfff
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.CinematicEffects
+    className: MotionBlur
+  - hash:
+      serializedVersion: 2
+      Hash: 369421eaa26a31b7617fb067c6e27c2e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DragMe
+  - hash:
+      serializedVersion: 2
+      Hash: 9a40de0f5a84ec02044ccfb05875df71
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.Utility
+    className: WaypointCircuit
+  - hash:
+      serializedVersion: 2
+      Hash: 3c83af17a5ea87513812c732d3757aef
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SensorToolkit.Example
+    className: Asteroid
+  - hash:
+      serializedVersion: 2
+      Hash: ee98729079998eb63435f99f41b30b9e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AccessLanguage
+  - hash:
+      serializedVersion: 2
+      Hash: a00880e89f8927e9a80e760601284102
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LUI_BrightnessAdjustment
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.TrainingRoom
+    className: PauseOnPlayerEnter
+  - hash:
+      serializedVersion: 2
+      Hash: 70beb0ea08624f26cb1ff1c9e0220a62
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SetCameraToRoomUI
+  - hash:
+      serializedVersion: 2
+      Hash: 783f593b9380cf72d0f7ebfd4a0d4bcd
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: InputField
+  - hash:
+      serializedVersion: 2
+      Hash: c9a8b80298a116835b51ba1cf9284367
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalReceiver
+  - hash:
+      serializedVersion: 2
+      Hash: e9ae9e0e740871254146ca99343b4875
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.TrainingRoom
+    className: DialogueManager
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: CIHttpClient.dll
+    namespaceName: CI.HttpClient.Core
+    className: Dispatcher
+  - hash:
+      serializedVersion: 2
+      Hash: 1cfd4b623eb7b770d13df5b1bfdf1891
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GameManager
+  - hash:
+      serializedVersion: 2
+      Hash: bbc6701a4ceaa111f4dbb00404c9ec51
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SaveAndLoadFromFile
+  - hash:
+      serializedVersion: 2
+      Hash: e716e0c195bc6fd7a410e523eaf7a420
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ExplorerMode.UI.View
+    className: DimensionToggleView
+  - hash:
+      serializedVersion: 2
+      Hash: 021da7d87868a23c30a4604307ac1283
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SceneLoader
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Assets.Plugins.Lomenu_UI.Scripts
+    className: Exit
+  - hash:
+      serializedVersion: 2
+      Hash: d7f470660e8e5bf322a5c170b752eff8
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.ImageEffects
+    className: CreaseShading
+  - hash:
+      serializedVersion: 2
+      Hash: 35a9693c388776aaf487636491a20f11
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_FontAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 85fda93d69a7cdb51d3c1c55f9cca2ef
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Chronos.Example
+    className: ExamplePhysics
+  - hash:
+      serializedVersion: 2
+      Hash: e1300922cc039f41ab46a47f4cb05898
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Settings
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Assets.Scripts
+    className: ExcelDataReaderExample
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ColorDropdown
+  - hash:
+      serializedVersion: 2
+      Hash: 76b945b547f74d79302f337813e6c0be
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.Characters.FirstPerson
+    className: RigidbodyFirstPersonController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ItemDropHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: Physics2DRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: InventoryDragCache
+  - hash:
+      serializedVersion: 2
+      Hash: d93f4f4c1fd32dcdaf045d077e643698
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.Model
+    className: ClientRoom
+  - hash:
+      serializedVersion: 2
+      Hash: 28d790d202beb300ec2ffc6265160c26
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.ImageEffects
+    className: ContrastEnhance
+  - hash:
+      serializedVersion: 2
+      Hash: 183d4abf1ad07fd6d898c4ebe04ad0f4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SelectedRoomStatus
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Substance.Game.dll
+    namespaceName: Substance.Game
+    className: Runtime
+  - hash:
+      serializedVersion: 2
+      Hash: 8c306bf832da1deef87b8c3db514afc9
+    assemblyName: Substance.Game.dll
+    namespaceName: Substance.Game
+    className: Substance
+  - hash:
+      serializedVersion: 2
+      Hash: edf5fefae3a4f8fe50cf622d330af5d4
+    assemblyName: Substance.Game.dll
+    namespaceName: Substance.Game
+    className: SubstanceGraph
+  - hash:
+      serializedVersion: 2
+      Hash: a1dbf60615ab73dcbfda05d6f08d246c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.TrainingRoom
+    className: FocusArrowOnNextPoint
+  - hash:
+      serializedVersion: 2
+      Hash: c369cfe57b5f6a6164f4215c6924f05b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LUI_MenuCamControl
+  - hash:
+      serializedVersion: 2
+      Hash: 318c6c13a19c9fac98135ae14889de1b
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkMigrationManager
+  - hash:
+      serializedVersion: 2
+      Hash: a90348a13165bbfe9006ce9ee76a7334
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ColorPicker
+  - hash:
+      serializedVersion: 2
+      Hash: aaa2594c58225eebc5c865fdcd544f0c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DemoHamburgerMenu
+  - hash:
+      serializedVersion: 2
+      Hash: 6f80e44a6d30ad90bcfe8598c7d3b687
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.UI.Compass
+    className: CompassBar
+  - hash:
+      serializedVersion: 2
+      Hash: aa997f72b5d8434734e2747529bb6f55
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Invector.CharacterController
+    className: vThirdPersonController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: SmartHospital.dll
+    namespaceName: SmartHospital.ExplorerMode.Database.Handler
+    className: EventHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 3c15fbf1157dbbde37b2b44d624cd353
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Assets.Plugins.Scripts.TrainingRoomScripts
+    className: LoadingScreen
+  - hash:
+      serializedVersion: 2
+      Hash: 2ab7254c7aaaf5453bbb5e6617182e09
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: C2TDemo
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: AlphaButtonClickMask
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Package
+  - hash:
+      serializedVersion: 2
+      Hash: 738c23b7b3b2a8414d48e37a088fd920
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LUI_ButtonSound
+  - hash:
+      serializedVersion: 2
+      Hash: 6c45fb20c663cbee36ac2cb267d763cd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SensorToolkit.Example
+    className: Bullet
+  - hash:
+      serializedVersion: 2
+      Hash: c1933cc0a2f4ff6eb13333347497beb3
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: TimelineAsset
+  - hash:
+      serializedVersion: 2
+      Hash: a11076143023f59c97d6b3071d3626b7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.UI
+    className: PointerDownButtonColorExtension
+  - hash:
+      serializedVersion: 2
+      Hash: 262cc8922ebef84ce7997e8469e248d5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ObjectPlacementChecker
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Assets.Plugins.Scripts.TrainingRoomScripts
+    className: LoadScene
+  - hash:
+      serializedVersion: 2
+      Hash: 6b03f18d0c2c0a7da658ddabda77e257
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SensorToolkit.Example
+    className: SoldierAI
+  - hash:
+      serializedVersion: 2
+      Hash: de23a6a11287120f22c9e7b5e4794fc2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SensorToolkit.Example
+    className: Holdable
+  - hash:
+      serializedVersion: 2
+      Hash: 3a4b43922690b5c2c14f373305973aa0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Chronos.Example
+    className: ExampleNavigator
+  - hash:
+      serializedVersion: 2
+      Hash: 35b8d7255cdb0ddfddba4a7287162f60
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: UnityStandardAssets.Characters.ThirdPerson
+    className: basicAI
+  - hash:
+      serializedVersion: 2
+      Hash: 3f3191b1d534e6ead763ecc136bf11b3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ZenFulcrum.EmbeddedBrowser
+    className: SimpleController
+  - hash:
+      serializedVersion: 2
+      Hash: c933b2cffdb9d1429a103e9d63c523ef
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.Utility
+    className: DynamicShadowSettings
+  - hash:
+      serializedVersion: 2
+      Hash: 8295ae7a603332a25045b395e3ddc3ec
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: NotificationExample
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Chronos.Example
+    className: ExampleTimeColor
+  - hash:
+      serializedVersion: 2
+      Hash: ee6d2e38cc806027709dcb95aec00cb7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Camunda_BehaviorDesigner_Controller
+  - hash:
+      serializedVersion: 2
+      Hash: 1171588456d0d4563a05f78559973724
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MobileSearch
+  - hash:
+      serializedVersion: 2
+      Hash: 96539fd6feebcbc9da75ce005fd446a9
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.ImageEffects
+    className: NoiseAndGrain
+  - hash:
+      serializedVersion: 2
+      Hash: b4d728eca94319678beb7b1cf0798490
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: BehaviorDesigner.Runtime.Tactical
+    className: Shootable
+  - hash:
+      serializedVersion: 2
+      Hash: ae63a04417e46d3aad240f8084026fa3
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.Utility
+    className: SimpleActivatorMenu
+  - hash:
+      serializedVersion: 2
+      Hash: 83d87c5c1498a4fbac19018343efb269
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.UI
+    className: PointerDownButton
+  - hash:
+      serializedVersion: 2
+      Hash: ff2da4792749c820e7ac094840b43402
+    assemblyName: ZFBrowser.dll
+    namespaceName: ZenFulcrum.EmbeddedBrowser
+    className: VRBrowserHand
+  - hash:
+      serializedVersion: 2
+      Hash: b7b19d9faadae886e759e032a8533875
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SensorToolkit
+    className: RaySensor2D
+  - hash:
+      serializedVersion: 2
+      Hash: 44494e150b740dc86fb44a74ce9ac6f2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlanningController
+  - hash:
+      serializedVersion: 2
+      Hash: fbcf990b7c562ab9b25c67103cd90967
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.TrainingRoom
+    className: CameraFollowObject
+  - hash:
+      serializedVersion: 2
+      Hash: 738c23b7b3b2a8414d48e37a088fd920
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Assets.Plugins.Lomenu_UI.Scripts
+    className: ButtonSound
+  - hash:
+      serializedVersion: 2
+      Hash: 58e68364412c67eae2bdb4954be2dcc2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Readme
+  - hash:
+      serializedVersion: 2
+      Hash: 6cbe7b9474854cc7bdebd5f6ec35d19d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: HighlightNearestFace
+  - hash:
+      serializedVersion: 2
+      Hash: 85ccd0781b85c2f3a0c37bd743fb5081
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Chronos
+    className: AreaClock3D
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkBehaviour
+  - hash:
+      serializedVersion: 2
+      Hash: 0579996b78bb3dc66ae34de53ea43f92
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.ExplorerMode
+    className: KeyListener
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: RoomColliderMaterialController
+  - hash:
+      serializedVersion: 2
+      Hash: 20b51d028976a8fc165107488233fd0d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LUI_PUBG
+  - hash:
+      serializedVersion: 2
+      Hash: da6e00eb7cb78d2b0a82316f9bfd7fff
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.ExplorerMode.Rooms.TagSystem
+    className: TagSystemView
+  - hash:
+      serializedVersion: 2
+      Hash: d8831a6d30eaa39cc37d822896836896
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ZenFulcrum.EmbeddedBrowser
+    className: ActionTimer
+  - hash:
+      serializedVersion: 2
+      Hash: 84a4856bfe022f48c2de2663e172e80d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.Controller
+    className: MainSceneMainController
+  - hash:
+      serializedVersion: 2
+      Hash: 8001a5f7502aab37e42206da015e6914
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextMeshProUGUI
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: RotateSample
+  - hash:
+      serializedVersion: 2
+      Hash: 251d655f4acfc2454c7b7ba4247e2955
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: pg_SceneMeshRender
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LUI_Exit
+  - hash:
+      serializedVersion: 2
+      Hash: 939895993e33a5e257bd14c4f195b1b3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ExtinguishableFire
+  - hash:
+      serializedVersion: 2
+      Hash: 4d29f1161b49a3115369afe71d725fe9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.TrainingRoom
+    className: QuestUiPlayerTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 8d4458b476a9a4dd8df843a849fcfffa
+    assemblyName: NavMeshComponents.dll
+    namespaceName: UnityEngine.AI
+    className: NavMeshSurface
+  - hash:
+      serializedVersion: 2
+      Hash: a8c33406fd5a44e89bd47fea3b45028f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.ImageEffects
+    className: ColorCorrectionRamp
+  - hash:
+      serializedVersion: 2
+      Hash: f080a86a4a939dd08c0cc4f4f05e1e4e
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.ImageEffects
+    className: Grayscale
+  - hash:
+      serializedVersion: 2
+      Hash: 172cfdd977ca8a6f32932932c2f0d2ee
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.ImageEffects
+    className: SepiaTone
+  - hash:
+      serializedVersion: 2
+      Hash: 3bd301965190e77c3822602bd15d95bb
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.ImageEffects
+    className: Twirl
+  - hash:
+      serializedVersion: 2
+      Hash: 3bd301965190e77c3822602bd15d95bb
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.ImageEffects
+    className: Vortex
+  - hash:
+      serializedVersion: 2
+      Hash: f336e086360abe49a3323e5f1583c35a
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioTrack
+  - hash:
+      serializedVersion: 2
+      Hash: bd89c02c54734bc10c39b2afb3d65590
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityEngine.PostProcessing
+    className: PostProcessingProfile
+  - hash:
+      serializedVersion: 2
+      Hash: c80d3238226b1d162e3ff2069e0972ed
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ProBuilder2.Examples
+    className: CameraControls
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.UI.ColorPicker
+    className: ColorWheel
+  - hash:
+      serializedVersion: 2
+      Hash: ec56a367dc3b65f07fd997a08b52b48f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlanningMainView
+  - hash:
+      serializedVersion: 2
+      Hash: 21b8a7aea745b56c4a9c036cb4f89ac3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SensorToolkit.Example
+    className: Health
+  - hash:
+      serializedVersion: 2
+      Hash: ae83e830e7a90c0aff918c4c2e520825
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GraphicRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: c5bbb5c4b020d95f6395b3448c0eddcc
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.ImageEffects
+    className: CameraMotionBlur
+  - hash:
+      serializedVersion: 2
+      Hash: aab2a44dd1ba369d9379806639de8935
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ZombiePlayerTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.Controller.ExplorerMode.Rooms
+    className: LoadCSVRoomData
+  - hash:
+      serializedVersion: 2
+      Hash: f8f3483f02bf6724508b1ac62d3f28da
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.ExplorerMode.CameraControl
+    className: TopDownCamera
+  - hash:
+      serializedVersion: 2
+      Hash: f42973491808c8609cda9d2c5f1d507a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TemporaryData_CurrentClickedRoom
+  - hash:
+      serializedVersion: 2
+      Hash: 88cc9df3c6fc697bfbeacd24c0d6f2d7
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools
+    className: BeforeAfterTestCommandState
+  - hash:
+      serializedVersion: 2
+      Hash: 30d10bfcd41608e229b09cb3ce8725b6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LUI_LaunchURL
+  - hash:
+      serializedVersion: 2
+      Hash: a74b3121bdcd7f5b5f17352ae411418c
+    assemblyName: ZFBrowser.dll
+    namespaceName: ZenFulcrum.EmbeddedBrowser
+    className: PointerUIMesh
+  - hash:
+      serializedVersion: 2
+      Hash: 50cb81fe2883c23d70784762792417af
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.Controller.ExplorerMode.Rooms.Details
+    className: DetailSearch
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.Test_Debug
+    className: TestMove
+  - hash:
+      serializedVersion: 2
+      Hash: 49dcb3939f87870ac10cf1f8fcdfb35e
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.Utility
+    className: FollowTarget
+  - hash:
+      serializedVersion: 2
+      Hash: 957d3f690002a85b250b8cf1cfe2e6d2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GoToPatientTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ReadWriteCsv
+    className: CSVController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ZombieHeal
+  - hash:
+      serializedVersion: 2
+      Hash: 172fddba98b57fe1585578aab1e8842d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MainView
+  - hash:
+      serializedVersion: 2
+      Hash: 144918db54689edf5af0003294585226
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SensorToolkit.Example
+    className: CameraFollow
+  - hash:
+      serializedVersion: 2
+      Hash: 532c452043380e87045af68f4b5c1132
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SliderDisplay
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: NUI_LMS
+  - hash:
+      serializedVersion: 2
+      Hash: 63eed4eb599d4034db32f71dd877a048
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.CinematicEffects
+    className: AmbientOcclusion
+  - hash:
+      serializedVersion: 2
+      Hash: 6b87d8b029929e9e7728120df28fe5a4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: BehaviorDesigner.Runtime.Tactical
+    className: BehaviorSelection
+  - hash:
+      serializedVersion: 2
+      Hash: 570a04c94cdda5f0f0d30a5596fa340f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SensorToolkit
+    className: TriggerSensor2D
+  - hash:
+      serializedVersion: 2
+      Hash: 219ec6059796d8951d2adcd8505d0dc2
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.CrossPlatformInput
+    className: TouchPad
+  - hash:
+      serializedVersion: 2
+      Hash: 61faedcd907718913efd3ec146822d0e
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.Vehicles.Ball
+    className: Ball
+  - hash:
+      serializedVersion: 2
+      Hash: a8cd58c1680eb5251e5604e560cf89e9
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.Utility
+    className: TimedObjectDestructor
+  - hash:
+      serializedVersion: 2
+      Hash: a4c7ac59217ef39e61bed47ab56e43d2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.ExplorerMode.Rooms.Locator
+    className: RoomLocator3D
+  - hash:
+      serializedVersion: 2
+      Hash: 13bfb33d1ae4b1b13a0cc1977ccdb78f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: InventoryMainUIController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: RoomInfoCache
+  - hash:
+      serializedVersion: 2
+      Hash: df61d76bb6c24a8f9a88acfdfe390bc3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ItemAddTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 1dcb82730d983b77cec736c6ef19f814
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkDiscovery
+  - hash:
+      serializedVersion: 2
+      Hash: 893dbdbfe611d62e230a686ea89f1efd
+    assemblyName: UnityEngine.XR.LegacyInputHelpers.dll
+    namespaceName: UnityEngine.XR.LegacyInputHelpers
+    className: SwingArmModel
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: MarkerTrack
+  - hash:
+      serializedVersion: 2
+      Hash: f9a984b76d49201b5c2856d4420d3f29
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ZenFulcrum.EmbeddedBrowser
+    className: TestDownloadServer
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: RoomItemDropHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 09fe53f599e1b043b2ab790cced57532
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ScrollDetailTexture
+  - hash:
+      serializedVersion: 2
+      Hash: 72dc528050242fe9e74ede89b036d127
+    assemblyName: ZFBrowser.dll
+    namespaceName: ZenFulcrum.EmbeddedBrowser
+    className: CursorRendererOS
+  - hash:
+      serializedVersion: 2
+      Hash: 3d9276f50260cf13372cc83902984b0c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.Test_Debug
+    className: CameraAngleTestScript
+  - hash:
+      serializedVersion: 2
+      Hash: c9a43d5cc257592f6a08704cddc8ef24
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Chronos
+    className: GlobalClock
+  - hash:
+      serializedVersion: 2
+      Hash: d791aa6007fa3640be1164ea75bb087d
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_StyleSheet
+  - hash:
+      serializedVersion: 2
+      Hash: 53db801550c20bcfbc19f5dbab7ef9b8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Chronos.Example
+    className: ExampleSlider
+  - hash:
+      serializedVersion: 2
+      Hash: 20c6f8b4d7067aaf1e070439191baa0a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ChangeSceneOnClick
+  - hash:
+      serializedVersion: 2
+      Hash: 48c376c0d36848ebec6987d11b4c6f6e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SensorToolkit.Example
+    className: GunWithClip
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: InventoryView
+  - hash:
+      serializedVersion: 2
+      Hash: 251d655f4acfc2454c7b7ba4247e2955
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: QuickEdit
+    className: qe_HandleRenderer
+  - hash:
+      serializedVersion: 2
+      Hash: d6acf8c4176a4554734147bcf5afacfb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SensorToolkit.Example
+    className: GuardAI
+  - hash:
+      serializedVersion: 2
+      Hash: 311919d9ad9649edc5cd41373aa0922d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SensorToolkit.Example
+    className: AutomaticSlidingDoor
+  - hash:
+      serializedVersion: 2
+      Hash: 39b9466d60e9b1340e9e046ea4fc599c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.ExplorerMode.CameraControl
+    className: CameraManager
+  - hash:
+      serializedVersion: 2
+      Hash: e6ae40841db498b6e673877ac45ad208
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: 570a04c94cdda5f0f0d30a5596fa340f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SensorToolkit
+    className: TriggerSensor
+  - hash:
+      serializedVersion: 2
+      Hash: 1fb44d951cd25339c41bc4730d483b00
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ZenFulcrum.EmbeddedBrowser
+    className: VRMainControlPanel
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.Model
+    className: ClientInventoryItem
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: WorkerDetailsController
+  - hash:
+      serializedVersion: 2
+      Hash: 852173690f32cd0e63e83d7371adb78a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: qd_Database
+  - hash:
+      serializedVersion: 2
+      Hash: 2734f9816c947000cba74395c7cc67ee
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SensorToolkit.Example
+    className: Gravity
+  - hash:
+      serializedVersion: 2
+      Hash: 34665528cf8da97e082a230c8afb96c6
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.ImageEffects
+    className: DepthOfFieldDeprecated
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital
+    className: Values
+  - hash:
+      serializedVersion: 2
+      Hash: c8533c9804499b27f7c31b277d275f91
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.ImageEffects
+    className: Fisheye
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CSVWrite
+  - hash:
+      serializedVersion: 2
+      Hash: 53119bc180d0cbf5f545c8b2bac75002
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ZenFulcrum.EmbeddedBrowser
+    className: Door
+  - hash:
+      serializedVersion: 2
+      Hash: 25c391c825ebcd0d3d9622edd606cb84
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Picker
+  - hash:
+      serializedVersion: 2
+      Hash: 6fc50c5cf1705799d324d5edbbd51b80
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PieGraph
+  - hash:
+      serializedVersion: 2
+      Hash: d5630f96bd5a6a6eed7e1754c3fb8703
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: PostProcessVolume
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: InventoryCreateView
+  - hash:
+      serializedVersion: 2
+      Hash: d902ae9448685082d8c29e5daedf7e47
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SensorToolkit
+    className: FOVCollider
+  - hash:
+      serializedVersion: 2
+      Hash: d0987ce3e9092dbe0fa30d73f333fffa
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: Grain
+  - hash:
+      serializedVersion: 2
+      Hash: 21d73eda81c18eacd2c91ad5dfaf2e32
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextMeshPro
+  - hash:
+      serializedVersion: 2
+      Hash: 3165968ba45c74472d279ba04455fccb
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_ColorGradient
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.Utility
+    className: FPSCounter
+  - hash:
+      serializedVersion: 2
+      Hash: daca3e1faa7dbd4aa5e880bbc8138021
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LUI_PUBG_Button
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.ImageEffects
+    className: PostEffectsBase
+  - hash:
+      serializedVersion: 2
+      Hash: dab49b29e4477efd4b53808499a612ad
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SensorToolkit.Example
+    className: TeamMember
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TagInfoModel
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: PlayModeRunnerCallback
+  - hash:
+      serializedVersion: 2
+      Hash: ac6acd886c54c48c599ab5fed5781ea7
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: AmbientOcclusion
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ZenFulcrum.EmbeddedBrowser
+    className: ExplainUnzip
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: BaseInput
+  - hash:
+      serializedVersion: 2
+      Hash: 2a7c97d3c050be3e0f5e9aa7c587ef96
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ToggleAnim
+  - hash:
+      serializedVersion: 2
+      Hash: b157b7ba82f325d9f6e21b055c1b5031
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.UI
+    className: ResizePanel
+  - hash:
+      serializedVersion: 2
+      Hash: 9b895dcabbc1faf095c000c32d471fd0
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkTransformChild
+  - hash:
+      serializedVersion: 2
+      Hash: e3b9beb41c4d94037f79f8e6c816f6bd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Chronos
+    className: Timekeeper
+  - hash:
+      serializedVersion: 2
+      Hash: e0ee4b3d4e27318934cc940a969d3d96
+    assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
+    namespaceName: UnityEngine.Networking
+    className: NetworkManagerHUD
+  - hash:
+      serializedVersion: 2
+      Hash: 8ccce45a027cfbb02441998345f2c121
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.ImageEffects
+    className: EdgeDetection
+  - hash:
+      serializedVersion: 2
+      Hash: 5c61bc98f34c43ee4216ce997d074c4a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: RadialSlider
+  - hash:
+      serializedVersion: 2
+      Hash: 8649814970b42d345b89944b862453cc
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SubMesh
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GenerateBuilding
+  - hash:
+      serializedVersion: 2
+      Hash: 10d40c4c007ed0fe1a397ef11ee530fa
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.ImageEffects
+    className: ColorCorrectionLookup
+  - hash:
+      serializedVersion: 2
+      Hash: 9c07553753d235af6ec24ae768ff1600
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ProGroups
+    className: GroupContainer
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestRunner.Utils
+    className: TestRunCallbackListener
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ApplicationManager
+  - hash:
+      serializedVersion: 2
+      Hash: 9d3850d2538d4615e1f05cb6647f3bc8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ConsoleUserInterfaceGenerator
+  - hash:
+      serializedVersion: 2
+      Hash: 4ef0f7d42cdb13479386e1f049c315aa
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner
+    className: PlaymodeTestsController
+  - hash:
+      serializedVersion: 2
+      Hash: 2aeeec1b1a144c469cd2d37776bc2315
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: 24320cf6cce09672bf422331323d9d13
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ZenFulcrum.EmbeddedBrowser
+    className: PlayerInventory
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Timers
+    className: TimersManager
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: BehaviorDesigner.Runtime.dll
+    namespaceName: 
+    className: AOTLinker
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: BehaviorDesigner.Runtime.dll
+    namespaceName: BehaviorDesigner.Runtime
+    className: BehaviorGameGUI
+  - hash:
+      serializedVersion: 2
+      Hash: fb320463987b6b439764e34654a79b86
+    assemblyName: BehaviorDesigner.Runtime.dll
+    namespaceName: BehaviorDesigner.Runtime
+    className: BehaviorManager
+  - hash:
+      serializedVersion: 2
+      Hash: d117a61dd72935bef68334cd6e9d2b8e
+    assemblyName: BehaviorDesigner.Runtime.dll
+    namespaceName: BehaviorDesigner.Runtime
+    className: GlobalVariables
+  - hash:
+      serializedVersion: 2
+      Hash: ca75d0d95331b465b220ad8d993b1276
+    assemblyName: BehaviorDesigner.Runtime.dll
+    namespaceName: BehaviorDesigner.Runtime
+    className: VariableSynchronizer
+  - hash:
+      serializedVersion: 2
+      Hash: 716c76ad12cf086496b88423f0e3d25c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.ExplorerMode.Services
+    className: FloorControl
+  - hash:
+      serializedVersion: 2
+      Hash: 748dd2a2a28da4e618912da5ac45684b
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: StandaloneInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 83dffc789cd416ac4ef1fc44f3423e35
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.ImageEffects
+    className: Tonemapping
+  - hash:
+      serializedVersion: 2
+      Hash: 8e5fd3cf940e715c878b3c5a3a11ae1b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LUI_PanelAnim
+  - hash:
+      serializedVersion: 2
+      Hash: 5d58e2c6538e97bb37bbc552307c320c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ProBuilder2.Examples
+    className: RuntimeEdit
+  - hash:
+      serializedVersion: 2
+      Hash: 8220b46879dc5e37db1b940c938f5744
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalEmitter
+  - hash:
+      serializedVersion: 2
+      Hash: deca47c4c8d8ac2a75bf15566c2912f3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: InventoryItemSO
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DigitalRoomSignView
+  - hash:
+      serializedVersion: 2
+      Hash: 85ddb60ed82689b2bb3347b7ab045f83
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.CinematicEffects
+    className: TemporalAntiAliasing
+  - hash:
+      serializedVersion: 2
+      Hash: 35519c53ac7ea35b5240631dd486ff96
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: UIZoomImage
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LUI_Volume
+  - hash:
+      serializedVersion: 2
+      Hash: 0fd6822f6177297bd0eb4d83cc7a9030
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ToggleGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ChangeColor
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: RoomControllingSceneManager
+  - hash:
+      serializedVersion: 2
+      Hash: fe8728cefe7999bea6e632b068255e23
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.UI
+    className: BorderBuilder
+  - hash:
+      serializedVersion: 2
+      Hash: bd01cf823c4efa4a0b86b8bb8b306fa6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SmartHospital.Test_Debug
+    className: GradientTest
+  - hash:
+      serializedVersion: 2
+      Hash: 99b3eb48e60424b16b4a9e57fa4a23ee
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ZenFulcrum.EmbeddedBrowser
+    className: CoinPickup
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ScriptFromOutside
+  - hash:
+      serializedVersion: 2
+      Hash: 218048bd93e908746781901d78cf0f9b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DragObject
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 47cd05cf11ce8beb2fd9a1522f58f5ec
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: UnityStandardAssets.Utility
+    className: AutoMobileShaderSwitch
+  platform: 19
+  scenePathNames:
+  - Assets/_Scenes/MainScene.unity
+  - Assets/_Scenes/Training/1_Floor_Level.unity
+  - Assets/_Scenes/DigitalSignage/OP_WMS_DoorSign.unity
+  - Assets/_Scenes/DisplayListOfDevices.unity
+  - Assets/_Scenes/PowerBIScene.unity
+  - Assets/_Scenes/DoorSign.unity
+  - Assets/_Scenes/PlanningScene.unity
+  - Assets/_Scenes/LearningManagementScene.unity
+  playerPath: C:/Development/Unity/SmartHospitalBuilds/Build_1_0_3/SmartHospital.exe
