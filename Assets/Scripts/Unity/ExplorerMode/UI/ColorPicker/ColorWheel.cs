@@ -1,5 +1,4 @@
-﻿using ProBuilder2.Examples;
-using SmartHospital.Extensions;
+﻿using SmartHospital.Extensions;
 using UnityEngine;
 using UnityEngine.UI;
 

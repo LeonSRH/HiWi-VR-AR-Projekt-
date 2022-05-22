@@ -1,2 +1,10 @@
 Base path: 'D:/UnityEd/2019.2.12f1/Editor/Data', plugins path 'D:/UnityEd/2019.2.12f1/Editor/Data/PlaybackEngines'
 Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=11176 outsize=9684 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5032 outsize=3708 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=18731 outsize=8523 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1526 outsize=368 ok=1

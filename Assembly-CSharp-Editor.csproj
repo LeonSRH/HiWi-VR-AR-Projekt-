@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{E7C6A4E5-75CD-A014-8207-477732036057}</ProjectGuid>
+    <ProjectGuid>{9052C3EC-002A-3CCC-528F-46E9EC65DEFF}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -123,56 +123,6 @@
      <Compile Include="Assets\Tools\Invector-3rdPersonController\Basic Locomotion LITE\Scripts\Generic\Editor\vEditorHelper.cs" />
      <Compile Include="Assets\Tools\Lomenu UI\Editor\LomenuEditor.cs" />
      <Compile Include="Assets\Tools\Modern UI Pack\Editor\ModernUI.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\About\Editor\pb_AboutWindow.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\About\Editor\pb_UpdateAvailable.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\About\Editor\pb_UpdateCheck.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\About\Editor\pb_VersionInfo.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\About\Editor\pb_VersionUtil.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\API Examples\Editor\ClearUnusedAttributes.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\API Examples\Editor\CreateShadowObject.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\API Examples\Editor\CustomAction.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\API Examples\Editor\EditorCallbackViewer.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\API Examples\Editor\RenameNewObjects.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\API Examples\Editor\SetCustomUnwrapParams.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\Editor\Addons\pb_Fbx.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\Editor\MenuItems\Actions\pb_ExportObj.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\Editor\MenuItems\Actions\pb_GenerateUV2.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\Editor\MenuItems\Actions\pb_MakeMeshAsset.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\Editor\MenuItems\Actions\pb_ProBuilderize.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\Editor\MenuItems\Actions\pb_StripProBuilderScripts.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\Editor\MenuItems\Geometry\pb_BridgeEdges.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\Editor\MenuItems\Geometry\pb_ConformNormals.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\Editor\MenuItems\Geometry\pb_ConnectEdges.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\Editor\MenuItems\Geometry\pb_DetachDeleteFace.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\Editor\MenuItems\Geometry\pb_ExtrudeElement.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\Editor\MenuItems\Geometry\pb_FlipEdge.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\Editor\MenuItems\Geometry\pb_FlipNormals.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\Editor\MenuItems\Geometry\pb_FreezeTransform.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\Editor\MenuItems\Geometry\pb_MergeFaces.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\Editor\MenuItems\Geometry\pb_SetPivot.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\Editor\MenuItems\Geometry\pb_Triangulate.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\Editor\MenuItems\Geometry\pb_VertexMergeWeld.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\Editor\MenuItems\Repair\pb_CleanLeakedMeshes.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\Editor\MenuItems\Repair\pb_ForceSceneRefresh.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\Editor\MenuItems\Repair\pb_RebuildMeshes.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\Editor\MenuItems\Repair\pb_RebuildSharedIndices.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\Editor\MenuItems\Repair\pb_RemoveDegenerateTris.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\Editor\MenuItems\Repair\pb_RepairColors.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\Editor\MenuItems\Repair\pb_RepairMeshReferences.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\Editor\MenuItems\Repair\pb_RepairUV.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\Editor\MenuItems\Repair\pb_ResetEntityMaterials.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\Editor\MenuItems\Repair\pb_UpgradeBasicToAdvanced.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\Editor\MenuItems\Selection\pb_EdgeSelection.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\Editor\MenuItems\Selection\pb_ExpandSelection.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\Editor\MenuItems\Selection\pb_InvertSelection.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\Editor\MenuItems\Selection\pb_MaterialSelection.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\Editor\MenuItems\Tools\pb_BooleanInterface.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\Editor\MenuItems\Tools\pb_MaterialSelection.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\Editor\MenuItems\Window\pb_ProBuilderMenuItems.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\Editor\pb_MenuItems.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\Editor\pb_MissingScriptEditor.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\Editor\pb_Preferences.cs" />
-     <Compile Include="Assets\Tools\ProCore\ProBuilder\Editor\pb_ScenePostProcessor.cs" />
      <Compile Include="Assets\Tools\ProCore\ProGrids\About\Editor\pg_AboutWindow.cs" />
      <Compile Include="Assets\Tools\ProCore\ProGrids\Editor\pg_Editor.cs" />
      <Compile Include="Assets\Tools\ProCore\ProGrids\Editor\pg_GridRenderer.cs" />
@@ -231,64 +181,64 @@
      <None Include="Assets\Tools\Behavior Designer\Editor\GridShader.shader" />
      <None Include="Assets\Tools\Cinema Suite\Cinema Themes\Editor\Resources\CinemaThemesInstalledProductInfo.xml" />
  <Reference Include="UnityEditor.TestRunner">
- <HintPath>D:/Smart Hospital/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.TestRunner">
- <HintPath>D:/Smart Hospital/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
  </Reference>
- <Reference Include="com.unity.multiplayer-hlapi.Editor">
- <HintPath>D:/Smart Hospital/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.VSCode.Editor">
- <HintPath>D:/Smart Hospital/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>D:/Smart Hospital/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <Reference Include="Unity.Timeline.Editor">
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>D:/Smart Hospital/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
- <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>D:/Smart Hospital/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Postprocessing.Editor">
- <HintPath>D:/Smart Hospital/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
- </Reference>
- <Reference Include="com.unity.multiplayer-weaver.Editor">
- <HintPath>D:/Smart Hospital/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.XR.LegacyInputHelpers">
- <HintPath>D:/Smart Hospital/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Rider.Editor">
- <HintPath>D:/Smart Hospital/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <Reference Include="Unity.Timeline">
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Sprite.Editor">
- <HintPath>D:/Smart Hospital/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Postprocessing.Runtime">
- <HintPath>D:/Smart Hospital/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Tilemap.Editor">
- <HintPath>D:/Smart Hospital/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
- </Reference>
- <Reference Include="UnityEditor.SpatialTracking">
- <HintPath>D:/Smart Hospital/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.SpatialTracking">
- <HintPath>D:/Smart Hospital/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
- </Reference>
- <Reference Include="Unity.TextMeshPro">
- <HintPath>D:/Smart Hospital/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
- </Reference>
- <Reference Include="UnityEditor.XR.LegacyInputHelpers">
- <HintPath>D:/Smart Hospital/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>D:/Smart Hospital/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="com.unity.multiplayer-hlapi.Editor">
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.VSCode.Editor">
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.TextMeshPro.Editor">
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.CollabProxy.Editor">
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Postprocessing.Editor">
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="com.unity.multiplayer-weaver.Editor">
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Rider.Editor">
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Postprocessing.Runtime">
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.ProBuilder.AddOns.Editor">
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.TextMeshPro">
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="com.unity.multiplayer-hlapi.Runtime">
- <HintPath>D:/Smart Hospital/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>D:/UnityEd/2019.2.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -477,73 +427,58 @@
  <HintPath>D:/UnityEd/2019.2.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="PackageManagerAssembly">
- <HintPath>D:/Smart Hospital/Assets/Other/EffectExamples/Editor/PackageManagerAssembly/PackageManagerAssembly.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Assets/Other/EffectExamples/Editor/PackageManagerAssembly/PackageManagerAssembly.dll</HintPath>
  </Reference>
  <Reference Include="ExcelDataReader">
- <HintPath>D:/Smart Hospital/Assets/Packages/ExcelDataReader.3.6.0/lib/net45/ExcelDataReader.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Assets/Packages/ExcelDataReader.3.6.0/lib/net45/ExcelDataReader.dll</HintPath>
  </Reference>
  <Reference Include="ExcelDataReader.DataSet">
- <HintPath>D:/Smart Hospital/Assets/Packages/ExcelDataReader.DataSet.3.6.0/lib/net35/ExcelDataReader.DataSet.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Assets/Packages/ExcelDataReader.DataSet.3.6.0/lib/net35/ExcelDataReader.DataSet.dll</HintPath>
  </Reference>
  <Reference Include="Newtonsoft.Json">
- <HintPath>D:/Smart Hospital/Assets/Packages/Newtonsoft.Json.12.0.2/lib/netstandard2.0/Newtonsoft.Json.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Assets/Packages/Newtonsoft.Json.12.0.2/lib/netstandard2.0/Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="Substance.Game">
- <HintPath>D:/Smart Hospital/Assets/Plugins/Substance.Game.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Assets/Plugins/Substance.Game.dll</HintPath>
  </Reference>
  <Reference Include="System.Deployment">
- <HintPath>D:/Smart Hospital/Assets/Plugins/System.Deployment.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Assets/Plugins/System.Deployment.dll</HintPath>
  </Reference>
  <Reference Include="System.Windows.Forms">
- <HintPath>D:/Smart Hospital/Assets/Plugins/System.Windows.Forms.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Assets/Plugins/System.Windows.Forms.dll</HintPath>
  </Reference>
  <Reference Include="ConsoleE">
- <HintPath>D:/Smart Hospital/Assets/Plugins/ConsoleE/Editor/ConsoleE.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Assets/Plugins/ConsoleE/Editor/ConsoleE.dll</HintPath>
  </Reference>
  <Reference Include="System.Data">
- <HintPath>D:/Smart Hospital/Assets/Plugins/DLL/System.Data.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Assets/Plugins/DLL/System.Data.dll</HintPath>
  </Reference>
  <Reference Include="JetBrains.Rider.Unity.Editor.Plugin.Repacked">
- <HintPath>D:/Smart Hospital/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll</HintPath>
  </Reference>
  <Reference Include="websocket-sharp">
- <HintPath>D:/Smart Hospital/Assets/Plugins/Substance/Livelink/Editor/Plugins/websocket-sharp.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Assets/Plugins/Substance/Livelink/Editor/Plugins/websocket-sharp.dll</HintPath>
  </Reference>
  <Reference Include="Substance.Editor">
- <HintPath>D:/Smart Hospital/Assets/Plugins/Substance/Substance Engine/Editor/Substance.Editor.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Assets/Plugins/Substance/Substance Engine/Editor/Substance.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Substance.Reflection">
- <HintPath>D:/Smart Hospital/Assets/Plugins/Substance/Substance Engine/Editor/Substance.Reflection.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Assets/Plugins/Substance/Substance Engine/Editor/Substance.Reflection.dll</HintPath>
  </Reference>
  <Reference Include="SourceUnityLib">
- <HintPath>D:/Smart Hospital/Assets/Plugins/Substance/Substance Source/Editor/SourceUnityLib.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Assets/Plugins/Substance/Substance Source/Editor/SourceUnityLib.dll</HintPath>
+ </Reference>
+ <Reference Include="Valve.Newtonsoft.Json">
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Assets/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="BehaviorDesigner.Editor">
- <HintPath>D:/Smart Hospital/Assets/Tools/Behavior Designer/Editor/BehaviorDesigner.Editor.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Assets/Tools/Behavior Designer/Editor/BehaviorDesigner.Editor.dll</HintPath>
  </Reference>
  <Reference Include="BehaviorDesigner.Runtime">
- <HintPath>D:/Smart Hospital/Assets/Tools/Behavior Designer/Runtime/BehaviorDesigner.Runtime.dll</HintPath>
- </Reference>
- <Reference Include="ProBuilderCore-Unity5">
- <HintPath>D:/Smart Hospital/Assets/Tools/ProCore/ProBuilder/Classes/ProBuilderCore-Unity5.dll</HintPath>
- </Reference>
- <Reference Include="ProBuilderMeshOps-Unity5">
- <HintPath>D:/Smart Hospital/Assets/Tools/ProCore/ProBuilder/Classes/ProBuilderMeshOps-Unity5.dll</HintPath>
- </Reference>
- <Reference Include="KdTreeLib">
- <HintPath>D:/Smart Hospital/Assets/Tools/ProCore/ProBuilder/Classes/ClassesLib/KdTreeLib.dll</HintPath>
- </Reference>
- <Reference Include="pb_Stl">
- <HintPath>D:/Smart Hospital/Assets/Tools/ProCore/ProBuilder/Classes/ClassesLib/pb_Stl.dll</HintPath>
- </Reference>
- <Reference Include="Poly2Tri">
- <HintPath>D:/Smart Hospital/Assets/Tools/ProCore/ProBuilder/Classes/ClassesLib/Poly2Tri.dll</HintPath>
- </Reference>
- <Reference Include="ProBuilderEditor-Unity5">
- <HintPath>D:/Smart Hospital/Assets/Tools/ProCore/ProBuilder/Editor/ProBuilderEditor-Unity5.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Assets/Tools/Behavior Designer/Runtime/BehaviorDesigner.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="nunit.framework">
- <HintPath>D:/Smart Hospital/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>D:/UnityEd/2019.2.12f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -905,40 +840,60 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{D0898071-7289-2D5A-4A23-6F8FF8D616C4}</Project>
+      <Project>{F43C0293-71BE-D46D-AD53-EE0B2F4E3082}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
     </ProjectReference>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{98A3AC8A-3F3A-AE85-1719-330CAEA4190D}</Project>
+      <Project>{D80AC983-5BE7-58AD-995E-1A5035B50B1E}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
     <ProjectReference Include="Assembly-CSharp-Editor-firstpass.csproj">
-      <Project>{1D5C2422-0D91-A274-C7F1-80C8BC3811D9}</Project>
+      <Project>{BAF89A18-261C-57EB-4520-DCA926B3F880}</Project>
       <Name>Assembly-CSharp-Editor-firstpass</Name>
     </ProjectReference>
     <ProjectReference Include="SmartHospital.csproj">
-      <Project>{8B0BF2CC-5617-FE1E-421E-BAE702B99B50}</Project>
+      <Project>{B1EE7FF2-3556-FE96-D2DF-9044FCB1A359}</Project>
       <Name>SmartHospital</Name>
     </ProjectReference>
     <ProjectReference Include="CIHttpClient.csproj">
-      <Project>{5E399100-01D2-E3A5-E862-AD6C6B37E8A8}</Project>
+      <Project>{6D91A7A1-4691-D997-765D-4A84752022B9}</Project>
       <Name>CIHttpClient</Name>
     </ProjectReference>
+    <ProjectReference Include="SteamVR_Actions.csproj">
+      <Project>{ADCE3579-B770-2BE8-53DB-760DB96D0944}</Project>
+      <Name>SteamVR_Actions</Name>
+    </ProjectReference>
     <ProjectReference Include="NavMeshComponentsEditor.csproj">
-      <Project>{7808A689-D99B-A163-2BAF-DB6D9CE353EA}</Project>
+      <Project>{5CCF18EE-4749-A0EB-BBD3-97EE6896C98E}</Project>
       <Name>NavMeshComponentsEditor</Name>
     </ProjectReference>
     <ProjectReference Include="NavMeshComponents.csproj">
-      <Project>{CE7CF47E-20C7-7CB7-E582-E07B10DF3627}</Project>
+      <Project>{7E7A0B5E-EF2D-270F-2321-FAEE56863F59}</Project>
       <Name>NavMeshComponents</Name>
     </ProjectReference>
+    <ProjectReference Include="SteamVR_Input_Editor.csproj">
+      <Project>{518C0E3C-9A08-DC92-0A19-646B9B2B5B46}</Project>
+      <Name>SteamVR_Input_Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="SteamVR_Editor.csproj">
+      <Project>{4C56D88E-4B31-34B7-77BF-590B1B618FAE}</Project>
+      <Name>SteamVR_Editor</Name>
+    </ProjectReference>
     <ProjectReference Include="ZFBrowser.csproj">
-      <Project>{EA51478C-9832-6DED-1165-27E9FE4BFE70}</Project>
+      <Project>{2827315A-363E-F321-67ED-DB31491EA9AE}</Project>
       <Name>ZFBrowser</Name>
     </ProjectReference>
+    <ProjectReference Include="SteamVR.csproj">
+      <Project>{33A7E1BA-FFEE-599F-88FC-1566FF578886}</Project>
+      <Name>SteamVR</Name>
+    </ProjectReference>
     <ProjectReference Include="ZFBrowser-Editor.csproj">
-      <Project>{4C5369F1-52A9-4738-E14D-95231C02E205}</Project>
+      <Project>{A30D688A-2BD8-2051-A8F3-4F741A578DAB}</Project>
       <Name>ZFBrowser-Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="SteamVR_Windows_EditorHelper.csproj">
+      <Project>{21509427-0639-D0F6-1D0E-A62EBE3A2346}</Project>
+      <Name>SteamVR_Windows_EditorHelper</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

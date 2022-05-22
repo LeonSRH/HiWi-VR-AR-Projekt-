@@ -1,4 +1,20 @@
 Base path: 'D:/UnityEd/2019.2.12f1/Editor/Data', plugins path 'D:/UnityEd/2019.2.12f1/Editor/Data/PlaybackEngines'
 Cmd: initializeCompiler
-Cmd: compileSnippet
-  api=4 type=1 insize=1325 outsize=2606 kw=UNITY_PASS_DEFERRED LIGHTPROBE_SH _EMISSION UNITY_HDR_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_RGBM_ENCODING ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5032 outsize=4117 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1435 outsize=1557 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3532 outsize=2521 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=18731 outsize=10714 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3174 outsize=375 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1864 outsize=1385 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1505 outsize=1455 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2343 outsize=1334 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2120 outsize=1000 ok=1

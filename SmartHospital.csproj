@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{8B0BF2CC-5617-FE1E-421E-BAE702B99B50}</ProjectGuid>
+    <ProjectGuid>{B1EE7FF2-3556-FE96-D2DF-9044FCB1A359}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>SmartHospital</AssemblyName>
@@ -99,13 +99,13 @@
      <Compile Include="Assets\Scripts\SmartHospital\Services\Json\TagJsonService.cs" />
      <None Include="Assets\Scripts\SmartHospital\SmartHospital.asmdef" />
  <Reference Include="UnityEditor.UI">
- <HintPath>D:/Smart Hospital/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Tilemap.Editor">
- <HintPath>D:/Smart Hospital/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>D:/Smart Hospital/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>D:/UnityEd/2019.2.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -294,70 +294,55 @@
  <HintPath>D:/UnityEd/2019.2.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="PackageManagerAssembly">
- <HintPath>D:/Smart Hospital/Assets/Other/EffectExamples/Editor/PackageManagerAssembly/PackageManagerAssembly.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Assets/Other/EffectExamples/Editor/PackageManagerAssembly/PackageManagerAssembly.dll</HintPath>
  </Reference>
  <Reference Include="ExcelDataReader">
- <HintPath>D:/Smart Hospital/Assets/Packages/ExcelDataReader.3.6.0/lib/net45/ExcelDataReader.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Assets/Packages/ExcelDataReader.3.6.0/lib/net45/ExcelDataReader.dll</HintPath>
  </Reference>
  <Reference Include="ExcelDataReader.DataSet">
- <HintPath>D:/Smart Hospital/Assets/Packages/ExcelDataReader.DataSet.3.6.0/lib/net35/ExcelDataReader.DataSet.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Assets/Packages/ExcelDataReader.DataSet.3.6.0/lib/net35/ExcelDataReader.DataSet.dll</HintPath>
  </Reference>
  <Reference Include="Newtonsoft.Json">
- <HintPath>D:/Smart Hospital/Assets/Packages/Newtonsoft.Json.12.0.2/lib/netstandard2.0/Newtonsoft.Json.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Assets/Packages/Newtonsoft.Json.12.0.2/lib/netstandard2.0/Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="Substance.Game">
- <HintPath>D:/Smart Hospital/Assets/Plugins/Substance.Game.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Assets/Plugins/Substance.Game.dll</HintPath>
  </Reference>
  <Reference Include="System.Deployment">
- <HintPath>D:/Smart Hospital/Assets/Plugins/System.Deployment.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Assets/Plugins/System.Deployment.dll</HintPath>
  </Reference>
  <Reference Include="System.Windows.Forms">
- <HintPath>D:/Smart Hospital/Assets/Plugins/System.Windows.Forms.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Assets/Plugins/System.Windows.Forms.dll</HintPath>
  </Reference>
  <Reference Include="ConsoleE">
- <HintPath>D:/Smart Hospital/Assets/Plugins/ConsoleE/Editor/ConsoleE.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Assets/Plugins/ConsoleE/Editor/ConsoleE.dll</HintPath>
  </Reference>
  <Reference Include="System.Data">
- <HintPath>D:/Smart Hospital/Assets/Plugins/DLL/System.Data.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Assets/Plugins/DLL/System.Data.dll</HintPath>
  </Reference>
  <Reference Include="JetBrains.Rider.Unity.Editor.Plugin.Repacked">
- <HintPath>D:/Smart Hospital/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll</HintPath>
  </Reference>
  <Reference Include="websocket-sharp">
- <HintPath>D:/Smart Hospital/Assets/Plugins/Substance/Livelink/Editor/Plugins/websocket-sharp.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Assets/Plugins/Substance/Livelink/Editor/Plugins/websocket-sharp.dll</HintPath>
  </Reference>
  <Reference Include="Substance.Editor">
- <HintPath>D:/Smart Hospital/Assets/Plugins/Substance/Substance Engine/Editor/Substance.Editor.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Assets/Plugins/Substance/Substance Engine/Editor/Substance.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Substance.Reflection">
- <HintPath>D:/Smart Hospital/Assets/Plugins/Substance/Substance Engine/Editor/Substance.Reflection.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Assets/Plugins/Substance/Substance Engine/Editor/Substance.Reflection.dll</HintPath>
  </Reference>
  <Reference Include="SourceUnityLib">
- <HintPath>D:/Smart Hospital/Assets/Plugins/Substance/Substance Source/Editor/SourceUnityLib.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Assets/Plugins/Substance/Substance Source/Editor/SourceUnityLib.dll</HintPath>
+ </Reference>
+ <Reference Include="Valve.Newtonsoft.Json">
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Assets/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="BehaviorDesigner.Editor">
- <HintPath>D:/Smart Hospital/Assets/Tools/Behavior Designer/Editor/BehaviorDesigner.Editor.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Assets/Tools/Behavior Designer/Editor/BehaviorDesigner.Editor.dll</HintPath>
  </Reference>
  <Reference Include="BehaviorDesigner.Runtime">
- <HintPath>D:/Smart Hospital/Assets/Tools/Behavior Designer/Runtime/BehaviorDesigner.Runtime.dll</HintPath>
- </Reference>
- <Reference Include="ProBuilderCore-Unity5">
- <HintPath>D:/Smart Hospital/Assets/Tools/ProCore/ProBuilder/Classes/ProBuilderCore-Unity5.dll</HintPath>
- </Reference>
- <Reference Include="ProBuilderMeshOps-Unity5">
- <HintPath>D:/Smart Hospital/Assets/Tools/ProCore/ProBuilder/Classes/ProBuilderMeshOps-Unity5.dll</HintPath>
- </Reference>
- <Reference Include="KdTreeLib">
- <HintPath>D:/Smart Hospital/Assets/Tools/ProCore/ProBuilder/Classes/ClassesLib/KdTreeLib.dll</HintPath>
- </Reference>
- <Reference Include="pb_Stl">
- <HintPath>D:/Smart Hospital/Assets/Tools/ProCore/ProBuilder/Classes/ClassesLib/pb_Stl.dll</HintPath>
- </Reference>
- <Reference Include="Poly2Tri">
- <HintPath>D:/Smart Hospital/Assets/Tools/ProCore/ProBuilder/Classes/ClassesLib/Poly2Tri.dll</HintPath>
- </Reference>
- <Reference Include="ProBuilderEditor-Unity5">
- <HintPath>D:/Smart Hospital/Assets/Tools/ProCore/ProBuilder/Editor/ProBuilderEditor-Unity5.dll</HintPath>
+ <HintPath>D:/HiWi-VR-AR-Projekt-/Assets/Tools/Behavior Designer/Runtime/BehaviorDesigner.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>D:/UnityEd/2019.2.12f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -719,7 +704,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="CIHttpClient.csproj">
-      <Project>{5E399100-01D2-E3A5-E862-AD6C6B37E8A8}</Project>
+      <Project>{6D91A7A1-4691-D997-765D-4A84752022B9}</Project>
       <Name>CIHttpClient</Name>
     </ProjectReference>
   </ItemGroup>
