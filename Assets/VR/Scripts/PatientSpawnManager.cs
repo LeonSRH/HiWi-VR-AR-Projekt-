@@ -29,7 +29,7 @@ public class PatientSpawnManager : MonoBehaviour
 
     private void HandleSpawn()
     {
-        time = 0;
+        //time = 0;
         //spawninterval = Random.Range(10, 20);
         Patient.SetActive(true);
         Stopwatch.StartStopWatch();

@@ -13,14 +13,14 @@ MonoBehaviour:
   m_Name: BehaviorDesignerGlobalVariables
   m_EditorClassIdentifier: 
   mVariableData:
-    variableStartIndex: 00000000
+    variableStartIndex: 
     JSONSerialization: 
     fieldSerializationData:
       typeName: []
-      fieldNameHash: f9be55564aaa52567707a104b55e65f0
-      startIndex: 00000000010000000200000003000000
-      dataPosition: 00000000290000003400000035000000
+      fieldNameHash: 
+      startIndex: 
+      dataPosition: 
       unityObjects: []
-      byteData: 4265686176696f7244657369676e65722e52756e74696d652e53686172656447616d654f626a65637444657374696e6174696f6e0101
-      byteDataArray: 4265686176696f7244657369676e65722e52756e74696d652e53686172656447616d654f626a65637444657374696e6174696f6e0101
+      byteData: 
+      byteDataArray: 
   mVersion: 1.6.2

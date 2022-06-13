@@ -1110,6 +1110,8 @@
     <Compile Include="Assets\Tools\ZFBrowser\Demo\Scripts\VRBrowserPanel.cs" />
     <Compile Include="Assets\Tools\ZFBrowser\Demo\Scripts\VRMainControlPanel.cs" />
     <Compile Include="Assets\Tools\ZFBrowser\Demo\Scripts\VRMode.cs" />
+    <Compile Include="Assets\VR\Scripts\ComputerRegistration.cs" />
+    <Compile Include="Assets\VR\Scripts\ConversationManager.cs" />
     <Compile Include="Assets\VR\Scripts\PatientSpawnManager.cs" />
     <Compile Include="Assets\VR\Scripts\Stopwatch.cs" />
     <None Include="Assets\Tools\ProCore\ProGrids\Shader\pg_GridShader.shader" />

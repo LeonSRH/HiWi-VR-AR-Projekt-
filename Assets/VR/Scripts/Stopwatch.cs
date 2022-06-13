@@ -34,7 +34,7 @@ public class Stopwatch : MonoBehaviour
 
     public void StopStopWatch()
     {
-        currentTime = 0;
+        //currentTime = 0;
         stopwatchActive = false;
     }
 }
