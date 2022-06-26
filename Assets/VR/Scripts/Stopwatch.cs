@@ -8,7 +8,7 @@ public class Stopwatch : MonoBehaviour
 {
 
     public bool stopwatchActive;
-    private float currentTime;
+    public float currentTime;
     [SerializeField] private TextMeshProUGUI currentTimeText;
     // Start is called before the first frame update
     void Start()

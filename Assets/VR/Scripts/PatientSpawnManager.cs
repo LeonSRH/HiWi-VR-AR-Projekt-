@@ -10,6 +10,7 @@ public class PatientSpawnManager : MonoBehaviour
     private int seconds; //used to check when spawninterval is equal
     [SerializeField] private GameObject Patient;
     [SerializeField] private Stopwatch Stopwatch;
+    [SerializeField] private Transform Spawnpoint;
     // Start is called before the first frame update
     void Start()
     {
@@ -30,9 +31,16 @@ public class PatientSpawnManager : MonoBehaviour
     private void HandleSpawn()
     {
         //time = 0;
-        //spawninterval = Random.Range(10, 20);
+        spawninterval = Random.Range(5, 7);
         Patient.SetActive(true);
         Stopwatch.StartStopWatch();
+    }
 
+    public void ResetPatient()
+    {
+        Patient.SetActive(false);
+        time = 0;
+        Patient.transform.position = Spawnpoint.position;
+        Stopwatch.currentTime = 0;
     }
 }

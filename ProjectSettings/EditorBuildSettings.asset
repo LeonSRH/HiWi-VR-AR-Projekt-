@@ -5,28 +5,28 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Scenes/MainScene.unity
     guid: 75ce7912c671bf8468da67abb0033b0f
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Scenes/Training/1_Floor_Level.unity
     guid: a0e8ae40d85256a4799c64805bb7ecff
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Scenes/DigitalSignage/OP_WMS_DoorSign.unity
     guid: ef94cc539b1f6da4b9028e0dcc1dba77
   - enabled: 0
     path: Assets/_Scenes/MobileScenes/MobileScene.unity
     guid: 8eb33e31381ba134f9735edf4631795d
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Scenes/DisplayListOfDevices.unity
     guid: 1b402aa6cb6c23e449fe279e884127da
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Scenes/PowerBIScene.unity
     guid: d52c4f922e88d014cbe1c10fcc6a9e8e
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Scenes/DoorSign.unity
     guid: 51d47711bebac2d479d2144632d458e5
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Scenes/PlanningScene.unity
     guid: 3b5bf0d8e446e934faf0dd668e8bc439
   - enabled: 0
@@ -35,7 +35,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/_Scenes/RoomControllingScene.unity
     guid: f9f7ae248ac6e924097d4ee05434e39f
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Scenes/LearningManagementScene.unity
     guid: f7b61d52f7f509f4e8a9c197e1db85c3
+  - enabled: 1
+    path: Assets/_Scenes/11012957Scene.unity
+    guid: 334c1f4c84b0e1b4cae6bb9ed29ae2da
   m_configObjects: {}
